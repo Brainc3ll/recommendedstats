@@ -1,12 +1,12 @@
--- GENERATED 2026-10-30 - do not hand-edit
+-- GENERATED 2026-10-31 - do not hand-edit
 RecommendedStatsData_Talents = {
     ["SHAMAN_ENHANCEMENT_MYTHICPLUS"] = {
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2MjZmNaW2GmhZ0gFAmtZMjxyyM2YmZbsMzMz8AmBzAAMDjZGGxMzMDGMGA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2MjZmNaW2GmhZ0gFAmlZMjxyyM2YmZbsMzMz8AmBzAAMDjZGGxMzMDGMGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxYZZGbMzsNWmZmZYGjZAAmhxMDjAzMYwYA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxYZZGYmZbsMzMzwMLjZAAmhxMDjAzMYwYA",
             ["n"] = 1,
         },
         {
@@ -14,39 +14,35 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxYZZGbMzglZmZmxMYGAgZYMzYGBmZwgxA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxYZZGbMzsNWmZmZYGMDAwMMmZMjAzMYwYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZZGbMzYmlZmZGGLjZAAmhxMDjAzMYwYA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2WmxMz2imlthZYmpBLAMbzYGjllZsxMzGLzMzMPgZWYGAgZYMzwImZmZwgxA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxMLLGbMzsMWm5BmZeAGjZAAmhxMDzEYmBDGDA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2WmxMz2mmlthZYmpBLAMbzYGjllZgZGjlZmZmxMLMDAwMMmZYEYmBDGDA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxYZZGbMzsNWmZmZGDMDAwMMmZYEYmBDGDA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC22mxMz2imlthZYmpBLAMbzYGzssMjNzMz2YZGzMYWGzAAMDjZGGxMzMDGMGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZZGbMzsNWmZmZYsMmBAYGGzMMCMzgBjB",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxMLLGbMzsMWm5BmZeAsMmBAYGGzMMTgZGMYMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxMLLzYxMzswyMmZGYMDAwMMmZMjAzMYwYA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxYZZGYmZjlZmZmxYhZAAmhxMDzEYmBDGDA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZxYbMzsxyMzMzwYMDAwMMmZYEYmBDGDA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZZGbMzsNWmZmZYGjZAAmhxMDjAzMYwYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDLkFYGGawCAWmxMGLLzYjZmFz2MzMDDjZAAmhxMjZmAzMYwYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC22mxMz2imlthZYmpBLAMbzYmZmllZsYmZ2YZmZmBMmBAYGGzMMiZmZGMYMA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxMLLzYhZGjlZMzwYZMDAwMMmZMzEYmBDGDA",
             ["n"] = 1,
         },
         {
@@ -54,7 +50,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2WmxMz2imlthZYmpBLAMbzYGzssMjNzMDWm5BmZGGDDAwMMmZYmYmZmBDGDA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZxYjZmtxyMzMDzsMmBAYGGzMMCMzgBjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2WmxMz2imlthZYmpBLAMbzYGzssMjNzMjxyMPwMzADDAwMMmZYmYmZmBDGDA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wG22mxMz2mmllhZYmpBLAMLzYGjlFjFmZ2GLzMzMjxCzAAMDjZGGxMzMDGMGA",
             ["n"] = 1,
         },
         {
@@ -62,11 +66,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2WmxMz2mmlthZYmpBLAMbzYGjllZsxMjxyMzMzYswMAAzwYmhRgZGMYMA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC22mxMz2imlthZYmpBLAMLzYGjFzYjZmNWmZmZeAzYMDAwMMmZYmYmZmBDGDA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC22mxMz2imlthZYmpBLAMLzYGjFzYjZmtxyMzMzDYGjZAAmhxMDjYmZmBDGDA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZZGbMzYsMzMzMGYGAgZYMzwMBmZwgxA",
             ["n"] = 1,
         },
         {
@@ -74,11 +78,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZZGbMzsNWmZmZYYMDAwMMmZYmAzMYwYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC22mxMz2imlthZYmpBLAMLzYGjllZgZGsMzMzMmZZMDAwMMmZYEYmBDGDA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZZGbMzsxyMzMDzYMDAwMMmZYmAzMYwYA",
             ["n"] = 1,
         },
     },
@@ -108,7 +108,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2MjZmNaW2GmhZ0gFAmtZMjxyyM2YmZbsMzMz8AmBzAAMDjZGGxMzMDGMGA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxYZZGbMzsNWMzMzDYswMAAzwYmhZCMzgBjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2wC2MjZmNaW2GmhZ0gFAmlZMjxyyM2YmZbsMzMz8AmBzAAMDjZGGxMzMDGMGA",
             ["n"] = 1,
         },
         {
@@ -120,7 +124,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxMLLzYxMzswyMmZGYMDAwMMmZMjAzMYwYA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxMLLzYhZGjlZMzwYZMDAwMMmZMzEYmBDGDA",
             ["n"] = 1,
         },
         {
@@ -140,31 +144,35 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmZGLLzYhZGsMzMzwwYGAgZYMzYmJwMDGMGA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYbxYjZmtxyMzMzglxMAAzwYmhRgZGMYMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZxYbMzsxyMzMzwYMDAwMMmZYEYmBDGDA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZxYjZmtxyMzMzglxMAAzwYmhRgZGMYMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDLkFYGGawCAzyMmxYZZGYmZbsMzMzMGGzAAMDjZGGBmZwgxA",
+            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDLkFYGGawCAzyMmxYZZGbMzsNWmZmZGDjBAwMMmZYEYmBDGDA",
             ["n"] = 1,
         },
         {
             ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDLkFYGGawCAz2MmxYZZGbMzsNWmZmZeADjZAAmhxMDjAzMYwYA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAz2MmxYZxYjZmtxyMzMzYswMAAzwYmhRgZGMYMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcQALMl7AwW51MWzGneuHE3tPOzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbkFYGGawCAzyMmxYZZGYmZjlZmZmxYZMDAwMMmZYEYmBDGDA",
-            ["n"] = 1,
-        },
     },
     ["MONK_MISTWEAVER_MYTHICPLUS"] = {
+        {
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZADGwYmZmhZDzwsMTAAAAAEgFbzsNbzMgAAYMAzAGDsIjZA",
+            ["n"] = 3,
+        },
+        {
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYmpZMDYwAYmZmhZDzglZCAAAAgAsYbmtZbmBEAMYMAzAGDsIjZA",
+            ["n"] = 2,
+        },
         {
             ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZADGwYmZmhZDzwsMTAAAAgZbab2mZZWsNz2sNzACAgxMzgZAjBWkxMA",
             ["n"] = 1,
@@ -174,19 +182,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZAjxAYmZmhZDzwsMTAAAAgZbab2mZZWsNz2sNzACAgxMzgZADYWkxMA",
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzM2YMNjZAjxAYmZmhZDzwsMTAAAAgZbab2mZZWsNz2sNzACAgxMzgZADYWkxMA",
             ["n"] = 1,
         },
         {
             ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLPwEAAAAABYx2MLz2MDIAYwAwMgxALyYGA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghxyMLjZZ2MmZ2WMghZbMbWmZswQzYGwghBLzMzMMbDzwsMTAAAAAEgFbzsNbzMgAgBMAzAGgFZMDA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZADGwYmZmhZDzwsMTAAAAAEgFbzsNbzMgAAYMAzAGDsIjZA",
             ["n"] = 1,
         },
         {
@@ -202,15 +202,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgxMWmBzitZMzstZgZY2Mz2yyMjFGTzYGwgBwMzMDzCmhZZmAAAAAIAL2mZb2mZABADGDwMgxALyYGA",
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZMLz2MmZ22MwMMbMbLLzMWYMNjZAjxAYmZmhZDzwsMTAAAAAEgFbzsNbzMgAAYMAzAGwsIjZA",
             ["n"] = 1,
         },
         {
             ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYGNjZADGAzMzMMbDzwsMTAAAAgZbab2mZZWsNz2sNzACAGMmZGMDYAWkxMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2YZYzixMzyyM2wYGmZZZbmxCzoZMDYwgxsMzMzwsNYwiJAAAAACwilZWmtZGQAwAGgZAjhxiMmBA",
             ["n"] = 1,
         },
         {
@@ -226,19 +222,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2YZYzixMzyyM2wYGmZZZZmxCzoZMDYwAsMzMzwsNYYWmJAAAAwsNtMLzsMLWmZZ2mZABADYmZwMgxALyYGA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYmpZMDYMGwYmZmhZDGs8ATAAAAgZbab2mZbWsNz2sNzACAGMmZGMDYMwiMmBA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgB2mZZML2mxMz2mBM8AbzMbLLzMWMzMNjZADGGGzMzMMbwgFTAAAAgZbab2mZZWsNz2sNzACAGMmZGMDYMwiMmBA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYmpZMDYwAYmZmhZDzglZCAAAAgAsYbmtZbmBEAMYMAzAGDsIjZA",
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgB2mZZML2mxMz2mBmhZzMbLLzMWMzMNjZADGGGzMzMMbwgFTAAAAgZbab2mZZWsNz2sNzACAGMmZGMDYMwiMmBA",
             ["n"] = 1,
         },
         {
@@ -248,15 +236,19 @@ RecommendedStatsData_Talents = {
     },
     ["MONK_MISTWEAVER_RAID"] = {
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2YZYzixMzyyM2wYGmZZZbmxCzoZMDYwgxsMzMzwsNYwiJAAAAACwilZWmtZGQAwAGgZAjhxiMmBA",
-            ["n"] = 2,
-        },
-        {
             ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2YZYzixMzyyM2wYGmZZZZmxCzoZMDYwgxsMzMzwsNYwiJAAAAACwilZWmtZGQAwAGgZAjhxiMmBA",
             ["n"] = 2,
         },
         {
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2YZYzixMzyyM2wYGmZZZbmxCzoZMDYwgxsMzMzwsNYwiJAAAAACwilZWmtZGQAwAGgZAjhxiMmBA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2MwmFzYmllZshZmhZWW2mZsxQzYGwgZDmlZmZGmtBDziJAAAAACwilZWmtZGQAwAGgZAjhxiMmBA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZADGwYmZmhZDzwsMTAAAAAEgFbzsNbzMgAAYMAzAGDsIjZA",
             ["n"] = 1,
         },
         {
@@ -264,7 +256,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2YZYzixMzyyM2wYGmZZZbmxCzoZMDYwghlZmZGmlBDWMBAAAAQAWsMzysNzACAGwAMDYMMWmMmBA",
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZAjxAYmZmhZbwwsMTAAAAAEgFbzsMbzMgAgBjBYGwAsIjZA",
             ["n"] = 1,
         },
         {
@@ -280,11 +272,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2MLDbWMmZWWG2wYGmZZZbmxCDNjZADGwsMzMzwsMYYWegJAAAAACwilZWmtZGQAwAGgZAjhxiMmBA",
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2YZYzixMzyyM2wYGmZZZbmxCDNjZADGwsMzMzwsNYYWegJAAAAACwilZWmtZGQAwAGgZAjhxiMmBA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZAjxAYmZmhZDzwsMTAAAAgZbab2mZZWsNz2sNzACAgxMzgZADYWkxMA",
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzM2YMNjZAjxAYmZmhZDzwsMTAAAAgZbab2mZZWsNz2sNzACAgxMzgZADYWkxMA",
             ["n"] = 1,
         },
         {
@@ -304,6 +296,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2MwmFzYmllZshZmhZW22mZswMaGzAGMYMLzMzMMbDGsYCAAAAgAsYZmlZbmBEAMgBYGwYYsIjZA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2MwmFzYmllZshZmhZWW2mZswQzYGwghZYZmZmhZBGmlHYCAAAAgAsYZmlZbmBEAMYMAzAGDsIjZA",
             ["n"] = 1,
         },
@@ -312,21 +308,17 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2YZYzixMzyyM2wYGmZZZbmxCzoZMDYwgxsMzMzwsNYwyDMBAAAAQAWsMzysNzACAGwAMDYMwiMmBA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAghx2MwmFzYmllZshZmhZWWWmZswMaGzAGMALzMzMMbDGsMTAAAAAEgFLzsMbzMgAgBMAzAGDjFZMDA",
+            ["code"] = "C4QAQnG51S19isUJoJoTeJ/IKDAAAAAAAgBWmZZML2mxMz2mBmhZzMbbLzMWYmpZMDYMGAzMzMMbYGsMTAAAAAEgFbzsMbzMgAAYMAzAGwsIjZA",
             ["n"] = 1,
         },
     },
     ["PALADIN_PROTECTION_MYTHICPLUS"] = {
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZ2WGjZZWmlZMAADAAAAAAaamZbmxMzY8AbtBgBGwMYDAAMz02MzyMzMLbLtMzYxyGGAwMMGAMzsNDwMDYsA",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZZmxMYMbtBgBGwMYDAAMz02Mz2MzMLbLtMzYxyCGAwMbGDAmZ2mBYmBMWA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDjHYrNAMwAmBbAAgZm2mZ2mZmZZbplZGLWWYGAwMbYAwMz2MAzMgxC",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDjHYrNAMwAGYDAAMz02Mz2MzMLbLtMzYzyCzAYwMbYAwMz2MAzMgxC",
             ["n"] = 1,
         },
         {
@@ -334,23 +326,27 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzMzMzMWWGjZZMLzYAAGAAAAAA00MzyMjZGGzWbAYgBMwGAAYmptZmlZmZW2WaZmxilFmBAMzGGAMzsNDwMDYsA",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGz8AzMzMzyyYMLjZZGDAwAAAAAAgmmZWmZMzw4B2aDADMgB2AAAzMtNzsMzMzy2SLzMWsswMAGMzGGAMzsNDwMDYsA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDjZrNAMAwMYDAAgAMzsss0yMjFLLYAMYGGDAmZAwMDYsB",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDjZrNAMwAmBbAAAEgZmlllWmZsYZBDAYGGDAmZAwMDYsA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGz8AzMzMzy2YMLjZZGDAwAAAAAAgmmZMzYmhxs1GAGYADsBAAmZabmZZmZmltlWmZsYZhZAMYGGDAmZWmBYmBMWA",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGz8AzMzMzyyYMLjZZGDAwAAAAAAgmmZMzYmhxs1GAGYADsBAAmZabmZZmZmltlWmZsYZhZAMYGGDAmZWmBYmBMWA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZZmxMDjHYrNAMwAGYDAAgAMzsst0yMjFLLMDgBzshBAzMAYmBMWA",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDjHYrNAMwAmBbAAAEgZmltlWmZsYZBDgBzwYAwMDAmZAjN",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDDbtBgBGwMYDAAgAMzsst0yMjFbLMDgBzshBAzMAYmBMWA",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDjHYrNAMwAGYDAAgAMzsst0yMjFLLMDgBzshBAzMAYmBMWA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZZmxMDjZrNAMwAmBbAAgZm2mZ2mZmZZbplZGLWWwAAmhxAgZGAMzAGL",
             ["n"] = 1,
         },
         {
@@ -358,15 +354,31 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzMzMzMWWGjZZMLzYAAGAAAAAA00MzyMjZGGPwWbAYgBMD2AAAzMtNzsNzMzyySLzMWsswMAgZYMAYmZbGgZGwYB",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzMzMzMW2GjZZMLzYAAGAAAAAA00MzyMjZGGPwWbAYgBMD2AAAzMtNzsNzMzyySLzMWsswMAgZYMAYmZbGgZGwYB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZZmxMYMbtBgBGwMYDAAMz02Mz2MzMLbLtMzYxyCGADmhxAgZmtZAmZAjF",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMYMbtBgBGwMYDAAMz02Mz2MzMLbLtMzYxyCGADmhxAgZmtZAmZAjF",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzMzMzMW2GjZZMLzYAAGAAAAAA00MzyMjZGGzWbAYgBMwGAAABYmZZbplZGLWWYGAwMMGAMzAgZGwYB",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZxMmBjZrNAMwAGYDAAMz02Mz2MzMLbLtMzYxyCzAgxMMGAMzAwMzAGL",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZZmxMYMbtBgBGwAbAAAEgZmltlWmZsYZhZAMYmNMAYmBAzMgxC",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlhBAYAAAAAAQTzMLzMmZYMbtBgBGwAbAAAEgZmltlWmZsYZhZAMYwMDAmZAwMDYsA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDjZrNAMwAGYDAAgAMzsss0yMjFLLYAMYGGDAmZAwMDYsA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDjZrNAMwAGYDAAMz02MzyMzMLbLtMzYxyCzAAmhxAgZmlZAmZAjF",
             ["n"] = 1,
         },
         {
@@ -378,27 +390,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzMzMzM2WGjZZMLzYAAGAAAAAA00MzyMjZwY2aDADAMwGAAYmptZmlZmZW2WaZmxilFmBwgZ2MGAMzsMDwMDYsA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZeAzyYmHYmZmxyyYMLjZZGDAwAAAAAAgmmZMzYGMmt2AwADYgNAAwMTbzMLzMzsst0yMjFLLMDAGzwYAwMz2MgZmBM2A",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamxMjZGGzWbAYgBMwGAAYmptZmlZmZW2WaZmxilFmBwgZYMAYmZZGgZGwYD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMDDbtBgBGwMYDAAgAMzsst0yMjFLLMDgBzshBAzMAYmBMWA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzYmZmZWWGjZZWmlZMAADAAAAAAaamZZmxMYMbtBgBGwMYDAAMz02Mz2MzMLbLtMzYxyCzAAmhxAgZGAMzAGL",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZsNLjZmZmZGLLjxYMLzYAAGAAAAAA00MzyMjZmxwWbAYgBMwGAAABYmZZbplZGLWWwAYwMLGDAmZAwMDYsB",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZYWGzMzMzMWWGjZZMLzYAAGAAAAAA00MzyMjZwY2aDADAMwGAAYmptZmlZmZW2WaZmxilFmBwgZ2MGAMzsMDwMDYsA",
             ["n"] = 1,
         },
     },
@@ -432,11 +424,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsNzY2mZMzYmhlxwywywAAAAAAAAApZmlZGzMjxs1GAGYADsBAAQAmZWWWaZmxitNmBWYwMMGAMzAgZGwYB",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZsNLjZMzMzMLLjxYWmlZMAADAAAAAAaamZZmxMDDbtBgZwAmBbAAAEgZmltlWmZsYZBD2AMDjBAzMAYmBMWA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsNzDYWmZMzMzMsMYWGWGGAgBAAAAAApZmlZGzgZmt2AwADYGsBAAQAmZW2WaZmxitNMAGjZYMAYmBAzMgxC",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsNzYWmZGzMzMsMGWGWmxAAMAAAAAAINzYmxMzY8AbtBgBGwMYDAAMz02MzyMzMLbLtMzYx2GzAYMmhxAgZmlZAmBYsA",
             ["n"] = 1,
         },
         {
@@ -449,10 +441,6 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsZegtZZMjZmZmZZbMmlxsMjBAYAAAAAAQTzMLzMmZYYrNAMwAmBbAAgZm2mZWmZmZZbplZGLWWYGADmZDDAmZWmBYmBMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsNDzyMDzMzMsMGzysMLzYAAAAAAAAgmmZMzYmhxs1GAGAYGsBAAQAmZW2WaZmxitNMAGjZYmBAzMAYmBMWA",
             ["n"] = 1,
         },
         {
@@ -472,7 +460,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsNDzyMzMzMzMsMGWGWGGAAAAAAAAopZmlZGzMjxs1GAGYAzgNAAACwMzy2SLzMWsthBwgZYMAYmBAzMgxC",
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsNDzy8AzMzMzM2WGDLDbDDAAAAAAAA00MzyMjZmxY2aDADMgZwGAAABYmZZbplZGL22wAYwMMGAMzAgZGwYB",
             ["n"] = 1,
         },
         {
@@ -483,6 +471,10 @@ RecommendedStatsData_Talents = {
             ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsNDzyYMzMzM2WGjZZWsNjBAYAAAAAAQTzMLzMmZYYrNAMwAmBbDAAgAMzsst0yMjFLbMgFYMWGGAMzAgZGwYB",
             ["n"] = 1,
         },
+        {
+            ["code"] = "CIEAzbn3egSOtoSwvPw1U1vTLsNDzy8Az8AzMzM2WGjZZYZGDAwAAAAAAg0MziZMzwY2aDADMgB2AAAzMtNzsNzMzyySLzMWssxMAYMDzMAYmBAzMgxC",
+            ["n"] = 1,
+        },
     },
     ["HUNTER_SURVIVAL_MYTHICPLUS"] = {
         {
@@ -490,7 +482,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgNjZmxwyAAAAAAwMmZmBjxMmZYMNDAAAwAgZssMzMLmZmZmZmBAmxCYMmxmBA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxY2mHAAAAAAwMmZmx2MGzYG2GTzAAAAMAwMLLzMWwMzwMjBgZsBGjZmNDA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYbmZmZMmtZAAAAAAMjZmZwYMjZYZMNDAAAwAAjllZGLYmZMjxAmZbGbwMGzMLGAA",
             ["n"] = 1,
         },
         {
@@ -498,19 +494,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYbmZmZMzsNDAAAAAgZMzMDzYMjZYZMNDAAAAAwssNzYZYmhZMGwMbzYDmxwMbGAA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYzYmZMsMAAAAAAMjZmZwYMjZwQzAAAAAAzYZZmZWYmZmZmZAMz2MWYWmxYmZzAA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgNjZmxwyAAAAAAwMmZmhZMmxMYMNDAAAAAMzssMz8ALMzMzMzMGAmxCYMmZ2MAA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYbmZmZMmt5BAAAAAAMjZmZsNjxMmBjpZAAAAGAYmllZGLYmZMjxAmZbGbgxYmZzAA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxY2mBAAAAAwMmZmxmxYGzgx0MAAAADAMWWmZsgZmxMzYAYGbgxYmZzAA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZZ0stMMDzMNYbmZmZMzsNPAAAAAAgZMzMDGPgZMDGTzAAAAMAALbzMWMmZmZGzMgZWmx2GMGzMbGAA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqM2wMzYmZZ0stMMDzMNYbGzMMmtZAAAAAAMDjhFjxMzMYoZAAAAGAgltZMLmZmZmZMzAmZZGbLsMjxMzmBA",
             ["n"] = 1,
         },
         {
@@ -522,19 +514,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYbmZmZMmtZAAAAAAMjZmZwYMjZYZMNDAAAwAAjltZGLYmZMjxAmZbGbwMGzMbGAA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYbmZmZMmt5BAAAAAAMjZmZsZMmxMYMNDAAAwAAzssMzYBzMjZMGwMbzYDmxYmZzAA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYbmZmZmxsNAAAAAAMjZMjNjxMmhlx0MAAAADAMzyyMjFMzMmxYAzsNjNYGjZmNDA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxMz2MAAAAAAmxMzM2mxwYG2GTzAAAAMAALbzMWGmZGzYMAMjNwYYmNDA",
             ["n"] = 1,
         },
         {
             ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxox2AYmgtZmZmZGz28AAAAAAAmZmxM2MGzYmhHw0MAAAADAMWWmZsgZmxMGDAzYDmxYmZzAA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgNjZmxwyAAAAAAwMmZmZxMGzYGMmmBAAAYAwMzyyMzDswMzMjZmBAzYDMGzMbGAA",
             ["n"] = 1,
         },
         {
@@ -543,6 +531,10 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxMz2MAAAAAAmxMzMMjhxMsMmmBAAAYAAW2mZsgZmxMGDAzYDmxYmZxAA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxMz2MAAAAAAmxMzMMjxMmBjpZAAAAGAgltZGLzYmxYMzAwM2wixwMLGAA",
             ["n"] = 1,
         },
         {
@@ -580,10 +572,6 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgNzMzMGWGAAAAAAmxMzMYMmxMYMNDAAAwAgZssMzML8AzMzMjBAmxGzixYmZzAA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxMz2MAAAAAAmxMzM2mxYGzgx0MAAAADAwy2MjlZMzYegxYAYGbgxwMbGAA",
             ["n"] = 1,
         },
@@ -596,7 +584,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxMz2MAAAAAAmxMzM2MGzYGMmmBAAAYAAW2mZsMMzMmxYAYGbwMGmZzAA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxMz2MAAAAAAmxMzM2MGzYGWGTzAAAAMAALbzMWGmZGzYMAMjNwYYmNDA",
             ["n"] = 1,
         },
         {
@@ -604,7 +592,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxY2mHAAAAAAwMmZmx2MGzYGMmmBAAAYAgZWWmZsgZmZMGDAzYDLGjZmNDA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYbmZmZMmt5BAAAAAAMjZmZsNjxMmhlx0MAAAADAMzyyMjFMzMegxYAzsNjNwYMzsZAA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxY2mHAAAAAAwMmZmx2MGzYG2GTzAAAAMAwMLLzMWwMz4BGjBgZsBGjZmNDA",
             ["n"] = 1,
         },
         {
@@ -612,7 +604,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxY2mBAAAAAwMmZmxmxYGzwyYaGAAAgBAGLbzMWwMzYGjBgZsBGjZmFDA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZMzMGzyAAAAAAwMmZmZxMGzYGMmmBAAAYAwMzyyMzsgZmZegZGAYGLgxwYxAA",
             ["n"] = 1,
         },
         {
@@ -624,11 +616,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMgxMG2ILwMM0gFzMzMzMWGAAAAAAmxMzM2mxwYGWGTzAAAAMAYYZZm5BWYmZYGjBMzGAGjZmFDA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgNjZmxwyAAAAAAwMmZmhZMmxMYoZAAAAAgZssMzMLMzMzMzMDAmxyGMGzMbGAA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZZ0ssMMDzMNYxYmZMjlBAAAAAgZmZmZYGjZMDGaGAAAAAYGLLzMzCzMzMPwMDgZ2mxGzixYGbGAA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZZ0ssMMDzMNYxMzMjhlBAAAAAgZMzMDzYMjZwYaGAAAAAYGLLzMzCzMj5BmZAMz2M2YWMGzMbGAA",
             ["n"] = 1,
         },
         {
@@ -636,17 +628,21 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZMzMGzyAAAAAAwMzMmhZMmxMYMNDAAAwAgZmllZmZBzMzYmZGAmxCYMM2MAA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmxMz2MAAAAAAmxMzM2mxYGzgx0MAAAADAwy2MjlZMzYMmZAYGbwMGmhBA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWgBmxoxyAYmgtZmZmZGz28AAAAAAAmxMzM2MGzYGWGTzAAAAMAwYZZmxCmZGzYMAMjNwYMzsZAA",
+            ["code"] = "C8PAD57yiELKEty14ekTDtZEqMWwMzYmZb0ssMMDzMNYbmZmZMmt5BAAAAAAMjZmZYGjZMDbjpZAAAAGAYmllZGLYmZGjZGwMbzYDMGzMLGAA",
             ["n"] = 1,
         },
     },
     ["PRIEST_DISCIPLINE_MYTHICPLUS"] = {
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyMjxMzMMbzgZmZYGAAAAAAAAAADzyMjZmZG8AmZATzEzAmZBDhxsNAjBLAAwYmxYYmBYmZmgZA",
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyMjxMzMMbzgZmZYGAAAAAAAAAADzyMYmZGMmZATzEzAmZBDhxsMAjBLAAwYmZGDzMAzMzEMD",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMzMMmZbGMzMDzAAAAAAAAAAYMzyMYmZGMmZwmpZiZAzsghwY2GgxgFAAYMzYMYGgZmZCmB",
             ["n"] = 1,
         },
         {
@@ -654,31 +650,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyMjxMzMMbzgZmZYGAAAAAAAAAADzyMYmZGMmZATzEzAmZBDhxsMAjBLAAwYmZGDzMAzMzEMD",
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyMjxMzMMbzgZmZYGAAAAAAAAAAjZWmBzMzghZwmpZiZAzsghwYWGgxgFAAYMzDMjhZGgZmZCmB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBz8AmhZbmZmZmZAAAAAAAAAAYGWmBzMzwMMDYamYwMDACgZb22AjNDAAjZmZMMzgZGMTwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMGWmZmBDmZbmtZmZmxMDAAAAAAAAAgZYZGMzMDmZmBMNTjBYmNMEGzyAMGsAAAjxMjBzAMzMTwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMGzwMbzsNzMzMegZAAAAAAAAAAMMLzgZmZYGzMgpZiBYmFMEGzyAMGsAAAjZmZMYGgZmZCmB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMzDwyMjZmBMbzYmZGjZGAAAAAAAAAADzyMYmZGmxMDYamYwMzMbYIMmlZ2mtNjxYxAAwYmZGDmBzMzMzEMD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMmZGmZbGzMzMjHYGAAAAAAAAAADzyMYmZGbzYmBoZiBzMzsghwYWmZb2WMGjFDAAjZmZMYGMzMzMTwM",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMPwMwMbzsNzMzMegZAAAAAAAAAAMmZZGmZmZYGzMYz0MxgZmZWwQYMLzsNbbGjxiBAgxMPgxgBmZmZmJYG",
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMzMzwMbzYmZMDzAAAAAAAAAAYwyMMzMzwMMDYamYAmZBDhxsMAjBLAAwYmZGDzMAzMzEMD",
             ["n"] = 1,
         },
         {
@@ -686,11 +662,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsYYWmZMmZmhZbGzMzMDzAAAAAAAAAAYYWmBzMzgxMDYamYAmZBDhxsMAjBLAAwYmZGDzMAzMzEMD",
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMGzwMbzsNzMzMegZAAAAAAAAAAMMLzgZmZYGzMYz0MxAMzCGCjZZAGDWAAgxMzMGMDwMzIYG",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMzDwyMj5BmBMbzYmZmZMzAAAAAAAAAAYYWmBzMzwMMD2MNTMYmZmFMEGz2Mbz2mxYsYAAYMzMjBzgZmZmZCmB",
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMzDwyMjZmBmZbGzMzYMDAAAAAAAAAAjZWmBzMzwMmZATzEDmZmZDDhxsMz2stZMGLGAAGz8AzYwMYmZmZmgZA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMmZGmZbGzMzMjHYGAAAAAAAAAAjZWmBzMzwMmZwGNTMYmZmNMEGzyMbz2ixYsYAAYMzYMYGMzMzMTwM",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMPwMwMbzsNzMzMegZAAAAAAAAAAMmZZGmZmZYGzMYz0MxgZmZWwQYMLzsNbbGjxiBAgxMPgxgBmZmZmJYG",
             ["n"] = 1,
         },
         {
@@ -710,14 +694,6 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyYMmZmhZbGzMzY8AzAAAAAAAAAAYwyMMzMzwMmZATzEDmZmZBDhxsMz2stZMGLGAAGzMzYwMYmZmZmgZA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAghZZGMzMDzYmxgpZiBYmFMEGzyAMGsAAAjZmZMYGgZmRwM",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyMjxMzMMbzYmZGDzAAAAAAAAAAYYWmBzMzwMmZATzEDmZmZBDhxsMz2stZMGLGAAGzMzYwMYmZmZmgZA",
             ["n"] = 1,
         },
@@ -725,14 +701,34 @@ RecommendedStatsData_Talents = {
             ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMzDwyMj5BmZGMbzYmZmZYGAAAAAAAAAAjxyMYmZGmxMDYamYwMzMLYIMmlZ2mtNjxYxAAwYmxYYmBzMzMzEMD",
             ["n"] = 1,
         },
+        {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyMjxYmhZbGzMzMDzAAAAAAAAAAYMWmBzMzwMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmRwM",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyYMmZmhZbGzMzY8AzAAAAAAAAAAYMWmhZmZGmxMDYamYwMzMLYIMmlZ2mtNjxYxAAwYmHYGDmBzMzMzEMD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgxMLzgZmZYGzMYz0MxAMzCGCjZZAGDWAAgxMjxgZAmZGBzA",
+            ["n"] = 1,
+        },
     },
     ["PRIEST_DISCIPLINE_RAID"] = {
+        {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBzgZbmtZmZmZmBAAAAAAAAAgZYZGMzMDzYmBMNTzMYmBABwsNbLgxmBAgxYmxgZwMDGBD",
+            ["n"] = 2,
+        },
         {
             ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBz8AGmZbmZmZmZAAAAAAAAAAYGzyMYMzwMmZATz0MDmZAQAMbz2CYsZAAYMmZMYGMzgRwA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMGWmZmBDmZbmtZmZmxMDAAAAAAAAAgZYZGMzMDmZmBMNTjBYmNMEGzyAMGsAAAjxMjBzAMzMTwA",
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBz8AmhZbmZmZmZAAAAAAAAAAYGWmBzMzwMmZATz0YwMDACgZb22AjNDAAjxMjBzgZGMTwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMDzyMjxMzMMbzgZmZYGAAAAAAAAAADzyMYmZGMmZATzEzAmZBDhxsMAjBLAAwYmZGDzMAzMzEMD",
             ["n"] = 1,
         },
         {
@@ -741,10 +737,6 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBzMMMbzMzMzMDAAAAAAAAAAzwyMYmZmhxMD2MNTMYmBABwsNbLgxmBAgxMzMGMDmZwIYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBzgZbmtZmZmZmBAAAAAAAAAgZYZGMzMDzYmBMNTzMYmBABwsNbLgxmBAgxYmxgZwMDGBD",
             ["n"] = 1,
         },
         {
@@ -760,7 +752,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmxYmHwgZbmZmZmZAAAAAAAAAAYGz2MjZYGbzYmhFmmJGMzMzGGCjZbmtZbzYM2MAAMmZmxgZwMzMDBD",
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmxYmHwgZbmZmZmZAAAAAAAAAAYGz2MjZYGbzYmBbmmJGMzMzGGCjZbmtZbzYM2MAAMmZmxgZwMzMDBD",
             ["n"] = 1,
         },
         {
@@ -772,6 +764,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBzMwMbzMzMzMDAAAAAAAAAAzwyMYmZGmxMDYamYwMDACgZb22AjNDAAjZmZMYGMzgZCG",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmxYmHghZbmZmZmZAAAAAAAAAAYGWmBzMzgxMDYamYwMzMLYIMmlZ2mtFjxYzAAwYmZGDzMYmZmZmgB",
             ["n"] = 1,
         },
@@ -780,15 +776,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBzMGMbzMzMzMDAAAAAAAAAAzMz2MYmZGLGzMgpZiBzMzsghwYWmZb2WMGjNDAAjZMjBzgZmZmZCG",
+            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMegZ2gZmZmZgZbmZmxMAAAAAAAAAAYmZ2mBzMzYxYmBMNTAzMzsghwYWmZb2WMGjNDAAjZMjBzgZmZmZaGG",
             ["n"] = 1,
         },
         {
             ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBzgZbmtZmZmZmBAAAAAAAAAgZYZGMzMDzYmBMNTjBzMAIAmtZbBM2MAAMGzMGMDmZwMBD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBzMGMbzMzMzMDAAAAAAAAAAzwyMYmZGmhZATz0YwMDACgZb2WAjNDAAjxMjhZGMzgZCG",
             ["n"] = 1,
         },
         {
@@ -799,14 +791,14 @@ RecommendedStatsData_Talents = {
             ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDsMmxyYmBzgZbmtZmZmZmBAAAAAAAAAgZYZGMzMDzwMgpZamBzMAIAmtZbBM2MAAMGzMGmZwMDGBD",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CAQAR03Gt7xPmcDNOjs2Zlb3yCDswM2mZMzMz8AMbwMzMzMGAAAAAAAAAAzM2mBzMzgxMjxmpZiBzMAIAmtZbBM2MAAMmxMzgZwMDMBD",
-            ["n"] = 1,
-        },
     },
     ["MONK_BREWMASTER_MYTHICPLUS"] = {
         {
             ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAz2s0MzMbMsBmZmZYaMAAgB",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMMzGMmZmZY2YmxYZYZ7B22mNMLAAwysMtMbzsMAAQAMsBmZATjBAAMA",
             ["n"] = 1,
         },
         {
@@ -814,11 +806,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGY2mZ2YmZMAAAAAAALLYmYmBmhxGMmZmZY2GzMGLDLbzy2shZBAAWmlplZbmlBAY2mlmZmZbMsBmZmZYaAAAMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2YMmZmZY2YmxYZYZ7BW2mNMLAAwysMtMbzsMAAQAMsBmZATjBAAMA",
+            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBjwMwMM2MjxMzMjZ2YmxYZYZ7BW2mNMLAAwysMtMbzsMAAQAMsBmZATjBAAMA",
             ["n"] = 1,
         },
         {
@@ -830,7 +818,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAwMbbGzYGzyM2wMjBAAAAAAYZBmwMYmB2MMmZmZMzGzMmZZYZz22YGzCAAsNLTLz2MLDAwsNLNzMzGDbgZmZGmGDAAYA",
+            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMjZ2YmxYZYZ7B22mNMLAAwysMtMbzsMAAQAMsBmZATjBAAMA",
             ["n"] = 1,
         },
         {
@@ -854,11 +842,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBmwMYmBzmhxMzMDzGzMmZZYZ7B22mNMLAAwysMtMbzsMAAQAMsBmZATjBAAMA",
+            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMYmhxGwMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAz2s0MzMbMsBmZmZYaMAAgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBmYmBmhxGMmZmZMzGzMmZZYZ7B22mNMLAAwysMtMbzsMAAz2s0MzMLMsBmZATjBAAMA",
+            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAQAMsBmZATjBAAMA",
             ["n"] = 1,
         },
         {
@@ -879,10 +867,6 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMYmhZ2YwMzMDz2wMGLDLb22GzYWAAgNEAAgZbWamZmFzwGAzMMNGAAwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBjwMYmhxmZwMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAz2s0MzMLMsBmZmZYaMAAgB",
             ["n"] = 1,
         },
     },
@@ -928,15 +912,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAwMbbGzYGWmxGmZAAAAAAAYZBzEzMwMMzmBmZmZY2YmxMLDLb22mthZBAA2mlplZbmlBAY2mlmZmZxMsBmZmZYaMAAgB",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNEAAgZbWamZmFzwCAzMMNGAAwA",
             ["n"] = 1,
         },
         {
             ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAwMbbGDzwyM2wMjBAAAAAAYZBmwMwMM2MDmZmZY2GzMmZbYZz22sNjZBAA2QAAAmtZpZmZ2MDbAMzw0YAAAD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAz2s0MzMbMsBmZmZYaMAAgB",
             ["n"] = 1,
         },
         {
@@ -948,11 +932,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGzMWmxGmZMAAAAAAALLYEmBmhxmZwMzMDz2YmxMLDLb22mthZBAAWmlplZbmlBAACwMsBmZATjBAAMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAQAMsBmZATjBAAMA",
+            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGzMWmxGmZMAAAAAAALLYmwMYmhBDMzMzYmthZMzywymltZbGzCAAsMLTLz2MLDAAEADbgZGw0YAAAD",
             ["n"] = 1,
         },
         {
@@ -963,23 +943,19 @@ RecommendedStatsData_Talents = {
             ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAgZbzYGGzyM2YmZMAAAAAAALLYEzMwMM2YwMzMjZ2GmxMLDLbz22sNMLAAwysMtMbzsMAAQAMsBmZATjBAAMA",
             ["n"] = 1,
         },
+        {
+            ["code"] = "CwQAQnG51S19isUJoJoTeJ/IKDAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMM2MDmZmZY2YmxMLDLb22mtZMLAAw2sMtMbzsMAAz2s0MzMLMsBmZmZYaMAAgB",
+            ["n"] = 1,
+        },
     },
     ["WARRIOR_FURY_MYTHICPLUS"] = {
         {
             ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZmZMzMzMzMzDsMjxMjZzMzMAAQMW2GYBMBzwEYG2AmZYAAAmZYMLDjBjB",
-            ["n"] = 3,
+            ["n"] = 5,
         },
         {
             ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMz2yMzMzMzMmZmZmZm5BWmxYmxsZmZGAAIGLbDsAmgZYCMDbAzMMAAAzMMmlBGMG",
             ["n"] = 2,
-        },
-        {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMz2yMzMzMmxMzMzMzMPwyMGzMmNzMzAAAxYZbgFwEMDTgZYDYmhBAAYmhxsMMGMG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZmZMzMzMzMzsMMmZMbmZmBAAixy2ALgJYGmAzwGwMDDAAwMDjZZYMYM",
-            ["n"] = 1,
         },
         {
             ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZMz2yMzMzMmxMzMzMmZWmZGzMmlxMzAAAxMLbjNWssZmGzMDTmFmZsAYGMAgZGMzYwiZYwYA",
@@ -994,19 +970,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZmZMzMzMzMzDsMjxMjZzMzMAAQMzy2YjFLLmpxMzwkZhZYDYmhBAYmBzMMmlhxgxA",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZMjZmZmZGzsMjxMjZzMzMAAQMzy2YjFLLmpxMzwkZhZYDYmhxGAMzgZGGzywYwYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZmZWMjZmZMjZmZmZGzsMzMzMjZ5BmZmBAACDsBLLGNmBkZBzYBwMMDAYmBgBGDYM",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZMz2yMzMzMmxMzMzMzMzyMzYmxsMPwMzAAAhB2glFjGzAysgZsAYGMAgZGADYGgxA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMz2yMzMzMmxMzMzMjZWmxYmxsZmZGAAIGLbDsAmgZYCMDbAzMMAAAzMMmlhxgxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZMz2yMzMzMmxMzMzMzMzyMzYmxsMmZGAAImZZbsxilFz0YmZYyswMjFgZGGAgZGMzYwiBwYA",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZMzyyMzMzMmxMzMzMzMzyMzYmxsMmZGAAImZZbsxilFz0YmZYyswMjFgZGGAgZGMzYwiBwYA",
             ["n"] = 1,
         },
         {
@@ -1018,19 +990,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZMz2yMzMzMmxMzMzMzMzyMzYmxsMmZGAAIMwGssY0YGQmFMjFAzwMAgZGADWMAGD",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDzwMjlZmZmZMjZmZmZmZmlZMmZMbmZmBAAixy2AbgJYGmAzwGwMDjNAAYmhxYYMYM",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZYMzMzMzMzsMjxMjZzMzMAAQMW2GYBMBzwEYG2AmZ2M2AAgZGGjhxgxA",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMz2yMzMzMmxMzMzMzMPwyMGzMmNzMzAAAxYZbgFwEMDTgZYDYmhBAAYmhxsMMGMG",
             ["n"] = 1,
         },
         {
             ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDzMMzmZmZmZmZMzMzMzMzDsMjxMjZzMzMAAQMW2GYBMBzwEYG2AmZYAAAmZYMLDjBjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZMz2yMzMzMmxMzMzMzMzyMzYmxsMmZGAAIMwGssY0YGQmFMjFAzgBAMzAYwiZAGD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMz2yMzMzMmxMzMzMjZWmxYmxsZmZGAAIGLbDsAmgZYCMDbAzMMAAAzMMmlhxgxA",
             ["n"] = 1,
         },
     },
@@ -1044,15 +1020,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZMz2yMzMjZmxMzMzMzMzyMzYmxsMmZGAAIMwGssY0YGQmFMjFAzgBAMzAYwiZAGD",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZmZMzMzMzYmlZMmZMbmZmBAAixy2ALgJYGmAzwGwMDDAAwMDjZZYMYM",
+            ["n"] = 2,
+        },
+        {
             ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDzMmZsMzMzMDjZmZmZGzsMjxMjZzMzMAAQMW2GYBMBzwEYG2AmZYsBAAzMMmlhxgxA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjhZ2WmZmZmZmxMzMzMzMPwyMGzMmNzMzAAAxYZbgFwEMDTgZYDYmhBAAYmhxsMMGMG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZYMzMzMzYmlZMmZMbmZmBAAixy2ALgJYGmAzwGwMzmxGAAMzwYWGGDGD",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjZMz2yMzMzMmxMzMzMzMzyMzYmxsMmZGAAIMwGssY0YGQmFMjFAzgBAMzAYwiZAGD",
             ["n"] = 1,
         },
         {
@@ -1068,15 +1048,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDzMmZ2WmZmZmhxMzMzMjZWmZGzMmNzMzAAAxMLbjNWssYmGzMDTmFmhNgZGGAgZGMzwYMMGMG",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDDmZWMzMzMjZMzMzMzYmlZMmZmZzMzMAAQMW2GYBMBzwEYG2AmZ2M2AAgZGGjhxgxA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZmZMzMzMzMzDsMjxMjZzMzMAAQMzy2YjFLLmpxMzwkZhZYDYmhBAYmBzMMmlhxgxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjhZ2WmZmZmZmxMzMzMjZWmxYmxsZmZGAAIGLbDsBmgZYCMDbAzMMAAAzMMmlhxgxA",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZMjZmZmZGzsMjxMjZzMzMAAQMzy2YjFLLmpxMzwkZhZYDYmhxGAMzgZGGzywYwYA",
             ["n"] = 1,
         },
         {
@@ -1084,37 +1064,29 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMz2yMzMzMmxMzMjZMzyMzYmZmNzMzAAAxYZbgNwEMDTgBbAzMM2AAgZGGjhxgxA",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjhZ2MzMzMzMjZmZmZmZeglZMmZMbmZmBAAixy2ALgJYGmAzwGwMDjFAAYmhxsMMGMG",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDzYmZ2WmZmZmhxMzMjZMzyMzMzMmlHYmZGAAIMwGssY0YGQmNMjFAzgBAMzAwwiZAGD",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDzYmZ2WmZmZmhxMzMjZmZWmZGzMzs8AjZGAAIMwGssY0YGQmNMjFAzgBAMzAwYYGgxA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZYMzMzMzYmlZMmZmZzMzMAAQMW2GYBMBzwEYG2AmZ2M2AAgZGGjhxgxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZmZMzMzMzYmlZMmZMbmZmBAAixy2ALgJYGmAzwGwMDDAAwMDjZZYMYM",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZYMzMzYmZmlZMmZMbGzMAAQMW2GYBMBzwEYG2AmZ2M2AAgZGGz2MGDGD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZMjZmZGzYmlZmxMjZzMzMAAQMW2GYBMBzwEYG2AmZYsAAAzMMGzYMYM",
+            ["code"] = "CgEASWsDSHNyPDXnbxuIhH3ZdDAAAAAAgGDjxMzmZmZmZYMzMzYmZmlZmxMzMbGzMAAQMW2GYBMBzwEYG2AmZ2M2AAgZGGjhxgxA",
             ["n"] = 1,
         },
     },
     ["DEATHKNIGHT_UNHOLY_MYTHICPLUS"] = {
         {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMTzyMzYmZMAAAAAAAAMPwYYAwyMY2MzYmZMwAzYTjlFAbTshBMDgZmZmxMYmBDjB",
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMjBzyYmZa2mZGzMjBAAAAAAAg5BGDDAWmBzmZGzMjBGYGbassBYbiNMgZAMzMzMmBzMYMjB",
             ["n"] = 1,
         },
         {
             ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMTjZmxMzYAAAAAAAAYegxwAglZwsZmxMzYwyAzYTjlFAbTshBMDgZmZmxMYmBzYMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMTzyMzYmZMAAAAAAAAMPwYYAwyMY2MzYmZMwAzYTjlFAbTshBMDgZmZmxMYmBDjB",
             ["n"] = 1,
         },
         {
@@ -1130,7 +1102,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMjBzyYmZa2mZGzMjBAAAAAAAg5BGDDAWmBzmZGzMjBGYGbassBYbiNMgZAMzMzMmBzMYMjB",
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMmZY2mZmZa2MzYmZMAAAAAAAAMzYYAwyMmZ2MzYmZMwAzYTjlFAbTshBMDAjZmxMYmBGjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmBjZYYWGzMTzyMGjZmZAAAAAAAAMzwMDAWGmZWmZGzMjBbzsZmZW0MLbMbMbTjNGgZAYMzMmBzMzMjZMA",
             ["n"] = 1,
         },
         {
@@ -1139,10 +1115,6 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMGDz2MzMTzyMGjZMAAAAAAAAMPwwYAwyMMzmZGzMjBbzsYmZW0MLbMbMbTjNAMDgZmZmxMYmZmZmZMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMDDzyMzMTz2MzYmZMAAAAAAAAMPwYYAwyMY2MzYmZMYbmNzMzmmZZjZjZbashBMDgZmZmxMYmZmZYMA",
             ["n"] = 1,
         },
         {
@@ -1174,19 +1146,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMzMDz2MzMTDzMGzYAAAAAAAAYegxwAglZwsZmxMzYw2MbmZmNNzyGzCz20YDDYGAzMzMjZwMzMzMGD",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmZMjZMY2mZmZa2MzYmZMAAAAAAAAMPwYYAwyMY2MzYmZMYbmFzMzmmZZjZjZbashBMDgZmZmxMYmZmxYMA",
             ["n"] = 1,
         },
         {
             ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmZMjZGDz2MzMTziZGjZMAAAAAAAAMPwwYAwyMMzmZGzMjBLzsYmZ20MLLMbMbTjNAMDgZmZmxMYmZmxYMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMGDz2MzMTz2MzYMjBAAAAAAAg5BGGDAWmBzmZGzMjBGYGLassBYbiNMgZAMzMzMmBzMYMjB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMDDz2MzMTziZGzMjBAAAAAAAg5BGGDAWmhZ2MzYmZMwAzYRjlNAbTsBgZAMzMzMmBzMYGjB",
             ["n"] = 1,
         },
     },
@@ -1196,7 +1164,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMGDz2MzMTz2MzYMjBAAAAAAAg5BGGDAWmBzmZGzMjBGYGLassBYbiNMgZAMzMzMmBzMYMjB",
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMTz2MzYMjBAAAAAAAg5BGDDAWmBzmZGzMjBGYGbassAYbiNMgZAMzMzMmBzMYMjB",
             ["n"] = 1,
         },
         {
@@ -1212,11 +1180,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMGDz2MzMTz2MzYMjBAAAAAAAg5BGGDAWmhZ2MzYmZMwAzYTjlFAbTsBgZAMzMzMmBzMwMjB",
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMGDz2MzMTzyMzYMjBAAAAAAAg5BGGDAWmhZ2MzYmZMwAzYRjlNAbTsBgZAMzMzMmBzMYMjB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMmZY2mZmZaWmxYMjBAAAAAAAg5BGGDAWmhZ2MzYmZMYZmFzMzimZZhZjZbasBgZAMzMzMmBzMzMmZMA",
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMGDz2MzMTz2MzYMjBAAAAAAAg5BGGDAWmBzmZGzMjBGYGbassAYbiNMgZAMzMzMmBzMwMjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmZMjxMDz2MzMTjZMmZGDAAAAAAAAzMmZGAsMMzsNzMGzYwyMbmZmNNzyCzGz20YDDYGAGzMDDmZmZYGD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMDY2mZmZaWmZGzMjBAAAAAAAg5BGjZAwyAz2MzYmZMwAzYRjlNAbTshBMDgZmZmhBzMYMjB",
             ["n"] = 1,
         },
         {
@@ -1224,15 +1200,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmZMjZAz2YmZaWmZGzMjBAAAAAAAgZGjZAwywMz2MzYmZMwAzYRjlNAbTshBMDAjZmhBzMYMjB",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMDY2mZmZa2mZGjZMAAAAAAAAMPwwYAwyMMzmZGzMjBLzsYmZ20MLLMbMbTjNAMDgZmZmxMYmZmZmZMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2YmZa2mZGzMjBAAAAAAAg5BGDDAWmBzmZGzMjBGYGbassAYbiNMgZAMzMzMmBzMYMjB",
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMGDz2MzMTz2MzYMjBAAAAAAAg5BGGDAWmhZ2MzYmZMwAzYTjlFAbTsBgZAMzMzMmBzMYMjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMMjxYY2mZmZa2mZGzMjBAAAAAAAg5BGGDAWmhZ2MzYmZMwAzYTjlNAbTsBgZAMzMzMmBzMYMjB",
             ["n"] = 1,
         },
         {
@@ -1252,11 +1228,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBwMjZMGDz2MzMTz2MzYMjBAAAAAAAg5BGGDAWmBzmZGzMjBGYGLassBYbiNMgZAMzMzMmBzMwMjB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMTjZmxMzYAAAAAAAAYegxwAglZYmNzMGzYgBmxmGLLA2mYDDYGAzMzMjZwMDGzYA",
+            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmZMjxYY2mZmZaMzMGzYAAAAAAAAYeghxAglZYmNzMmZGDMwM20YZBw2EbAYGAzMzMjZwMDGzYA",
             ["n"] = 1,
         },
         {
@@ -1267,30 +1239,26 @@ RecommendedStatsData_Talents = {
             ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMTzmZGzMjBAAAAAAAg5BGDDAWmBzmZGzMjBGYGbassAYbiNMgZAMzMzMmBzMYGjB",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CwPAkXBWxkyfx9CbGaHonEAhLBYmhZMGDz2MzMTjZmxMzYAAAAAAAAYeghxAglZYmNzMmZGDMwM20YZBw2EbAYGAzMzMjZwMDGzYA",
-            ["n"] = 1,
-        },
     },
     ["ROGUE_ASSASSINATION_MYTHICPLUS"] = {
-        {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAIbzMzMzMjx2MzMbzsMzMPgZMzYMMzYMAGYBmxoxsBy2A2MAYmZMGA",
-            ["n"] = 2,
-        },
-        {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGLzMzsNzyMz8AmxMjxwMjxAsNzyYhxMmlGz2ywkthhFDmZwMzYMA",
-            ["n"] = 2,
-        },
         {
             ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAGYBmxoxsBy2A2MAYmZMGA",
             ["n"] = 2,
         },
         {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7PzsMmtZwAAAAAAzyglZAAAAAAZbmZmZmZM2mZmZbmlZmZYGzYMmZMMAbzsMWYMjZpxstMMZbYYzgZGMzMGD",
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAIbzMzMzMjx2MzMbzsMzMPgZMzYMMzYMAGYBmxoxsBy2A2MAYmZMGA",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAILzMzMzMjx2MzMbzsMzMPgZMzYMMzYMAbzsMWYMjZpxssMMZbYYxgZGMzMGD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYbmZmtZWmZmHwMmZMGmZMGgtZWGLMmxs0YWWGmsNMsAmZwMzYMA",
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGbzMzsNzyMz8AmxMjxwMjxAsZWGYALBLDTghFDmZAGjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGbzMzsNzyMz8AzMmZwMmZMGgtZWGLMmxs0Y2WGmsMMsAmZwMzMjB",
             ["n"] = 1,
         },
         {
@@ -1298,15 +1266,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGbzMzsNzyMz8AzMmZwMmZMGgtZWGLMmxs0YWWGmsMMsYwMDmZGjB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGbzMzsNzyMz8AzMmZwMmZMGgtZWGLMmxs0Y2WGmsNMsYwMDmZGjB",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYbmZmtZWmZmHwMmZMGmZMGgtZWGLMmxs0Y2WGmsNMsBmZwMzYMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDAAAAAAzygtZAAAAAAttMzMzMzMGbzMzsNzyMz8AmxMjxwMjxMgNzyADYJYZYCMsAmZAGjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAILzMzMzMjx2MzMbzsMzMPw8AjZGjhZGjBYzsMwAWCWGmADLGMzAMGD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDAAAAAAzygtZAAAAAAttMzMzMzMGbzMzsNzyMz8AmxMjxwMjxAsNzyYhxMmlGz2ywkthhFDmZwMzYMA",
             ["n"] = 1,
         },
         {
@@ -1322,15 +1294,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGLzMzsNzyMz8AmxMjxMmZMGADsAzY0Y2AZbAbGAMzMGfA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAottZmZmZmxYbmZmtZWmZmHYegxMjxwMjxAYgFYGjGzGIbDYzAgZGGD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDAAAAAAzygtZAAAAAAttMzMzMzMGLzMzsNzyMz8AmxMjxwMjxAsZWGYALBLDTghFwMDwMjB",
             ["n"] = 1,
         },
         {
@@ -1338,7 +1302,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlxsYAAAAAAYWGsNDAAAAAottZmZmZmxYZmZmtZWmZmxMmZMGmZMGgtZWGLMmxs0Y2WGmsNMsBmZwMzMjB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlxsYwAAAAAAzygtZAAAAAAttNmZmZmxYbmZmtZWmZmZMmZMGzMjxAYgFYGjGzCIbDYDAMzMzYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlxsYAAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMzYMzYMmZGjBwALwMGNmFQ2GwmBAzMzMGA",
             ["n"] = 1,
         },
     },
@@ -1364,23 +1336,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGLzMzsNzyMz8AmxMjxMmZMGADsAzY0Y2AZbAbGAMzMGfA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGLzMzsNzyMz8AmxMjxwMjxAsNzyYhxMmlGz2ywkthhFDmZwMzYMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAottZmZmZmxYbmZmtZWmZmHYegxMjxwMjxAYgFYGjGzGIbDYzAgZGGD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDAAAAAAzygtZAAAAAAttMzMzMzMGLzMzsNzyMz8AmxMjxwMjxAsZWGYALBLDTghFwMDwMjB",
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlxsYwAAAAAAzygtZAAAAAAZbmZmZmZMWmZmZbmlZmZGjZGjxMzYMAGYBmxoxsBy2A2MAYmZMGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlxsYwAAAAAAzygtZAAAAAAZbmZmZmZMWmZmZbmlZmZGjZGjxMzYMAGYBmxoxsBy2A2MAYmZMGA",
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlxsYAAAAAAYWGsNDAAAAAottZmZmZmxYZmZmtZWmZmxMmZMGmZMGgtZWGLMmxs0Y2WGmsNMsBmZwMzMjB",
             ["n"] = 1,
         },
         {
@@ -1396,15 +1360,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYZmZmtZWmZmHwMmZMGmZMGgtZWGLMmxs0Y2WGmsNMsZwMDmZGMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAottZmZmZmxYZmZmtZWmZmHwMmZMGmZMGgtZWGLMmxs0Y2WGmsNMsZAwMzgB",
             ["n"] = 1,
         },
         {
             ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlxsYwAAAAAAzygtZAAAAAAttNzMzMzMGLzMzsNzyMzMjxMjxYmZMGglZWGLMmxs0Y2WGmsNMsZwMDmZGMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYZmZmtZWmZmHwMmZMGmZMGgNzyADYJYZYCMsAmZAGjB",
             ["n"] = 1,
         },
         {
@@ -1415,34 +1379,46 @@ RecommendedStatsData_Talents = {
             ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmFDGAAAAAYWGsNDAAAAAottZmZmZmxYZmZmtZWmZmHwMmZMGmZMGADsAzY0Y2AZbAbGAMzMYA",
             ["n"] = 1,
         },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlZmNDGAAAAAY2GsNDAAAAAIbzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbzsMWYMjZpxssMMZZYYzgZGMzMDD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CMQA5HmDzx68KWyrW/8Y781L7bmlxsNDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMzYGzYMmZMMAGYBmxoxsBy2A2MAYmZMGA",
+            ["n"] = 1,
+        },
     },
     ["SHAMAN_RESTORATION_MYTHICPLUS"] = {
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsttMmZmZMzMjhx2yML2YMjlpx2MLMZGGbYmBzyMzMaWWmZ2MjBLzYmxgZZGAAGAzMYmBgxgB",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsttMmZmZMzMjhx2yML2YMjlpx2MLMZGGbYmBz2MjRzyyMzmZMbsYMzYMmlZAAYAMzgZGAGDG",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsMWsxYGLasNzCTmhxGmZGmlZmZ0ssMzsYGDWmxMjhlZZAAwAYmBzMYmhxgB",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsMWsxYGLasNzCTmhxGmZGmtZGjmtlZmNzY2YxYmxYMLzAAwAYmBzMYmhxgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZmZGjhhFYDmxiGbDIzAbYmBz2MzMaWWmZ2MjBLzYmxgZZGAAGAzMYmBgxgB",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsAbwMW0YbAZGYDzMDz2MzMaWWmZ2MjBLzYmxgZZGAAGAzMYmBgxgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsssNzMzYMzYmZYsAbwMW0YbAZGYzMMY2GjZa2WmZYGzCLmHwMPwMMLDAAAMzMYmBAGMD",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMWWmZzGjZsMN2mZjJzwYDzMDzyMjRz2yMzmZMbsYMzYGLzyMAAMAmZwMDmZYAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsAbwMW0YbAZGYDzMDz2MjRz2yMzmZMYxYm5BGjZZGAAGAzMYmBgxgB",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsssNzMzYMzYmBsAbwMW0YbAZGYzMMDWmZMTz2yMzmZMLsYmZGDmlBAAAmZGMzAADmB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMM2WmZxGjZsMN2mZhJzwYDzMDz2MzMaWWmZ2MjBLzYmxgZZGAAGAzMYmBgxgB",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjhx2yML2YMjlpx2MLMZGGbYmBz2MjRzyyMziZMbsYMzYGLzyAAgBwMDmZAYMYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjZM2WmZxGjZsMN2mZjJzwYDzMY2mZMaWWmZ2MjZjFjZGDLzyMAAMAmZwMDmZYAD",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZmZGMMsAbwMW0YbAZGYjZmBz2MjRz2yMziZMLsYMzYGLzyAAgBwMDmZAYMYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsttMmZmZMzMjZM2WmZxGjZsMN2mZjJzwYDzMY2mZMaWWmZ2MjZjFjZGDLzyMAAMAmZwMDmZYAD",
             ["n"] = 1,
         },
         {
@@ -1462,19 +1438,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjhhFYDmxiGbDIzAbYmBz2MzMaWWmZYGzCLzYmxgZZGAAGAzMYmBgxgB",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjhhFYDmxiGbDIzAbYmBz2MjRzyyMziZMbsYMzYYZWmBAgBwMDmZAYMYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsssNzMzYMzYmBsAbwMW0YbAZGYzMMDzyMjZa2WmZYmZWYxMmxgZZAAAgZmBzMAwgZA",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjZMsAbwMW0YbAZGYDzMY2mZMaWWmZ2MjZjFjZGDLzyAAgBwMDmZAYMYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsssNzMDjxYmZYsAbwM20YbAZGYzMDDWGjZa2WmZYGzCLmZmxMMLDAAAMzMYmBAGMD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsssNjZGjZGzMYsAbwMW0YbAZGYzMMDz2YmZa2WmZYGDWmZmZMYWGAAAYmZwMDAMYG",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjhhFYDmxiGbDIzAbYmBz2MjRz2yMzmZMYxYmxYWmlZAAYAMzgZGAGDG",
             ["n"] = 1,
         },
         {
@@ -1482,19 +1454,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMjhFYDmxiGbDIzAbYmZY2mZMaWWmZ2MjBLGzMGjZZGAAGAzMYmBgxgB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsAbwMW0YbAZGYDzMDzyMzMaWWmZYGzCLzYmxYMLDAAGAzMYmBgxgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMzMzMjZGjBsAbwMW0YbAZGYjZmBzyMjRz2yMDzYWYxYmxYWmlZAAYAmZGMzAADG",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMzMzMjZGjBsAbwMW0YbAZGYjZmBzyMjZa2WmZYGzGLGzMGWmlZAAYAmZGMzAADG",
             ["n"] = 1,
         },
         {
             ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsttMzMzMjZGjBWWmZxGjZsMN2mZhJzwYDzMYWmZmRzyyMzmZMYZGzMGMLzAAwAMzMYmBzMYGMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsAbwMW0YbAZGYjZmBz2MjZa2WmZYGDWMmZMmlZZGAAGAzMYmBgxgB",
             ["n"] = 1,
         },
     },
@@ -1509,10 +1481,6 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsssNzMzYMzYmBjFYDmxiGbDIzAbmBDzyYmZa2WmZYGzGLz8AzMGMLDAAAMzMYmBAGMD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsssNzMzYMzYmBjFYDmxiGbDIzAbmBDz2YMTz2yMzmZMbsYegZGDmlZAAAwMzgZGAYwM",
             ["n"] = 1,
         },
         {
@@ -1536,7 +1504,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMjxyyMb2YMjlpx2MbMZGGbYmZY2mZMa2WmZ2MjZjFjZGDLzyAAgBwMDmZwMDjBD",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjhxyyMb2YMjlpx2MbMZGGbYmBz2MjRz2yMzmZMbsYmZGDmlBAADgZGMzgZGGDG",
             ["n"] = 1,
         },
         {
@@ -1544,7 +1512,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjhhFYDmxiGbDIzAbYmZY2mZMaWWmZ2MjZjFjZGjxsMDAADgZGMzAADG",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsAbwMW0YbAZGYDzMDz2MjZaWWmZYGzGLGzMPwwysMAAYAMzgZGAGDG",
             ["n"] = 1,
         },
         {
@@ -1564,11 +1532,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsAbwMW0YbAZGYDzMDz2MjRzyyMzmZMbsYMzYMmlZAAYAMzgZGAGDG",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsssNzMzYMzYmBsAbwMW0YbAZGYzMMDWmZMTz2yMzmZMLsYmZGDmlBAAAmZGMzAADmB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzMjhhFYDmxiGbDIzAbYmBz2MjRzyyMzmZMbsYMzYYZWmBAgBwMDmZAYMYA",
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMMsAbwMW0YbAZGYDzMDzyMzMa2WmZ2MjBLzYmxwysMAAYAMzgZGAGDG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgQALMl7AwW51MWzGneuHE3tPCAAAgBAAAAzMzsstMmZmZMzYMjhFYDmxiGbDIzAbYmZY2mZMaWWmZ2MjZjFjZGDLzyAAgBwMDmZAYMYA",
             ["n"] = 1,
         },
         {
@@ -1582,6 +1554,10 @@ RecommendedStatsData_Talents = {
     },
     ["MAGE_FROST_MYTHICPLUS"] = {
         {
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwMLzMzsgZmYmxMzMzMziZmZMjZmlZamZbWAAzMzssMz0GAAsAAAAWAYbZMzMDmthxMsAAAwMbzMYGYAzghB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGmZZmZmlhZmYmZGzMzMziZmZMjZgAAAzMzssMz0GAAsBAAAWAYbbMzMDmthxMsAAAwMbAzwYAzgBA",
             ["n"] = 1,
         },
@@ -1594,15 +1570,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzswMzEzMmZmZmZWMzMjZMDEAAYmZmllZm2AAgNAAAwGAbLjZmZwsNMmhFAAAmZDYGYAzghB",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwMLzMzsgZmYmxYmZmZWMzMzMzMzsMTzMLzCAYmZmllZmWAAgNAAAAA2WGzMz8AMbzYmZstAAAwMbzMYGYADgB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNmtlZWmZmZDzMxMMzMzMzsYmZGzYmZZmmZ2mFAwMzMLLzMtBAALAAAgNA2WGzMDYZeAjZGLAAAMzCwMMmBMYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwMLzMmFegZmYmxYmZmZWMzMzMzMzsMTzMbzCAAAaBAAWAAAAAYbZMzMzwsNjZmx2CAAAYmBzADYAMA",
             ["n"] = 1,
         },
         {
             ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwMLzMzsgZmYmxYmZmZWMzMzMzMzsMTzMbzCAAAaBAA2AAAAAYbZMzMDmtZMzM22AAAAzMYGGDYAMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZmYmZGzMzMziZmZMjZgAAAzMzssMz0GAAAAAAsBw22YmZGMbDjZYBAAgZ2AmBGwMYYA",
             ["n"] = 1,
         },
         {
@@ -1614,27 +1594,35 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZmYmZGzMzMziZmZMjZgAAAzMzssMz0GAAsBAAA2AYbbMjZwsNMmhFAAAmZDYGYAzghB",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwYZmZmFMzEzMGzMzMWMzMzMGzsMTzMLzCAAAaBAA2AAAALAstNmZm5BYMjxM2WAAAAzMYGGDYghB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwYZmZmlZ7BmZiZGjZmZmZxMzMmxMQAAgZmZWWmZaDAA2AAAAbAsZMzMDmthxMsBAAwMbAzADYGMMA",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwYZmZmlZ7BmZiZGjZmZmZxMzMmxMQAAgZmZWWmZaDAA2AAAALAsZMzMDmthxMsBAAwMbAzADYGMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZmYGGzMzMziZmZmZmZmlZamZbWAAAQLAAwCAAAAAbLjZmZwsNjZmx2CAAAYmBzwYADgB",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZmYmxYMjZWMzMzMjZgAAAzMzssMz0GAAsBAAA2AYbbMjZeAsNjxMsAAAwMbAzADYGMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNmtlZWmZmZDzMxMMzMzMzsYmZGzYmZZmmZ2mFAwMzMLLzMtBAALAAAgNA2WGzMDYZeAjZGLAAAMzCwMMmBMYA",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwMLzMPwsMMzEzMGzMzMziZmZmZmZmlZamZbWAAAQLAAwGAAAAAbbjZmZwsNjZmx2GAAAYmBzwYADgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwMLzMzsgZmYmxYmZmZWMzMzMzMzsMTzMLzCAAAaBAA2AAAAAYbZMzMzDwsNjZmx2CAAAYmBzADYAMA",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzALzMzsMmZmYmZmZmZmZWMzMjZMDEAAYmZmtlZm2AAgNAAAwCAbGzYGMbDjZYBAAgZ2AmhxAmBDA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuxwYZmZmlxMzEzMzYmZmZWMzMjZMzsMTzMLzCAYmZmllZm2AAAAAAgNA2WGzMzgZbYMDLAAAMz2MDmhxAmBDD",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGmZZmZmFMzEzMmZmZmZWMzMzMzMzsMTzMbzCAAAaBAA2AAAAAYbZMzMDmtZMzM2WAAAAzMYGGDYAMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwYZmZmFMzEzMmZmZmZWMzMzMzMzsMTzMbzCAAAaBAA2AAAAAYbZMzMDmtZMzM2WAAAAzMYGGDYAMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZmYmZGzMzMziZmZMjZmlZamZZWAAzMzssMz0GAAAAAAsAw2yYmZGMbDjZYBAAgZ2mZwMwAmBDD",
             ["n"] = 1,
         },
         {
@@ -1642,30 +1630,14 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwYZmZmFMzEzMGzMzMWMzMzMGzsMTzMLzCAAAaBAA2AAAALAstNmZm5BYMjxM2WAAAAzMYGGDYghB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZEzMzYMjZWMzMzMjZgAAAzMzssMz0GAAAAAAsBw2yYmZmBbzYmZYBAAgZ2AmBGwADA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwMLzMzsgZmYmZmZmZmZWMzMzMzMzsMTzMbzCAYmZmllZmWAAgNAAAAA22GzYGMbzYmZstBAAwMbzMYGGDYAA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwMLzMzsMMzEzMGzMzMziZmZMjZmlZamZbWAAzMzssMz0GAAsBAAAWAYbZMzMDmthxMsBAAwMbzMYGYAzghB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGmZZmZmlhZmYmZGzMzMziZmZmZmZmlZamZbWAAAQLAAwGAAAAAbbjZmZwsNjZmx2GAAAYmBzADYAMA",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzgZZmZmFegZmYmZGzMzMzmZmhZMDEAAYmZmllZm2AAgFAAAwCAbLjZmZwsNMmZsAAAwMbAzADYGMMA",
             ["n"] = 1,
         },
     },
     ["MAGE_FROST_RAID"] = {
         {
             ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZmYmZGzMzMziZmZMjZgAAAzMzssMz0GAAAAAAsBw2yYmZGMbDjZYBAAgZ2AmBGwMYYA",
-            ["n"] = 3,
+            ["n"] = 2,
         },
         {
             ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzswMzEzYmZmZmZWMzMjZMDEAAYmZmllZm2AAgFAAAwGAbLjZMDmthxMsAAAwMbAzwYAzghB",
@@ -1673,6 +1645,10 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGLjlZMzCPwMiZmZMjZmZxMzMzwMzyMNzsMLAgZmZWWmZaBAAWAAAAAYbZMzMzwsNjZmx2CAAAzsNzgZgBMwHwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZmYmxYMjZWMzMzMjZgAAAzMzssMz0GAAsBAAA2AYbbMjZeAsNjxMsAAAwMbAzADYGMMA",
             ["n"] = 1,
         },
         {
@@ -1688,15 +1664,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwYZmZmFmZmYmxYmZmZWMzMzMzMzsMTzMbzCAAAaBAAWAAAAAYbhZmZwsNjZmx2CAAAYmBzwYADgB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGLjlZmZWGzMTMzYMzMzMLmZmxMmBCAAMzMzyyMTbAAAAAAwGAbLjZmZwsNMmhFAAAmZDYGYAzghB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGGLzMzsMmZmYmZGzMzMziZmZMjZgAAAzMzssMz0GAAsBAAA2AYbbMjZwsNMmhFAAAmZDYGYAzghB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CAEAche08tHz49KSVf7iKFnyuZGLjlZmZWGPwMTMzMzMzMzMLmZmxMmBCAAMzMzyyMTbAAAAAAwGAbbjZmZwsNMmhFAAAmZDYGYAzgBA",
+            ["code"] = "CAEAche08tHz49KSVf7iKFnyuNzwYZmZmFMzEzMmZmZmZWMzMzMzMzsMTzMbzCAAAaBAA2AAAAAYbbMzMDmtZMzM2WAAAAzMYGGDYAMA",
             ["n"] = 1,
         },
         {
@@ -1738,11 +1714,15 @@ RecommendedStatsData_Talents = {
     },
     ["MAGE_ARCANE_MYTHICPLUS"] = {
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzswMDamZGAAAGAwMz0sssMDAEbAAAmZG2sMjZWmxYmZmZYhZmZmZAAGAAgBYmBYAwwMzA",
-            ["n"] = 2,
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwMLzMzsgZQzMGAAAGAwMz0sssMzMzMLLzMxGAAbMmZG2sMjZWmxYGzMDLMzMzMDAwAAAMzsgZGgBADzMD",
+            ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwYZmZmFMDamZGAAAGAwMz0sssMzMzMLLzMxGAAbwMzwmlZMzyMGzMzMDLMzMzMDAwAAAMzsgZGgBADzMD",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzsgZGamZGAAAGAwMz0sssMzMzMLLzMxGAAbwMzwmlZMzyMGzMzMDLMzMzMDAwAAAMzsgZGgBADzMD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwMLzMPwsgZQzMGAAAGAwMz0sssNzMzMLLzMxGAAbwMzwmlZMzyMGzMzMDLMzMzMDAwAAAMzsgZGwMAYYmZA",
             ["n"] = 1,
         },
         {
@@ -1750,11 +1730,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwMLzMPwsgZGamZGAAAGAwMz0sssNDAEbAAswYmZYzyMmZZGjZMzMswMm5BmBAYAAAGgZGwMAYYmZA",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMPwsgZQzMzAAAwAAmZmmlllZAgYDAgFYmZYzyMmZZGjZmZmhFmZmZmBAYAAAGgZGYmBADzMD",
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwYZmxsgZGamZmBAAwAAmZmmlltZmZmZZZmJ2AAYDmZG2sMjZWmxYmZmZYhZmZmZAAGAAgZmFMzAMAYYmZA",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMmFMzQzMzMAAAGAwMz0sssNzMzMLLzMxGAAbwMzwmlZMzyMGzMzMDLMzMzMDAwAAAMzsgZGwMAYYmZA",
             ["n"] = 1,
         },
         {
@@ -1762,7 +1742,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLGzswMDamZmBAAwAAmZmmlllZmZmZZZmJ2AAYDmZG2sMjZWmxYmZmZYhZmZmZAAGAAgZmFMzAMAYYmZA",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzsgZQzMzAAAwAAmZmmlllZmZmZZZmJ2AAYDmZG2sMjZWmxYmZmZYhZmZmZAAGAAgZmFMzAjBADzMD",
             ["n"] = 1,
         },
         {
@@ -1770,7 +1750,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzswMDamZGAAAGAwMz0sssNzMzMLLzMxGAAgZmhNLzYmlZMmZmZGWYGzMzAAMAAAzMLYmBMDAGmZG",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzswMDamZGAAAGAwMz0sssMDAEbAAAmZG2sMjZWmxYmZmZYhZmZmZAAGAAgBYmBYAwwMzA",
             ["n"] = 1,
         },
         {
@@ -1778,7 +1758,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwMLzMzsgZQzMGAAAGAwMz0sssMzMzMLLzMxGAAbMmZG2sMjZWmxYGzMDLMzMzMDAwAAAMzsgZGgBADzMD",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwYZmZmFegZQzMGAAAGAwMz0sssMDAEbAAsBzMDbWmxMLzYMzMzMswMzMzMAADAAwAMzAMAYYmZA",
             ["n"] = 1,
         },
         {
@@ -1790,7 +1770,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwMLzMmFMDamZGAAAGAwMz0sssMDAEbAAsBzMDbWmxMLzYMzMzMswMzMzMAADAAwAMzAjBADzMD",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzswMDamxAAAwAAmZmmlllZAgYDAgFYmZYzyMmZZGjZmZmhFmZmZmBAYAAAGgZGgBADzMD",
             ["n"] = 1,
         },
         {
@@ -1802,15 +1782,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGmZZm5BmFMzQzMGAAAGAwMz0sssNDAEbAAsBzMDbWmxMLzYMzMzMswMzMzMAADAAwAMzAmBADzMD",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwYZm5BmFMzQzMGAAAGAwMz0sssNDAEbAAsBzMDbWmxMLzYMzMzMswMzMzMAADAAwAMzAmBADzMD",
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGmZZmxsgZQzMzAAAwAAmZmmlllZmZmZZZmJ2AAYDmZG2sMjZWmxYmZmZYhZmZmZAAGAAgZmFMzAzMAYYmZA",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzsgZGamZGAAAGAwMz0sssMDAEbAAsBzMDbWmxMLzYMzMzMswMzMzMAADAAwAMzAMAYYmZA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzswMDamZGAAAGAwMz0sssNDAEbAAAmZG2sMjZWmxYmZmZYhZMzMDAwAAAMAzMgZAwwMzA",
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwMLzMmFMDamZGAAAGAwMz0sssMzMzMLLzMxGAALwMzwmlZMzyMGzMzMDLMzMzMDAwAAAMzsgZGwMAYYmZA",
             ["n"] = 1,
         },
     },
@@ -1860,7 +1840,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzsMmZQzMzAAAwAAmZmmlllZAgYDAAwMzwmlZMzyMGzMzMDLMjZmZAAGAAgBYmBYAwwMzA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzswMDamxAAAwAAmZmmlllZAgYDAgFYmZYzyMmZZGjZmZmhFmZmZmBAYAAAGgZGgBADzMD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwYZmZmFegZQzMGAAAGAwMz0sssMDAEbAAsBzMDbWmxMLzYMzMzMswMzMzMAADAAwAMzAMAYYmZA",
             ["n"] = 1,
         },
         {
@@ -1876,29 +1864,21 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuNzwYZmZmFMDamZGAAAGAwMz0sssMzMzMLLzMxGAAbwMzwmlZMzyMGzMzMDLMjZmZAAGAAgBYmBMDAGmZG",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMzswMDamZGAAAGAwMz0sssMzMzMLLzMxGAAbwMzwmlZMzyMGzMzMDLMjZmZAAGAAgZmFMzAMAYYmZA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4DAche08tHz49KSVf7iKFnyuZGGLzMPwswMDamxAAAwAAmZmmlllZmZmZZZmJ2AAYBmZG2sMjZWmxYmZmZYhZmZmZAAGAAgZmFMzAmBADzMD",
             ["n"] = 1,
         },
     },
     ["PALADIN_HOLY_MYTHICPLUS"] = {
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAADWGwMzyMzsMjZMsY2MziZaihxMzMGzWGAGA2AbsYmBABAMzsssYZmhN2GzgNgZMAAzMAMjxoB",
-            ["n"] = 2,
-        },
-        {
             ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAADWGwMzyMzsMjZMsY2MziZaixMmZGGzWGAGA2AbsYmBABAMzsssYZmhN24BGsxgZYwAYmBgZMGNA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAw2MzMjZMzYxYmZYZwMLmpJGzYmZYMbZAYADbgNWmxMLz2Mzs1AAAAsAAbeAGzYGmBAwMDzYMaA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAYwywwMzyMzsMYMsMzmZWMaiZxYmZYMbZAYAYDsxiZmZZ2mZmtGAwMzy2ilZG2YDD2AmZbwMAmZwMDzYMaA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAw2MzMjZMzYxYmZYZwMLmJxsNjZmhxslBgBMsB2YZGzsMbzMzWDAAAwCAshZMjZYGAAzMMjxoB",
             ["n"] = 1,
         },
         {
@@ -1906,11 +1886,27 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMmxMzMGzWGAGA2AbsYmBABAMzsssYZmhN2GzgNgZMAAzMAMjxoB",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAw2MzMjZMzYxYmZYZwMLmpJGzYmZYMbZAYADbgNWmxMLz2Mzs1AAAAsAAbeAGzYGmBAwMDzYMaA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAYwyAmZWmZmlZMjhFzmZWMTTMMmZGGzWGAGA2AbsYmBABAMzsssYZmhN2GzgNgZYAAzMAMjxoB",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMmxMzMGzWGAGA2AbsZmBABAMzsssYZmhN2GzgNgZMAAzMAMjxoB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAADWGwMzyMzsMjZMsY2MziZaihxMzMGzWGAGA2AbsYmBABAMzsssYZmhN2GzgNgZMAAzMAMjxoB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAADWGwMzyMzsMjZMsY2MziZaihxMzMGzWGAGA2AbsYmZWmtZmZrBAMzsssYZmhN2GzgNgZMAAzMYmhZMGNA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAYwyAmZWmZmlZMjhFzmZWMTTMMmZGGzWGAGA2AbsYmBABAMzsssYZmhN2GzgNgZMAAzMAMjxoB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAADWGwMzyMzsMjZMsY2MziZaiZxYmZGjZLDADAbgNWMzAgAAmZWWWsMzwGbDD2AmZbAAmZAYGjRDA",
             ["n"] = 1,
         },
         {
@@ -1918,15 +1914,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAADWGwMzyMzsMjZMsY2MziZaixMmZmxY2yAwMA2AbsYmZWmtZmZrBAMzsssYZmhN2GG22AmxAAMzgZGMGjGA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLGzMzYMbZAYAYDsxmZGAEAwMzyyilZG2Yb8AD2AmZbAAmZAYGjRDA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMmxMzMGzWGAmBwGYjFzMAIAgZmllFLzMsx2ww2GwMGAgZGAmxY0A",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAAWGwMzyMzsMjZMsY2MziZaihxMzMGzWGAGA2AbsZmBABAMzsssYZmhN2GGsZgZMAAzMAMjxoB",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAAWGwMzyMzsMjZMsY2MziZaihxMzMGzWGAGA2AbsZmBABAMzsssYZmhN2GzgNgZMAAzMAMjxoB",
             ["n"] = 1,
         },
         {
@@ -1934,11 +1926,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLGzMDjZLDADAbgN2MzAgAAmZWWWsMzwGbjZwGwMbDAwMDAzYMaA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAAWGwMzyMzsMjZMsY2MziZaiZxYmZYMbZAYAYDsxmZGAEAwMzyyilZG2Yb8AD2AmZbAAmZAYGjRDA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhlZ2MziZaiZxYmZGjZLDADAbgNWMzAgAAmZWWWsMzwGbMD2AmxAAMzAwMGjGA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLzYmZYMbZAYAYDsxiZGAEAwMzyyilZG2YbYwmHAmZbAAmZAYGjRDA",
             ["n"] = 1,
         },
         {
@@ -1946,30 +1938,22 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAw2MzMjZMzYxYmZYZwMLmJxwYmZYMbZAYADbgNWmxMLz2Mzs1AAAAsAGYzDYGzYmxMAAmZwYQDA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLGzMzYMbZAYAYDsxiZGAEAwMzyyilZG2YbMD2AmhBAMzAwMGjGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLzYmZYMbZAYAYDsxiZGAEAwMzyyilZG2YbYwmBmxAAMzAwMGjGA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZ2mZmlZMjhFzmZWMTTMLGzMDjZLDADAbgNWMzYZ2GGBAMzsssYZmhN2GzgNgZ2GAgZGMwMGjGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAw2MzMjZMzYxwMDLDmZxMNxwYmZYMbZAYADbgNWmZmZZ2mZmtGAAAgFAYzwYGzwMAAmZYGjRDA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAAWGwMzyMzsMjZMsY2MziZaixMmZmxY2yAwAwGYjNzMzysNzMLNAgZmllFLzMsx24BGsBMDDAYmBzMMjxoB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLzYmZGjZLDADAbgN2MzAgAAmZWWWsMzwGbYwGwMbDMAmZAYGjRDA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLzYmZGjZLDADAbgNWMzAgAAmZWWWsMzwGbjHYwGwMGAgZGAmxY0A",
             ["n"] = 1,
         },
     },
     ["PALADIN_HOLY_RAID"] = {
         {
             ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAw2MzMjZMzYxYmZYZwMLmpJGGzMDjZLDADYYDsxyMmZZ2mZmtGAAAgFAYzwYGzwMAAmZYGjRDA",
-            ["n"] = 6,
+            ["n"] = 5,
         },
         {
             ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAw2MzMjZMzgZGzYWGMzyMaihxMzwY2yAwAG2AbsMMzysNzMbNAAAALAwmHYMmxMMDAgZGmxY0A",
@@ -1988,6 +1972,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAD2GGmZWmZsYMzMsMPwmZWMaiZxYmZYMbZAYAYDsxmZmZZ2mZmtGAAAgF2YGsBMzGMDAgZGmxY0A",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMmxMzMGzWGAGA2AbsZmBABAMzsssYZmhN2GzgNgZMAAzMAMjxoB",
             ["n"] = 1,
         },
@@ -2000,7 +1988,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAYwyAmZWmZmlZMjhFzmZWMTTMMmZGGzWGAGA2AbsYmZWmlZmZrBAMzsssYZmhN2GzgNgZMAAzMYmhZMGNA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAYwyAmZWmZmlZMjhFzmZWMTTMMmZGGzWGAGA2AbsZmZWmlZmZrBAMzsssYZmhN2GzgNgZMAAzMYmhZMGNA",
             ["n"] = 1,
         },
         {
@@ -2012,15 +2000,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAw2MzMjZMzYxYmZYZwMLmpJGGzMDjZLDADYYDsx2MmZZ2mZmtGAAAgFAYzwYGzMmBAwMDGjRDA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAADWGwMzyMzsMjZMsY2MziZaixMmZGGzWGAGA2AbsYmBABAMzsssYZmhN2GPwgNGMDDAYmBgZMGNA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAAWGwMzyMzsMjZMsY2MziZaixMmZmxY2yAwAwGYjFzMAIAgZmllFLzMsx24BGsBMjBAYmBgZMGNA",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLzYmZYMbZAYAYDsxiZGAEAwMzyyilZG2YbYwmHAmZbAAmZAYGjRDA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAgZBAmBAAWGwMzyMzsMjZMsY2MziZaiZxYmZGjZLDADAbgN2MzAgAAmZWWWsMzwGbDD28AwMMAgZGAmxY0A",
+            ["code"] = "CEEAzbn3egSOtoSwvPw1U1vTLAAAALAwMAAwyAmZWmZmlZMjhFzmZWMTTMLGzMzYMbZAYAYDsxiZGAEAwMzyyilZG2YbMD2AmhBAMzAwMGjGA",
             ["n"] = 1,
         },
         {
@@ -2030,12 +2018,12 @@ RecommendedStatsData_Talents = {
     },
     ["PALADIN_RETRIBUTION_MYTHICPLUS"] = {
         {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGjxYYGLsBgZZ2mZmtmZm2mZ2mBAsAYAwYmNgZMzshlZmZGGzYwA",
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGjxYYGLsBgZZ2mZmtGEAAwCgBAjZ2AmxMzGwMzwYGDG",
             ["n"] = 4,
         },
         {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGjxYYGLsBgZZ2mZmtGEAAwCgBAjZ2AmxMzGwMzwYGDG",
-            ["n"] = 4,
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGjxYYGLsBgZZ2mZmtmZm2mZ2mBAsAYAwYmNgZMzshlZmZGGzYwA",
+            ["n"] = 3,
         },
         {
             ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmZ2Gz2wMbzYMGDzYhNAMLz2Mzs1Mz02Mz2MAgFADAGjtBMjZmNsMzMzwYYwA",
@@ -2046,7 +2034,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAANbbzMzyYGzAAAAAAYmysMDzM2Gz2wMbzYmxYYGLsBgZZ2mZmtmZm2mZ2mBAsAYYAGzwAzYmZDbzMzMMGGMA",
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGzMGDzYhNAMLz2Mzs1Mz02Mz2MAgFADAGzwAzYmZDbzMzMMGGMA",
             ["n"] = 1,
         },
         {
@@ -2054,7 +2042,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGGDAAAAAAjyYGmZsNmthZ2mxMjxwMWYbAYWmtZmZrZmptZmtZAALAGAMmhZwMmZ2wyMzMDjZMYA",
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGjxYYGLsBgZZ2mZmtmZmWmZ2mBAsAYAwYmNgZMzshlZmZGGzYwA",
             ["n"] = 1,
         },
         {
@@ -2062,7 +2050,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAANbbzMzyYmZGAAAAAAzUGzwMzsNmthZ2mxYMGmxCbAYWmtZmZrBBAAsAYYAGzwAzYmZDYmZYMMYA",
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxCbAYWmtZmZrBBAAsAYYAGzwAzYmZDYmZYMMYA",
             ["n"] = 1,
         },
         {
@@ -2074,6 +2062,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGzMGDDLsBgZZ2mZmtGEAAwCgBAjZ2AmxMzGwMzwYGDG",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGjxYYGLsBgZZ2mZmtGEAAwCgBwYMzGwMmZ2AmZGGDDG",
             ["n"] = 1,
         },
@@ -2082,7 +2074,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzMzAAAAAAYmysMDzM2Gz2wMbzYMGDzYhNAMLz2Mzs1gAAAWAMAgZ2AmxMzGwMzYGDDG",
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAANbbzMzywMDAAAAAAjyYGmZsNmthZ2mxYMzwMWYbAYWmtZmZrBBAAsAYADGzYGYGjZDYmZYMjBD",
             ["n"] = 1,
         },
     },
@@ -2092,11 +2084,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxCbAYWmtZmZrZmptZmtZAALAGAMmhBmxMzGWmZmZYMjBD",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGzMGDzYhNAMLz2Mzs1Mz02Mz2MAgFADAYGmBzYmZDLzMzMMGGMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGjxYYGLsBgZZ2mZmtmZm2mZWmBAsAYAwYGzAzYmZDbzMzMMGGMA",
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzMzAAAAAAYmysMDzM2Gz2wMbzYmxYYGLsBgZZ2mZmtmZm2mZWmBAsAYAAzwAzYmZDbzMzMMGGMA",
             ["n"] = 1,
         },
         {
@@ -2124,7 +2120,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAANbbzMzyYmZGAAAAAAzUGzwMjtxsNMz2MmZMGmxCbAYWmtZmZrBBAAsAYAwYGGYGzMbAzMDjZMYA",
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUGzwMjtxsNMz2MmZMGmxCbAYWmtZmZrBBAAsAYAwYGGYGzMbAzMDjZMYA",
             ["n"] = 1,
         },
         {
@@ -2133,6 +2129,10 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUGzwMjtxsNMz2MmZMGmxCbAYWmtZmZrBBAAsAYAwYGGYGzMbAzMjZMMYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzYGAAAAAAzUGzwMjtxsNMz2MGjxYmxCbAYWmtZmZrZmptZmtZAALAGAMmhZwMmZ2wyMzMDjhBD",
             ["n"] = 1,
         },
         {
@@ -2155,84 +2155,64 @@ RecommendedStatsData_Talents = {
             ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxCbAYWmtZmZrBBAAsAYAwYGGYGzMbAzMDjZMYA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGmZAAAAAAYUGzwMjtxsNMz2MmZMzwMWYbAYWmtZmZrBBAAsAYAwYGmBzYMbAzMDjhBD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CYEAzbn3egSOtoSwvPw1U1vTLAAAAAwoZbbmZWGzMzAAAAAAYUmtZYmx2Y2GmZbGjxYYGLsBgZZ2mZmtGEAAwCgBAjZYGMjZmNgZmhxwgB",
-            ["n"] = 1,
-        },
     },
     ["WARRIOR_ARMS_MYTHICPLUS"] = {
         {
             ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxYmZzMzMzYmxMDAAAAgxyMDMhxy2ALgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
-            ["n"] = 3,
-        },
-        {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGmZzMzMzYmxMDAAAAgxyMDMhxy2ALgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
-            ["n"] = 2,
+            ["n"] = 4,
         },
         {
             ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGzMbmZmZGmxMDAAAAgxyMDMhxy2ALgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
+            ["n"] = 4,
+        },
+        {
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbLzMzMDzYmBAAAAwYZmBmwYZbgFwAmhJkZwGYmx2wgZZmtBYmBAzwA",
             ["n"] = 2,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbmZmZGzMmZAAAAAMWmZgJMW2mNzsMsYYYmZm2oZGsBmZsMMYWmZbwMzMDAmhBA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphBzMbLzMzMDzYmBAAAAwYZmBmwYZbgFwAmhJkZwGYmhx2gZZmtBYmBAzwA",
-            ["n"] = 1,
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbLzMzMjZGzMAAAAAGLzMwEGLbDsAGwMMhMD2AzMMMYWmZbAmZAwMMA",
+            ["n"] = 2,
         },
         {
             ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGmZzMzMzYmxMDAAAAgxyMDMhxy2sZmlhFDDzMz0GNzgNwMDDDmlZ2GMzMzAgZYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZYmxyMzMzgxMDAAAAgxyMDMhxy2AbgBMDTIzgNwMjtx2gZZmtBYmBAzwA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzYmZGAAAghphBzMbLzMzMjZGzMAAAAAmZZmBmwYZbgFwAmhJkZwGYmhhBWmZbAmZAwMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbLzMzMjZGzMAAAAAGLzMwEGLbDsAGwMMhMD2AzMMMYWmZbAmZAwMMA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGmZbZmZmZYGzMAAAAAGLzMwEGLbzmZWGWMMMzMTb0MD2AzMMMYWmZbwMzMDAmhBA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbLzMzMDzYmBAAAAwYZmBmwYZbgFwAmhJkZwGYmx2wgZZmtBYmBAzwA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxYmZzMzMzYmxMDAAAAgxyMDMhxy2sZmlhFDDzMz0GNzgNwMDDDmlZ2GMzMzAgZYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbLzMzMDzYmBAAAAwYZmBmwYZbgFwAmhJkZwGYmxywgZZmtBYmBAzwA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGmZZZmZmZYGzMAAAAAGLzMwEGLbDsAGwMMhMD2AzMMMYWmZbAmZAwMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGmZzMzMzwMmZAAAAAMWmZgJMW2GYBMgZYCZGsBmZsMMYWmZbAmZAwMMA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzYmZGAAAghphxYmxyMzMzwMmZAAAAAMzyMDMhxy2ALgBMDTIzgNwMDjlBWmZbAmZAwMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzMmZGAAAghphZGzMWmZmZGMmZAAAAAMzyMDIMWWGYBMgZYCZGsBmZYsNwyMLDwMDAmhBA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGmZzMzMzYmxMDAAAAgxyMDMhxy2AbgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGmZzMzMzYmxMDAAAAgxyMDMhxy2ALgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
             ["n"] = 1,
         },
         {
             ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZYmZzMzMzYmxMDAAAAgxyMDMhxy2sZmlhNDDzMz0GNzgNwMDDDmlZ2GMzMzAgZYA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGzMbLzMzMDGzMAAAAAGLzMwEGLbDsAGwMMhMD2AzMM2GMLzsNAzMAwwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzYmZGAAAghphxYmZZZmZmZYGzMAAAAAmZZmBmwYZb2MzywihhZmZajmZwGYmhhBWmZbwMzMDAmhBA",
-            ["n"] = 1,
-        },
     },
     ["WARRIOR_ARMS_RAID"] = {
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzYmZGAAAghphxYmxyMzMzwMmZAAAAAMzyMDMhxy2ALgBMDTIzgNwMDjtBWmZbAmZAwMMA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGzMbmZmZGmxMDAAAAgxyMDMhxy2ALgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbLzMzMDzYmBAAAAwYZmBmwYZbgFwAmhJkZwGYmx2wgZZmtBYmBAzwA",
             ["n"] = 2,
         },
         {
@@ -2240,19 +2220,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzMmZGAAAghphZGzMWmZmZGMmZAAAAAMzyMDIMWWGYBMgZYCZGsBmZYsNwyMLDwMDAmhBA",
-            ["n"] = 2,
-        },
-        {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMz8AmZGAAAghphZGzMWmZmZGMmZAAAAAMzyMDMhxyyALgBMDTIzgNwMDjtBWmZbAmZAwMMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphBzMbLzMzMjZGzMAAAAAGLzMwEGLbDsBGwMMhMD2AzMMMYWmZbAmZAwMMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGzMbmZmZGmxMDAAAAgxyMDMhxy2ALgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
             ["n"] = 1,
         },
         {
@@ -2272,7 +2240,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphZGmZzMzMzYmxMDAAAAgxyMDMhxy2ALgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzYmZGAAAghphxYmxyMzMzwMmZAAAAAMzyMDMhxy2ALgBMDTIzgNwMDjtBWmZbAmZAwMMA",
             ["n"] = 1,
         },
         {
@@ -2280,7 +2248,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbLzMzMDzYmBAAAAwYZmBmwYZbgFwAmhJkZwGYmx2wgZZmtBYmBAzwA",
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzMmZGAAAghphZGzMWmZmZGMmZAAAAAMzyMDIMWWGYBMgZYCZGsBmZYsNwyMLDwMDAmhBA",
             ["n"] = 1,
         },
         {
@@ -2299,22 +2267,26 @@ RecommendedStatsData_Talents = {
             ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxYmZzMzMzYmxMDAAAAgxyMDMhxy2ALgBMDTIzgNwMDDDmlZ2GgZGAMDDA",
             ["n"] = 1,
         },
+        {
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdjZmZmFzYmZGAAAghphxwMbmZmZGzMmZAAAAAMWmZgJMW2GYBMgZYCZGsBmZsMMYWmZbAmZAwMMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CcEASWsDSHNyPDXnbxuIhH3ZdDzMzsMzMmZGAAAghphxYmxyMzMzgxMDAAAAgZWmZAhxyyALgBMDTIzgNwMjtx2ALzsNAzMAYGGA",
+            ["n"] = 1,
+        },
     },
     ["WARRIOR_PROTECTION_MYTHICPLUS"] = {
         {
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzwMzMzMmNzMLzYMGNMzwiZmZGzwMDAAAAWmZAmxAMYbZGz2yyoZmhZYZWaMzGMmZGGLAwMzMDAYGYMA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAjZmxMzMDziZmlZMGjGzYYxMzMjZYmBAAAALzMAGDwgtlZMbLbjmZGmhlZpxMbwYmZYsBAzMzMAgZgxA",
-            ["n"] = 2,
-        },
-        {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzMmZmZmxsZmZZGjxoxMzwiZmZGGmZAAAAwyMDwMGgBLLzY2W2GNzMMDLzSjZ2ghZGMbAwMzMDAYGYMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAjZGmZGzY2MzsMjxY0wYGLzMzMjZYmBAAAALzMAzYAGstNjZZZZ0MzwMsMbNmZBGzMDjNAYmZmBAYgxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzMmZmxMmFzMLDjxohZGWMzMzYGmZAAAAw2MDwMGgB2glFjGzAY2iZ2wMmZGMbAwMDAAzAjB",
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzMzMzMmxsYmZZYMGNMzwiZmZGzwMDAAAA2mZAmxAMwGssY0YGAzWMzGMmZGMbAwMDAAzAjB",
             ["n"] = 1,
         },
         {
@@ -2322,7 +2294,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAjZmZmZmZY2MzsMjxYEzYGLzMzMjZYmBAAAALjBwYAGstNjZZZZ0MzwMsMLNmZDmxMDjNAYmZmBAYgxA",
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAjZMzMzMDzmZmlZMGjGzYYxMzMjZYmBAAAALzMAGDwALw2iRjZAMLxMbwYmZYsBAzMAAMDMG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3CAAYMzMzMzMDzmZmlZMGjYGDLzMzMjZYmBAAAALjBwsNAD22mxsssMamZYGWmlGzsBzYmhxGAMzMzAAmBGD",
             ["n"] = 1,
         },
         {
@@ -2330,7 +2306,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAjZGzMzYGzmZmlZMGjGzYYZGzMjZYmBAAAALzMAzYAGstBbLGNmBwsEzsBMzMY2AgZGAAmBGD",
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAjZGzMzYGzmZmlZMGjGzYYZGzMjZYmBAAAAbzMAzYAGstBbLGNmBwsEzsBMzMY2AgZGAAmBGD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzYmZmZmxsZmZZYMGNmxwiZmZGzwMDAAAAWmZAmxAMwGssY0YGAzSMzGMmZGMbAwMDAAzAjB",
             ["n"] = 1,
         },
         {
@@ -2339,6 +2319,10 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzMmZmxMmNzMLzYMGNmxwiZmZGzwMDAAAAWmZAmxAMYbbGzyy2oZmhZYZWaMzGMmZGGLAwMDAAzAjB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzYmZmZmxsZmZZGjxoxMGWMzMzYGmZAAAAwyMDwMGgB2glFjGzAYWiZ2AmZGMbAwMDAAzAjB",
             ["n"] = 1,
         },
         {
@@ -2354,7 +2338,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzYmZmZmxsZmZZGjxoxMGWMzMzYGmZAAAAwyMDwMGgB2glFjGzAYWiZ2AmZGMbAwMDAAzAjB",
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzwMzMzMmNzMLzYMGNmxwiZmZGzwMDAAAAWmZAmxAMYbbGzyy2oZmhZYZWaMzGMmZGMbAwMDAAzAjB",
             ["n"] = 1,
         },
         {
@@ -2371,10 +2355,6 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzMmZmZmxsZmZZYMGNmxwiZmZGzwMDAAAAWmZAmxAMwGstY0YGAzSMzGMmZGMbAwMDAAzAjB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzwMzMzMmNzMLzYMGNmxMbLmZmZMDzMAAAAYZGAzYAGssNjZZZb0MzwMsMLNmZDmZmZYAAmZmZAAGYMA",
             ["n"] = 1,
         },
     },
@@ -2412,15 +2392,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAjZGmZGzY2MzsMjxY0wYGLzMzMjZYmBAAAALzMAzYAGstNjZZZZ0MzwMsMbNmZBGzMDjNAYmZmBAYgxA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAzMzYmZGzY2mxsMMGjGGDLzMzMDzYmBAAAALjBYGDwgttZMLLLjmZGmhlZpxMbwMmZwsBAzMzMAgZgxA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd32AAAzMDzMzMzMzmxsMMGjGmZmtlZmZmBjZGAAAAsMAMjBYw22MmlltRzMDzwys0YmFGzwMMDAYmZmBAYgxA",
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzgZmZmxsYmZZGjxohxwyMzMzYGmZAAAAwyMDwMGgBbbzYWWWGNzMMDLzSjZWwMmZGGbAwMzMDAYGYMA",
             ["n"] = 1,
         },
         {
@@ -2432,7 +2408,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3ZdnBAAGzMmZmZmxsZmZZYMGNmZGbMzMzYGmZAAAAwyMDwMGgBbbzYWW2GNzMMDLzSjZ2wMMzgBAMzMzAAmBGD",
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAjZMzMzMDzmZmlZMGjGzMjtFzMzMmhZGAAAAsMGAjBYw22MmlltRzMDzwys0YmNYmZGYAAzMzMAgZgxA",
             ["n"] = 1,
         },
         {
@@ -2456,7 +2432,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd32AAAzMzYmZGzMzmxsMjxYmGGjtlZmZmBMzAAAAglBgZMAD22mxsssNamZYGWmtGzsAzYmBzGAgZGAwMwYA",
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd32AAAjZwMzMzY2mxsMjHwY0YmZmtlZmZmhxMzAAAAglBgZMAD22mxsssMamZYGWmlGzsxYmZGYAAzMAAMgxA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkEASWsDSHNyPDXnbxuIhH3Zd3yAAAzMzMzMzYGzixsMjxYmGmZssYmZmxMMzAAAAglBgZMADsBLLGNmBwsFjNYGmhZAAzMAAMDMG",
             ["n"] = 1,
         },
     },
@@ -2466,19 +2446,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMDjZYZMNDAAAAAAAA8AjxAmZjAzsA2GAA",
-            ["n"] = 2,
-        },
-        {
             ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsBzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZYMDGTzAAAAAAAAAzYMgZ2IMMLgtBA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMjZMDGTzAAAAAAAAAPwYMgZ2IwMLgtBA",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZMjZYZoZAAAAAAAAgZMGwMbEwsA2GAA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZMjZYZoZAAAAAAAAgZMGwMbEwsA2GAA",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqYzsNjZmhFDLMzMbGaGbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMjZMDGaGAAAAAAAAYGjhZmZ2IMMLgtBA",
             ["n"] = 1,
         },
         {
@@ -2490,11 +2466,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGmZGzYGMmmBAAAAAAAAmxYAzsRgZWAbDAA",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMjZMDLDNDAAAAAAAAmHYMGwMbEwsA2GAA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzYGbzMjZMDGTzAAAAAAAAAzYMgZ2IwMLgtBA",
             ["n"] = 1,
         },
         {
             ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbmZMjZwYaGAAAAAAAAYGjBMzGhhZBsNAA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGPwMzsMzwMzMjZGMzYmhZGzMzwMzwYGMmmBAAAAAAAAegZGDYmNCjZWAbDAD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMDjZYZMNDAAAAAAAA8AjxAmZjAzsA2GAA",
             ["n"] = 1,
         },
         {
@@ -2506,11 +2494,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMjZMDLDNDAAAAAAAAmHYMGwMbEwsA2GAA",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsBzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGmZGGzwyQzAAAAAAAAAzYMgZ2IMmZBsNAA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsBzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZMjZYboZAAAAAAAAwYMzAmZjAmFw2AA",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZMjZwYaGAAAAAAAAYGjBMzGBMLgtBA",
             ["n"] = 1,
         },
         {
@@ -2522,15 +2510,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzwMzYGzghmBAAAAAAAAmZGDYmNCMzCYbAA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZMjZwQzAAAAAAAAAzYMgZ2IwMLgtBA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "C0PAD57yiELKEty14ekTDtZEqYzsNjZmhFDLMzMbGaGbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZMjZwYaGAAAAAAAAYGjhZmZ2IgZBsNAA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZYMDGTzAAAAAAAAAzYMgZ2IwMLgtBA",
             ["n"] = 1,
         },
     },
@@ -2556,10 +2540,6 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYmZGmZGzYGM0MAAAAgZAAAYmxMAzsRYYWAbDAD",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGGzsMzwMmZYYmxYmxMzYmZGmxYGzwyQzAAAAAmBAAgxMzMgZ2IMMLgtBgB",
             ["n"] = 1,
         },
@@ -2568,7 +2548,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYmZGbzMjZMDGTzAAAAAmBAAgZGDgZ2IwMLADAD",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZMjZwQzAAAAAAAAgZGjBMzGBMLgtBA",
             ["n"] = 1,
         },
         {
@@ -2576,7 +2556,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYmZGmxYGzghmBAAAAMDAAAzMzMAzsR2gZBsNAM",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzYbmZMjZYZMNDAAAAAAAAGjxAmZjAmFw2AA",
             ["n"] = 1,
         },
         {
@@ -2584,11 +2564,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMjZMDLDNDAAAAAAAAmHYMGwMbEwsA2GAA",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzYmltZmxMmBDNDAAAAAAAAmZMDwMbEwsA2GAA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzMzwMzYGzghmBAAAAAAAAmZGDYmNCMzCYbAA",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMjZMDLDNDAAAAAAAAmHYMGwMbEwsA2GAA",
             ["n"] = 1,
         },
         {
@@ -2596,7 +2576,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGmZGzYGMmmBAAAAAAAAmxYAzsRgZWAbDAA",
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzsMzwMzMjZGMzYmhZGzYGbzMjZMDGTzAAAAAAAAAzYMgZ2IwMLgtBA",
             ["n"] = 1,
         },
         {
@@ -2615,14 +2595,18 @@ RecommendedStatsData_Talents = {
             ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYGzwMzYGzghmBAAAAMDAAAzMzMAzsRYYWAbDAD",
             ["n"] = 1,
         },
+        {
+            ["code"] = "C0PAD57yiELKEty14ekTDtZEqAMmxwCsAzwQDbAAYGzMzs8AzwMzMjZGMzYmhZmZGzwMzwYmhx0MAAAAAAAAYMGDYmNCWmZBsNAM",
+            ["n"] = 1,
+        },
     },
     ["HUNTER_MARKSMANSHIP_MYTHICPLUS"] = {
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqYbZ2GDjZMTjlZG2yMMbAAAAAAAAgZMjZYGzMjZwYaGDmtttZmZmZmZmBmlhZGAAw8AzMDmZwM22wMAbMz2MG",
-            ["n"] = 1,
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbzMzMzMzMDmZZYmBAA4BGjBgZsBGgNmZbGD",
+            ["n"] = 2,
         },
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbzMzMzMzMDmZZYmBAA4BGjBgZsBGgNmZbGD",
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjNjZmxMYMNjBzy22MzMzMzMzswMLDzAAAMzYMAMjNwAsxMbzYA",
             ["n"] = 1,
         },
         {
@@ -2630,15 +2614,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqYbbWGDjZMTjlZGWyMMLAAAAAAAAgZ8AjZwYmZmZwQzYwstYmZmZmZmxGzsMMzAAAmZMjZmZwM2WYZGgFmZxMA",
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwGMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbzMzMzMzMzCzsMMDAAAjxAwM2gZA2YmtZMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwGMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhtx0MGMLbbzMzMzMzMzCzsMMDAAgHYMGAmxGYA2YmtZMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmBjpZMYW22mZmZmZmZmFmZZYGAAAPwYMAMjNYGgNmZbGD",
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwGMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbzMzMzMzMzCzsMMDAAgHYMGAmxGYA2YmtZMA",
             ["n"] = 1,
         },
         {
@@ -2658,7 +2638,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbzMzMzMzMzCzsMMDAAAjxAwM2gZA2YmlZMA",
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqYbZ2GDjZMTjlZGWyMMbAAAAAAAAgZMzMjNjZmxMsMmmxgZZbbmZmZmZmZwMLDzMAAAzYMMzgZsBGgNmZbGD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMLbmZmZmZmZmFmZZYmBAAwYMAMjNYGgNmZZGD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqYbZWGDjZMTjlZGWyMMbAAAAAAAAgZMzMjNjZmxMYMNjBzymZmZmZmZmZhZWGmZAAAmxYYmBzYDmBYjZ2mxA",
             ["n"] = 1,
         },
         {
@@ -2666,7 +2654,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmBjpZMYW22mZmZmZmZmFmZZYGAAg5BGjBgZsBGgNmZbGD",
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwGMwMGNWGQmBbAAAAAAAAgZMzMDGzMjZYZMNjBzy22MzMzMzMzswMLDzAAAYGjBgZsxwAswMbzYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmBjpZMYW22mZmZmZmZmFmZZYGAAg5BGzAgZsBGgNmZbGD",
             ["n"] = 1,
         },
         {
@@ -2678,23 +2670,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqYbZ2GDjZMTjlZGWyMMbAAAAAAAAgZMzMjNjZmxMsMmmxgZZbbmZmZmZmZWYmlhZAAAMjxwMDmxGYA2YmtZMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjNjZmxMYMNjBzy22MzMzMzMzswMLDzAAAYGjBgZsBzAswMbzYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbzMzMzMzMzCzsMMDAAgHYMGAmxGYA2YmtZMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwGMwMGNWGQmBbAAAAAAAAgZMzMjNjZmxMsMmmxgZZbbmZmZmZmZWYmlhZAAAMjxAwM2ADwCzsNjB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwGMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbzMzMzMzMzCzsMMDAAgHYMGAmxGYA2YmtZMA",
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmhlx0MGMbbbzMzMzMzMDmZZYmBAA4BGjBgZsBGgNmZbGD",
             ["n"] = 1,
         },
     },
@@ -2720,10 +2700,6 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMjZW2mxMzYGMmmxgx2yMzMzMzMzgZWGMDAAYMzwMAzYjhBYjZ2mxA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMjZsNjZmxMYMNjBz222MzMzMzMzgZWGmZAAAmZGAYGbMMAbMz2MG",
             ["n"] = 1,
         },
@@ -2737,6 +2713,14 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMjtZMzMmBDNjBz222MzMzMzMzgZWGmZAAAzMzAAzYDMAbMz2MG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMjZsNjZmxMYMNjBz222MzMzMzMzgZWGmZAAAzDMzMAYGbgBYjZ2mxA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMDzYmZMDGaGDmtttZmZmZmZmBmlhZGAAwMzMDAmx2GMAbMz2MG",
             ["n"] = 1,
         },
         {
@@ -2763,15 +2747,19 @@ RecommendedStatsData_Talents = {
             ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMDzYmZMDGTzYwsttNzMzMzMzMwsMMzAAAmHYmZAwM2YYA2YmtZMA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "C4PAD57yiELKEty14ekTDtZEqwCMwMGNWGQmBbAAAAAAAAgZMzMDGzMjZwYaGDmtttZmZmZmZmBzsMMzAAAmZmBAmxGDDwGzsNjB",
-            ["n"] = 1,
-        },
     },
     ["PRIEST_SHADOW_MYTHICPLUS"] = {
         {
             ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAMLmxMbzMmZWmxYY2mZGzMzYDZYZbmGgZAmZzMa2MAkxYBAzMGMmZmxsxMbLDwMYA",
             ["n"] = 2,
+        },
+        {
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGjx2MzYmZGbIzw2MNAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzY2MzYmZGbMZgZaMDmBYmNzoZzAQGjFAMzAGzMzY2YmtlBwgB",
+            ["n"] = 1,
         },
         {
             ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDzAAAAAAAAAAAAMMLmxYbmxMz2MYG2mZGzMzYjJDMTjBmBYmNzoZzAQGjFAMzYwYmZGzCzstMAzgB",
@@ -2786,15 +2774,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGjZ2MzYmZGbIDLmpxAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGjx2MzYmZGbIDLbmGgZAmZzMaWMAkxYBAzMgZmZmxsxMbLDwMYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGjx2MzYmZGbIzw2MNAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGDz2MzYmZGbIDLmpxAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
             ["n"] = 1,
         },
         {
@@ -2802,7 +2782,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAMLmxMbzMmZ2mxYG2mZGzMzYDZYZz0MgZmZwMbmRzmBz2stkxMLMAzMGMmZmxsxMbLzMDmBDA",
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAMLmxMbzMmZ2mxYY2mZGzMzYDZYhpZGYmZGMzmZ0sZwsNbLZMzCDwMjBjZmZMbMz2yMzgZwA",
             ["n"] = 1,
         },
         {
@@ -2810,7 +2790,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGGaGYmmZgZAmZxMa2MAkxYBAzMgxMzMmNmZbZAMYA",
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGjx2MzYmZGbIzw2MNAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
             ["n"] = 1,
         },
         {
@@ -2822,7 +2802,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMjZAAAAAAAAAAAAgZxMmZbmxMzyMzYY2GzYmZGGamBmmZgZmZwMbmRzmBz2stlxMLMAwgxMzMmtxMbLzMDmBDA",
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMjZAAAAAAAAAAAAgZxMmZbmxMzyMzYY2GzYmZGGaGsZamBmZmBzsZGNbGMbz2WGzswAADGzMzY2GzstMzMYGMA",
             ["n"] = 1,
         },
         {
@@ -2830,19 +2810,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGjxmxYmZGbGZG2mpBYmZGMzmZ0sZwsNbbZMzCDwMDYMzMjZjZ2WmZGMDGA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzY2MzYmZGbIzYxMNAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGDz2MzYmZGbIzw2MNAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzw2MzYmZGYyAz0YgZAmZzMa2MAkxYBAzMgxMzMmNzMbLDwMYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbIDLmpxAzMzgZ2MjmNDmtZbJjZWYAmZAjZmZMbMz2yMzgZwA",
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGYyAz0YgZAmZzMa2MAkxYBAzMgxMzMmNzMbLDwMYA",
             ["n"] = 1,
         },
     },
@@ -2852,15 +2828,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbIzYxMNAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzM2mxYmZGbIzYxMNAzAMzmZ0sZAIjxCAGMYMzMjZjZ2WGgZwA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDzAAAAAAAAAAAAwMLmxMbzMGz2MGzw2MzYmZGGaGYmmZgZAmZzMa2MAkxYBAzMgxMzMmNmZbZAMYA",
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzw2MzYmZGYyMYmGDMzMDmZzMa2MY2mtlMmZhBYmBMmZmxsxMbLzMDmBDA",
             ["n"] = 1,
         },
         {
             ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbIDLbz0AMDwMbmRzmBgMGLAYmBMmZmxsxMbLDwMYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzY2MzYmZGbMZgZaMDmBYmNzoZzAQGjFAMzAGzMzY2YmtlBwgB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzY2MzYmZGYyMYmGDMDwMbmRzmBgMGLAYmBMmZmxsxMbLDwMYA",
             ["n"] = 1,
         },
         {
@@ -2900,10 +2884,6 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzw2YGzMzYbMZgZaMwMAzsZGNLGAyYsAgZGwYmZGzGzstMAzgB",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzw2MzYmZGbIzYxMNAzAMzmZ0sZAIjxCAmZAjZmZMbMz2yAMDGA",
             ["n"] = 1,
         },
@@ -2923,34 +2903,42 @@ RecommendedStatsData_Talents = {
             ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzY2MzYmZGYyAz0MDMDwMbmRzmBgMGLAYmBMmZmxsxMbLDwMYA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CIQAR03Gt7xPmcDNOjs2Zlb3yOMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGGaGYmmZgZAmZxMa2MAkxYBAzMgxMzMmNmZbZAMYA",
-            ["n"] = 1,
-        },
     },
     ["ROGUE_SUBTLETY_MYTHICPLUS"] = {
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMmNzyMmlZYswwyMLTL0yshZYmZmBzYA",
             ["n"] = 3,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYGbbzMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
-            ["n"] = 2,
-        },
-        {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMDjZmZmZGGbzYmZbZmZMzMjBMz2AAAAwgxsZWmxsNDjFGWmZZahWmFMDzMzMYmZA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmxyYmZmZGDGzsNAAAAMDjZzsMjZbGGLMsMzy0CtMbYGmZmZwYGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZmZmZmZMYMz2AAAAwgxsZ2mxsNDjNG2mZZahWmNMDzMzMYYA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7DgZ2mBAAAAAmlxYZiZbZMmZMDMzMzYmZbGzMbLzMjZmZMgZ2GAAAAGMmNzyMmtZYswwyMLTL0ysBDzMzMYmZA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoNbYGwMDGzA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYGbLzMzMzMjBjZ2GAAAAzgxAGzihBGYW0CtYDGwMDmxA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYGbbzMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGbTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAmhxAGzihBGYW0CtYDzAmZwwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbbMzMzMjBjZ2GAAAAGMGwYWMMwAziWoNbYGwMDGzA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGbTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbwAmZwMzA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmxyYmZmZGDGzsNAAAAMYMLmlZMLzwYhhlZWmWolZDzwMzMDmZGA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGbTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
             ["n"] = 1,
         },
         {
@@ -2958,15 +2946,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZmZMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTjxyYMDzYYmZmxMz2MmZsMzMmZmxgxMbDAAAADGDYMLGGYgZRL0iNMDYmBzMDA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYmx2YmZmZGDGzsNAAAAMYMbmlZMbzwYhhlZWmWolZDzwMzMDmZGA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYGbLzMzMzMjBjZ2GAAAAGMmNzyMmlZYswwyMLTL0yshZYmZmBzYA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMmNzyMmlZYswwyMLTL0ysBDzMzMYmZA",
             ["n"] = 1,
         },
         {
@@ -2974,7 +2958,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMDjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAmhxAGzihBGYW0CtYDzAmZgxA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTjxyYMzwYYmZmxMz2MmZ2WGzMzMzYwYmtBAAAgZYMgxsYYgBmFtQL2wMgZGYMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
             ["n"] = 1,
         },
         {
@@ -2982,15 +2970,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbwAmZwMzA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMmNzyMmlZYswwyMLTL0yshZYmZmBzYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYmZbZmZMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7DgZ2mBAAAAAmlxYZiZbZMmhZMMzMzYmZbGzMbLjZmZmZMYMz2AAAAwgxAGzihBGYW0CtYDGwMDmxA",
             ["n"] = 1,
         },
         {
@@ -3001,18 +2981,22 @@ RecommendedStatsData_Talents = {
     ["ROGUE_SUBTLETY_RAID"] = {
         {
             ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYGbbzMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
-            ["n"] = 7,
+            ["n"] = 3,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMmNzyMmlZYswwyMLTL0yshZYmZmBzYA",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
+            ["n"] = 2,
         },
         {
             ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAziWoFbYGwMDmxA",
             ["n"] = 2,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYGbLzMzMzMjBjZ2GAAAAGMmNzyMmlZYswwyMLTL0yshZYmZmBzYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmxyYmZmZGDGzsNAAAAMDjZzsMjZbGGLMsMzy0CtMbYGmZmZwYGA",
             ["n"] = 1,
         },
         {
@@ -3020,7 +3004,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYGbbzMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGbTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbwAmZwMzA",
             ["n"] = 1,
         },
         {
@@ -3028,11 +3012,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMjZmZMYMz2AAAAwgxAGzmhBGYW0CtYDzAmZwMzA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7DgZ2mBAAAAAmlxYZaMWGjZYGDzMzMmZ2mxM2WGzMzMzYwYmtBAAAgZYMgxsYYgBmFtQL2gBMzgZMA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYmx2MzMzMzYwYmtBAAAgBjZzsMjZZGGLMsMzy0CtMbYGmZmZwMGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYGbbzMzMzMjBjZ2GAAAAGMmNzyMmtZYsww2MLTL0yshZYmZmBzYA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGbTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMMjhZmZGzMbzYmZbZMzMzMjBjZ2GAAAAGMmNzyMmtZYsww2MLTL0yshZYmZmBzYA",
             ["n"] = 1,
         },
         {
@@ -3040,15 +3036,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbbjxMDDzMzMzw8AbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMhMLYGmZAmxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYmx2YmZmZGDGzsNAAAAMYMLmlZMbzwYhhlZWmWolZDzwMzMDmZGA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbbjxMjZgZmZGzMbzYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzmWoFbYGwMDmxA",
+            ["code"] = "CUQA5HmDzx68KWyrW/8Y781L7Dgx2MAAAAAwsMGLTMbLjxMjZgZmZGzMbzYG2mZmZmZGDGzsNAAAAmBjBMmNDDMwsoFaxGmBMzgZMA",
             ["n"] = 1,
         },
     },
@@ -3062,7 +3050,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZMzGzMzMGz2ywMLzMzMmZAAAAYJYYYMzomxswMzMLjZMDAAAAAgBGAAAANzysMzMzsNzSzyMbbgZGgFzgBAwMDmZDD",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBEDLwMzAswgBAAwMbYA",
             ["n"] = 1,
         },
         {
@@ -3070,7 +3058,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWMzMzsMmxAAAAAAwADAAAgmZZWmZmBEYBmZGgFGMAAAmZDD",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWmZmZmlxMAAAAAAwADAAAgmZZWmZmBEYBmZGgFGMAAAmZDD",
             ["n"] = 1,
         },
         {
@@ -3090,11 +3078,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAwYMjxYmZMmtFWGbzMzYmZAAAAYLY2gxMjaGzyYmZGjZMDAAAAAgBGAAAABAz2MLNLzssBmZAWMDGAAzMAYA",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmZ2mZpZZmlFYmZAWYwAAYmBzshB",
             ["n"] = 1,
         },
         {
             ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYLY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBEYBmZGgFGMAAAmZDD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAwYMjxYmZMmtFWGbzMzYmZAAAAYLY2gxMjaGzyYmZGjZMDAAAAAgBGAAAABAz2MLNLzssBmZAWMDGAAzMAYA",
             ["n"] = 1,
         },
         {
@@ -3106,15 +3098,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmZ2mZpZbmlFYmZAWYwAAYmBzshB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2MWmZZGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmZ2mZpZZmlFYmZAWYwAAYmBzshB",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZYmZmZMmNjtZWmxMjZGAAAAWCmNDPgZG1MmFzMzMLjZYAAAAAAMwAAAAoZWmlZmZABWgZmBYhBDAAgZ2wA",
             ["n"] = 1,
         },
     },
     ["DRUID_FERAL_RAID"] = {
+        {
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAwYMjxYmZMmtFWGbzMzYmZAAAAYJYYYMzomxsYmZmxYGGAAAAAADMAAAACAmtZWaWmZZDmZGgFzgBAwMDAGA",
+            ["n"] = 1,
+        },
         {
             ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYLY2M8AmZUzYWmZmZmlxMAAAAAAAYAAAA0MLzyMzMgALwMzAswMMAAAmZDD",
             ["n"] = 1,
@@ -3128,6 +3120,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBEYBmZGgFGMAAAmZDD",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZ2mZmZ2mZpZZmtFYmZAWYwAAYmBzshB",
             ["n"] = 1,
         },
@@ -3136,7 +3132,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAAjZ2YmZmxY2WGLjtZmZMzMAAAAsFMbwYmRNjZZMzMjxMjBAAAAAAYAAAAEAMbzs0sMzyGYmBYxMYAAMzAgB",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxMzmx2YbGzMmZAAAAYLY2M8AmZUzYWmZmZmlxMDAAAAAAADAAAgmZZWmZmBEYBMzAswgBAAwMbYA",
             ["n"] = 1,
         },
         {
@@ -3148,11 +3144,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAwYMjxYmZMmtFWGbzMzYmZAAAAYJY2gxMjaGziZmZmlxMMAAAAAAADAAAgAgZbmlmlZW2AzMALmZYAAMzAgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZMzGzMzMGz2ywMLzMzMmZAAAAYJYYYMzomxswMzMLjZMDAAAAAgBGAAAABAz2MLNLzssBmZAWMDGAAzMAYA",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAwYMjxYmZMmtFWGbzMzYmZAAAAYJY2YMmZUzYWGzMzYMDDAAAAAAwAAAAIAY2mZpZZmlNMzMPAwiZwAAYmBAD",
             ["n"] = 1,
         },
         {
@@ -3160,15 +3152,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZbGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBEYBmZGgFGMAAAmZDD",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAAjZ2YMzMGz2yYZsNzMzMzMAAAAsFMbGGzMqZMLjZmZMmBAAAAAAGYAAAAEAMbzs0sNzyGYmBYxMDDAgZGAMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAAjZWYmZmxY2Mjx2MzMmZGAAAAWCmNDjZG1MmlZmZmxYGDAAAAAADMAAAACAmtZWaWmZZDMzDAsYGMAAmZAwA",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYLY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBEYBmZGgFGMAAAmZDD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAAjZ2MzMzMzY2MWGbzYm5BmZAAAAYJY2MMmZUzYWYmZGjZGAAAAAAMwAAAAIAY2mZpZZmlNwMDwiZwAAYmBAD",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYJY2M8AmZUzYWMzMzsNm5BGAAAAAAGYAAAA0MLzyMzMgALgZGgFGMAAAmZDD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAAmZ2YmZmZG2M2mZZmZm5BmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBEYBmZGgFGMAAAmZDD",
             ["n"] = 1,
         },
         {
@@ -3180,33 +3176,17 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZMzGzMzMGz2yYZsNzMzYmBAAAgtghhxMjaGzyYmZmlxMMAAAAAAGYAAAAEAMbzs0sMz2GYmBYxMYAAMzAgB",
+            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2YmZmxY2M2mZZGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmZWmZpZZmlFYmZAWYwAAYmBzshB",
             ["n"] = 1,
         },
         {
             ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZMzGzMzMGz2y8AGbzMzMmZAAAAYJY2MMmZUzYWGzMzsMmhBAAAAAwADAAAgAgZbmlmlZW2Az8AALmBDAgZGAMA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAAjZ2YmZmxY2WGLjtZmZmHYmBAAAglgZDGzMqZMLjZmZMmxMAAAAAAADAAAgAgZbmlmlZW2AzMALmZYAAMzAgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CcGADBD3hSPCL9Y9gz68WcKvMAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWmZmZmlxMMAAAAAAADAAAgmZZWmZmBEYBmZGgFGMAAAmZDD",
-            ["n"] = 1,
-        },
     },
     ["DRUID_GUARDIAN_MYTHICPLUS"] = {
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYZbmBjZZAMFAAAYDzMALGDDYxCAzMAG",
-            ["n"] = 3,
-        },
-        {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYbbmBjZZAMFAAAYDzMALGDDYxCAzMAG",
-            ["n"] = 2,
-        },
-        {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYZbmBjZbAMFAAAYDzMALGDDYxCAzMAG",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYbbmBjZbAMFAAAYDzMALGDDYxCAzMAG",
             ["n"] = 2,
         },
         {
@@ -3218,7 +3198,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMGAAAAAgZsZALbzMYMLDgpAAAAbYmHAYxYYALWAYmBwA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMMAAAAAgZsZALbzMYMbDgpAAAAbYmBYxADYxCAzMAG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMPwMLLDMbmxoJyMzyYmZmlxMAAAAAAYsZALbzMYMLDgpAAAAbGzMALGDDYxCAzMAG",
             ["n"] = 1,
         },
         {
@@ -3230,15 +3218,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYZbmBjZZAMFAAAYDzMALGDDYxCAzMAG",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzMGNRmZWmZmZmlxMMAAAAAgZsZALbzMYMLDgpmZZWmZmBAwGmZAWMwAWsAwMDgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYbbmBjZbAMFAAAYDzMALGDDYxCAzMAG",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMMAAAAAgZsZAbbzMYMLDgpAAAAbYmHAYxYYALWAYmBwA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMPwMLLDMbmxoJyMzyYmZmlxMAAAAAAYsZALbzMYMLDgpAAAAbGzMALGDDYxCAzMAG",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzMGNRzMzyMzMzsMmBAAAAAgZsZAbbzMYMLDgpAAAAbYmBYxADYxCAzMAG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYbbmBjZZAMFAAAYDzMALGDDYxCAzMAG",
             ["n"] = 1,
         },
         {
@@ -3250,15 +3246,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMzyMLGmZZZgZDGNRzMzyMzMzYMjZAAAAAAzYzAW2mZwY2GATBAAA2wMDwiZwAWsAwMDgB",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMMAAAAAgZsZALbzMYMLDgpAAAAbYmHAYxYYALWAYmBwA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJyMzyMzMzsMm5BAAAAAAMjNDYZbmBjZZAMFAAAYDzMALGDDYxCAzMAG",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMzyMLmxMWGY2MMaimZmlZmZmZZMDAAAAAAzYzAW2mZwY2GATBAAA2wMDwixwAWsAwMDgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYGjZ2MLGMLLDMbGGNRzMzyMzMzsMmhBAAAAAMjtZALbzMYMLDgpAAAAbYmBYxADYxy2AMzAYA",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYZbmBjZbAMFAAAYDzMALGDDYxCAzMAG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYbbmBjZZAM1MmlZmZAAshZGgFjhBsYBgZmZ2gB",
             ["n"] = 1,
         },
     },
@@ -3268,11 +3268,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYGjZ2MLGMLLDMbwoJamZWmZmZGjZMDAAAAAYmZbGwy2MDGz2AYKAAAwGmZAWMwA2ssNAzMAG",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMMAAAAAgZsZALbzMYMLDgpAAAAbYmBYxADYxCAzMAG",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYbbmBjZZAMFAAAYDzMALGDDYxCAzMAG",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzMGNRzMzyMzMzsMmBAAAAAgZsZAbbzMYMLDgpAAAAbYmBYxADYxCAzMAG",
             ["n"] = 1,
         },
         {
@@ -3292,7 +3292,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMzyMLGmZZZgZDGNRzMzyMzMzYMjZAAAAAAzYzAW2mZwY2GATBAAA2wMDwiZwAWsAwMDgB",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMMAAAAAgZsZALbzMYMLDgpAAAAbYmHAYxYYALWAYmBwA",
             ["n"] = 1,
         },
         {
@@ -3300,7 +3300,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMGAAAAAgZsZAbbzMYMbDgpmZZWmZmBAwGmZAWMwAWsAwMzMbwA",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMzyMLmxMLLDMbGGNRzMzyMzMzsMmxAAAAAAYsZAbbzMYMbDgpmZZWmZmBAwGmZAWMwAWsAwMzMbwA",
             ["n"] = 1,
         },
         {
@@ -3308,7 +3308,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYGjZWMLGMLLDMbwoJamZWmZmZGjZMDAAAAAYGbzAW2mZwY2GATBAAA2wMDwiZwA2ssNAzMAG",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYbbmBjZbAMFAAAYDzMALGDDYzCAzMAG",
             ["n"] = 1,
         },
         {
@@ -3324,19 +3324,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJyMzyMzMzsMmhBAAAAAMjNDYbbmBjZZAMFAAAYDzMALGDDYxCAzMAG",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYGjZ2MLGMLLDMbwoJamZWmZmZGjZMDAAAAAYGbzAW2mZwY2GATBAAA2wMDwiZwA2ssNAzMAG",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYGjZ2MLGMLLDMbMGNRzMzyMzMzYMDDAAAAAYmZbGwy2MDGz2AYKAAAwGmxAWMDGwmltBYmBwA",
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJyMzyMzMzsMmhBAAAAAMjNDYZbmBjZZAMFAAAYDzMALGDDYxCAzMAG",
             ["n"] = 1,
         },
         {
             ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmZmFPwMMziZxMzMLLDMbzwoJyMzyMzMzsMmxAAAAAwgZsYALbzMYMLDgpmZZWmZmBAwGmBwixwAWsAwMzMbwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAgZmxsYGjZ2MLGMLbDMbMGNRzMzyMzMzYMzDYAAAAAAzYbGwy2MDGz2AYKAAAwGmxAWMDGwmltBYmBwA",
             ["n"] = 1,
         },
     },
@@ -3346,7 +3346,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNz8AwsZsZbGAAAAAAAAAAsYoZzMmmZAmFmZmZxwAAAAAgBMAGw22YBTzMLDAgZbmlmtZ2swMzMDzMbgmBAzMzMAMA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNzAzsZsZbGAAAAAAAAAAsYoZzMmmZAmFmZmZxwAAAAAgBMAGw22YBTzMLDAgZbmlmtZ2swMzMDzMbgmBAzMzMAMA",
             ["n"] = 1,
         },
         {
@@ -3354,11 +3354,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthHYYmNjtxMAAAAAAAAAAYzQz2YMNzAMLzMzMDDzAAAAAwAAAYbbshpZmlBAwsNzSz2Mb2YmZmBzA0MAYmZmBgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmtBjZmNjtxMAAAAAAAAAAYZQzGjpZGDjZZmZmZMDzAAAAAAAAAAIAAgZbmlmtZ2sxYmBmBoZAAmZAYA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNz8AMmNsZbGAAAAAAAAAAsYoZbmxkZAmFzMzMLGeADAAAAgBMAGwy2YBTzMbDAgZbmtmtZWswYmZYmZD0MAYmZmBgB",
             ["n"] = 1,
         },
         {
@@ -3366,19 +3362,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNz8AMmNsZbGAAAAAAAAAAsYoZbGmmZAmFzMzYxwDMAAAAAMAAzA22GLYamZbAAACYhZmZGmZ2ANDAmZAADA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMzMzMmthHgZmNmNbzAAAAAAAAAAglZoZbGmmZAmFzMzYxwDMAAAAAMAADAACAAY2mZrZbmNbMzMDmZ2ANDAwMDADA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthZwsZsNmBAAAAAAAAAALGa2mZMNzAMLMzMzihHYAAAAAYAAGgttxCmmZWGAAz2MLNbzsZjxMzgZ2ANDAmZmZAYA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNMMmFjNbzAAAAAAAAAAglBNbGmmZM8AmFzMzMLzwDYAAAAAAAwAAQAAAz2MbNbzsYjZmZwMzCoZAAmZAYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsN8AMmFzsZbGAAAAAAAAAAsYoZbGmmZAmFzMzYxwDMDAAAAgBAYGAACAAY2mZrZbmFbMmZGmZ2ANDAwMDADA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNzMwshNLzAAAAAAAAAAgFDNbzMmmZAmFzMzMMMAAAAAYADwMgtlxCmmZWGAAz2MLNbzsZjZmxwMzGoZAAmZAYA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNMMmNmNbzAAAAAAAAAAgNDNbMmmZgHwswMzMLGegBAAAAgBAwAAQAAAz2MbNbzsZjZmZGmZ2woZAAmZAYA",
             ["n"] = 1,
         },
         {
@@ -3386,15 +3378,31 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthHYYmNjtxMAAAAAAAAAAYZGa2YMNzYgZZmZmZYYGAAAAAGAAAAIAAgZbmlmtZ2sxYmZwMANDAwMDADA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsN8AMmFzsZbGAAAAAAAAAAsMoZzw0MjhxsYmZGLzwDMDAAAAAAAGAACAAY2mZrZbmFbMmZwMzCoZAAmZAYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMgxMLjZmZm5BmthHgxsZmNbzAAAAAAAAAAgNDNbzMmmZAmFzMzMMMGAAAAADAwAstNWw0MzyAAY2mZrZbmFbMzMGmZ2ANDAmZmZAYA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNzMwshNLzAAAAAAAAAAgFDNbzMmmZAmFzMzMMMAAAAAYADwMgtlxCmmZWGAAz2MLNbzsZjZmxwMzGoZAAmZAYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsN8AMzsxsZbGAAAAAAAAAAsYoZbmx0MDwsYmZGLGegBAAAAgBAYGAACAAY2mZpZbmNbMzMPwwMzGoZAAmZAYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMgxMLjZmZm5BmthHgxsZmNbzAAAAAAAAAAgNDNbzMmmZAmFmZmhhxAAAAAYAAGgttxCmmZWGAAz2MLNbzsYjZmxwMzGGNDAmZmZAYA",
             ["n"] = 1,
         },
         {
             ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthZwsZsNmBAAAAAAAAAALQzmZMNzAjZZMzMDDzAAAAAAAAALbjFMNzsMAAmtZWa2mZzGjZmBzshRzAAMzAwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNMMmNmFbzAAAAAAAAAAgNDNbzMmmZAmFzMzMLGeADAAAAgBAYGAACAAY2mZpZbmNbMzMGmZ2ANDAwMDADA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsN8AMzsMjNbzAAAAAAAAAAgNDNbzw0MDwsYmZmhhHYAAAAAYAAmBAgAAAmtZ2a2mZxGzMzAzshRzAAMzAwA",
             ["n"] = 1,
         },
         {
@@ -3406,25 +3414,17 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsN8AMzsxsZbGAAAAAAAAAAsYoZbGmmZAmFmZmZxwDMAAAAAMAAzAAQAAAz2MbNbzsZjZm5BGmZ2woZAAmZAYA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsN8AMzswsZbGAAAAAAAAAAsYoZbGmmZAmFmZmZxwDMAAAAAMAAzAAQAAAz2MbNbzsYjZm5BGmZ2MoZAAmZAYA",
             ["n"] = 1,
         },
         {
             ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZbMjZmxsNz8AMmNsZbGAAAAAAAAAAsYoZbGmmZAmlZmZmZxwDAAAAAgBAYGwyyYBTzMLDAgZZmtmtZWsxMz8ADzMbgmBAYmBgB",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsN8AMzsxsZZGAAAAAAAAAAsYoZbmx0MDwsYmZmZxwDMAAAAAMAgZAAQAAAz2MLNbzsZjxMPwwMzGoZAAmZAYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNMMmNmNbzAAAAAAAAAAglBNbmx0MjZMmFzMzYZGeADAAAAAAAGAACAAY2mZrZbmFbMzMwMzCoZAAmZAYA",
-            ["n"] = 1,
-        },
     },
     ["DRUID_RESTORATION_RAID"] = {
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthZwsZsNmBAAAAAAAAAALzQzGjpZGDMLzMzMDDzAAAAAwAAAYbbsgpZmlBAwsNzSz2Mb2YMzMYGgmBAzMzMAMA",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmtZmhxshtxMAAAAAAAAAAYxQz2MMNzAMLmZmZYYmBAAAAwAAMAbbjFMNzsMAAmtZWa2mZzGjZegBjNQzAgZmZGAGA",
             ["n"] = 1,
         },
         {
@@ -3444,11 +3444,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmtBjZmNjtxMAAAAAAAAAAYZQzGjpZGDjZZmZmZMDzAAAAAAAAAAIAAgZbmlmtZ2sxYmBmBoZAAmZAYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthZwsZsNmBAAAAAAAAAALzQzGjpZGDMLzMzYWMMDAAAAADAAAAEAAwsNzSz2Mb2YMzMYGgmBAYmBgB",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNMMmFjNbzAAAAAAAAAAglBNbGmmZM8AmFzMzMLzwDYAAAAAAAwAAQAAAz2MbNbzsYjZmZwMzCoZAAmZAYA",
             ["n"] = 1,
         },
         {
@@ -3476,7 +3472,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthZwsZsNmBAAAAAAAAAALGa2MjpZGgZZMzMDDzAAAAAwAAAAABAAMbzs0sNzmNGzMDmZDjmBAYmBgB",
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNMYmthNbzAAAAAAAAAAgFDNbzwkZAmFmZmZxwYAAAAAMAAzA2WGLYamZZAAMbzs1sNziFGzMDzMbG0MAYmZmBgB",
             ["n"] = 1,
         },
         {
@@ -3485,10 +3481,6 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNzMwshNbzAAAAAAAAAAgNDNbzw0MDwsYmZmZxwDYAAAAAMAAzAAQAAAz2MbNbzsYjxMzwMzGoZAAmZAYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthZwsZsNmBAAAAAAAAAALDa2MjpZGDPgZxMzMjZ4BmBAAAAAAAAbbjFMNzsMAAmtZWa2mZzGjZGYmFQzAgZmZGAGA",
             ["n"] = 1,
         },
         {
@@ -3503,14 +3495,18 @@ RecommendedStatsData_Talents = {
             ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMMmZZMjZmxsNzMwshNLzAAAAAAAAAAgFDNbzMmmZAmFzMzMMMAAAAAYADwMgtlxCmmZWGAAz2MLNbzsZjZmxwMzGoZAAmZAYA",
             ["n"] = 1,
         },
+        {
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMYMmZZmZMzMmthZwsZsNmBAAAAAAAAAAbzQzGjpZGDMLzMzMDDzMAAAAAGAAAAIAAgZbmlmtZ2sxYmHYwMANDAwMDADA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkGADBD3hSPCL9Y9gz68WcKvMMjxMLzMjZmxsNMYmNjNmBAAAAAAAAAAbDa2YMNzY4BMLzMzMDDzAAAAAAAAAAIAAgZbmlmtZ2sxYmZYmBGNDAwMDADA",
+            ["n"] = 1,
+        },
     },
     ["WARLOCK_DESTRUCTION_MYTHICPLUS"] = {
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMMzMzsMLzMzMLGzyiZAAwMGzMziFYgZxoxMAmtYjBAAGDwGAwMDmZGjZDAAwMzMAAMGG",
-            ["n"] = 2,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+iZmZGNbM2mZmZWmlZmZmFjZbxDMAAYmZMzMLWgBmFjGzAY2iNGAAYMAbAAzMwMjxsBAAYmZGAAGDD",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmx2MzYWmNzMzsYmZZZMAAYmZMzMLgxMGWIDsNsQjFGAAYMDAAmZAGzYmZBAAwMzMAA4BGG",
             ["n"] = 1,
         },
         {
@@ -3518,15 +3514,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+ixMzoZzMz2MzY2mNzMzsYmZZZMAAYGjZmZxCmZGzssMamZYbYZ2aswAAAjZYAAmZmZwYGzYBAAwMzMAA4BGG",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbmx2MzYWmNzMzsYmZZZMAAYGjZmZxCmZGzssMamZYbYZ2aswAAAjBDAwMzMDGzYmBAAgZmZAAwMM",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjhZmxsMLzMzMLGz2iZAAwMGzMziFMzMmZZZ0Mzw2wys1YjBAAGDwGAmZmZwMzYMAAAMzMzAAYMM",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMMzoZzM2mZGz2sNzMzsYmZZZMAAYGjZmZDMmxwCZgthFaswAAAjBYDAzMAzMjZmFAAAzMzAAwYYA",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZGzysZmZmFzMLLjBAAzYMzMbgxMGWIDsNsQjFGAAYMDDAwMDwYGzMAAAMzMDAAeghB",
             ["n"] = 1,
         },
         {
@@ -3538,7 +3534,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMegZGNLzM2mZGzysNzMzsYmZZZMAAYGjZmZDMmxwCZgthFaswAAAjZYAAmZAGzMMbAAAmZmBAAGG",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMjZGNbmZ2mZGzitZGzsYGLLjBAAzYMzMbWwMzYmllRzMDbDLzWjFGAAYMDDbAYmZmBjZMzAAAwMzMDAgxwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZmpZjZ2mZGzysNzMzsYmZZZMAAYGjZmZBMmxwCZgthFaswAAAjBDAwMDwYGGbAAAmZmBAAPwwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+amxMzoZjhZmZmlZZmZmZxMz2CDAAmZGzMziFYgZxoxMAmtYjBAAGDwGAwMDMzYMbAAAmZmBAgxwA",
             ["n"] = 1,
         },
         {
@@ -3546,27 +3554,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+ixMzoZxM2mZGzysZmZmFzMLLjBAAzYMzMbgxMGWIDsNsQjFGAAYMYAAmZAGzYmZBAAwMzMAAYGG",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzMzysMzMzsYmZbxDMAAYGjZmZxCMwsY0YGAzWsxAAAjBYDAYmBmZMGAAAmZmBAgxwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNLMzmZmZWmFzMzsYMWMDAAmZGzMziNYgZxoxMAmtYjBAAGDM2AAmZwYGzYDAAwMzMAAMGG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzMzysNzMzsYmZZZMAAYGjZmZDMmxwCZgthFaswAAAjBDbAYmBYMjZsBAAYmZGAAYYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMjZGNbmxmZGzysZmZmFzMLLjBAAzYMzML2wMzYmllRzMDbDLzWjFGAAYMYAAmZmZwYGzMbAAAmZmZAAYGG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzYWmNzMzsYmZZZMAAYGjZmZBMmxwCZgthFaswAAAjBDAwMDwYGzMbAAAmZmBAAzwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbM2mZGzysNzMzsYmZZZMAAYGjZmZDMmxwCZgthFaswAAAjZYAAmZAGzYmZDAAwMzMAAwwA",
             ["n"] = 1,
         },
         {
@@ -3574,11 +3566,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzMzysMzMzsYMbLzDMAAYGjZmZzGmZGzssMamZYbYb2asxAAAjBYDAzMzMYMjxAAAwMzMAAMGG",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNLMz2MzYWmNzMzsYmZZZMAAYGjZmZBMmxwCZgthFaswAAAjZYAAmZAGzYGbAAAmZmBAAPwwA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNLmx2MzYWmNzMzsYmZZZMAAYGjZmZzCmZGzstMamZYbYZ2aswAAAjBDAwMzMDGzYmBAAgZmZAAwMM",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzMzysNzMzsYmZZZMAAYGjZmZDMmxwCZgthFaswAAAjBDbAYmBYMjZsBAAYmZGAAYYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZGz2sZmZmFzMLLjBAAzYMzMLgxMGWIDsNsQjFGAAYMDDAwMDwYGzYDAAwMzMAA4BGG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+ixMzoZhZ2mZmZWmNzMzsYmZZZMAAYGjZmZzGmZGzssMamZYbYZ2aswAAAjBDAwMzMDGzYGbAAAmZmBAAzwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzYWmtZmZmFzMLLjBAAzYMzMbgxMGWIDsNsQjFGAAYMDDAwMDwYGzYDAAwMzMAAwwA",
             ["n"] = 1,
         },
     },
@@ -3588,11 +3592,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+aMzMzoZjx2MzMzysNzMzsYMLLegBAAzYMzMLWgBmFjGzAY2iNGAAYMwYDAYmBMjxAAAwMzMDAgxwA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNLMWmZmZWmlZmZmFjZZxDMAAYmZMzML2gBmFjGzAY2iNGAAYMAbAAzMYmZMGAAAmZmBAgxwA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+iZmZGNbM2mZmZWmlZmZmFjZbxDMAAYmZMzMLWgBmFjGzAY2iNGAAYMAbAAzMwMjxsBAAYmZGAAGDD",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmx2MzYWmNzMzsYmZZZMAAYmZMzMLgxMGWIDsNsQjFGAAYMDAAmZAGzYmZBAAwMzMAA4BGG",
             ["n"] = 1,
         },
         {
@@ -3620,7 +3628,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+ixDMzoZzMWmZmZWmlZmZmFjZZxDMAAYGjZmZxCMwsY0YGAzWsxAAAjBGbAAzMYmZMzAAAwMzMAAMGG",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMjZGNbmZ2mZGzysMzMzsYmZZZMAAYGjZmZxCmZGmFjGzw2wys1YjBAAGzwAAMzMzgxMmxGAAgZmZAAghB",
             ["n"] = 1,
         },
         {
@@ -3628,7 +3636,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMjZmxsMLzMzMLGz2iZAAwMGzMziFYgZxoxMAmtYjBAAGDwGAwMDmZGjZDAAwMzMAAMGG",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+amxDMzoZjhZmZmlZxMzMLGjFzAAgZmxMzsYBGYWMaMDgZL2YAAgxAjNAgZGMzMmZAAAYmZGAAGDD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMMzMzsNLmZmZxYsYGAAMzMmZmFbwAziRjZAMbxGDAAMGYsBAMzgZmxMDAAAzMzAAwYYA",
             ["n"] = 1,
         },
         {
@@ -3636,7 +3648,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNLMz2MzMziFzMzsYMWMDAAmZGzMzmNYgZxoxMAmtYjBAAGDM2AAmZwMzYGAAAMzMDAAjhB",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzYWsZmZmFzMbLjBAAzYMzMbgxMGWIDsNsQjFGAAYMYAAmZAmZGzMbAAAmZmBAAzwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+iZMzoZxMzmZGzysNzYmFzYZZMAAYGjZmZBMmxwCZgthFaswAAAjZYYDAzMAzMzYsBAAYmZmBAwYYA",
             ["n"] = 1,
         },
         {
@@ -3644,29 +3660,25 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzYWmNzMzsYmZZZMAAYGjZmZBMmxwCZgthFaswAAAjBDAwMDwYGzMbAAAmZmBAAzwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNYGzMzMLzyMzMzixstYGAAMjxMzsYDGYWMaMDgZL2YAAgxAsBAMzgZmxY2AAAMzMDAAjhB",
+            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZGz2sZmZmFzMLLjBAAzYMzMLgxMGWIDsNsQjFGAAYMDDAwMDwYGzYDAAwMzMAA4BGG",
             ["n"] = 1,
         },
         {
             ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+aMmZGNbmx2MzYWmlZmZmFjZZxMAAYGjZmZxCmZGzssMamZYbYZ2asxAAAjBYDAzMzMYmZMGAAAmZmBAgxwA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmx2MzMz2sZmZmFzMLLjBAAzYMzMbgxMGWIDsNsRjFGAAYMYAAmZAGzYMLAAAmZmBAAzwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzMzysMzMzsYMbLzDMAAYGjZmZzGmZGzssMamZYbYb2asxAAAjBYDAzMzMYMjxAAAwMzMAAMGG",
-            ["n"] = 1,
-        },
     },
     ["PRIEST_HOLY_MYTHICPLUS"] = {
         {
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmxmxMD2wMFAzshhwYWGgxALGzsAoZMzYMYGgZmBMA",
+            ["n"] = 3,
+        },
+        {
             ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzgxMDgZqBwMbYIMmlBYMwiZmZBQzYMGDzMAzMzAD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmx2MmZAMTBwMLzsMzkZbmZZAmZGsYMzCgmhZMGMzyygZmZgB",
             ["n"] = 1,
         },
         {
@@ -3682,15 +3694,27 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGmlZwMzM2mxMjBMTBwMLzsMzkZbmZZAmZGsYMzCgmhZMGMzyygZmZgB",
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAgZm5BmlxMjZGDzALzMzMAAAAmxsMDmZmx2MmZAMTBwMLzsNzkZbmZbAmZGsYMzCgmxMjxgZ2WGMzMgB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYz4BmZ2GzMmZMjZYsMzMzAAAAYGz2MYmZGmxMDgZKAmZbmlZmMbzMLDwMzgFjBANjZGjBzssMYmZGYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmxmxMjBMTBwMLGDhxsMAjBWMmZBQzYmxYwMAzMDYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAgZm5BmlhZMzYYGGLzMzMAAAAGzsMDmZmhZMzgNMTBwMLzsMzkZbmZZAmZGsYMzCgmhZMGMDwMzMwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGmlZwMzMMjZGAzUAMzGGCjZbAGDsYMzCgmxMzMGmZAmZGwA",
             ["n"] = 1,
         },
         {
             ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMegZmlxMjZGDzwYbmZmBAAAwwsMDzMzMMjZGshZKAmZZmtZmMbzMLDwMzgFjxCgmxMjxgZ2WGMzMgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmxmxMD2wMFAzshhwYWGgxALGzsAoZMzYMYGgZmBMA",
             ["n"] = 1,
         },
         {
@@ -3702,6 +3726,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGmlZGzMzMMPgZGAzUAMzCGCjZZAGDsYMzCgmxMjxwMDwMzAGA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMMDgZqBwMLzsMzkZZmZZAmZGsYmZWA0MGjxwMz2ygZmZgB",
             ["n"] = 1,
         },
@@ -3710,39 +3738,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZ2GzMmZMMDzsMzYGAAAAzYWmBzMzwMmZAMTNAmZDDhxsMAjBWMzMLAaGMGDzMAzMzAD",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmhZMzgNMTBwMbYIMmlBYMwixMLAaGz8AzYwMAzMDYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGmlZYmZmhZMzAYmCgZWwQYMLDwYgFjZWA0MmZMGMDwMzMwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYzMzYWGzwMjhZYsMzMzAAAAYYWmhZmZGmxMDgZKAmZDDhxsMAjBWMmZBQzYmHYGDmBYmZGYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYzYGzyYMmZMegZYsMzMzAAAAYMzyMYmZGmxMDgZKAmZBDhxsNAjBWMmZBQzYmxYwMAzMzAD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYzMzYWGzMmZMMDjtZmZGAAAADzyMMzMzwMmZAMTBwMbYIMmlBYMwixYBQzYmxYwMAzMzAD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmxmxMDgZKAmZDDhxsMAjBWMmZBQzYmxYwMAzMzAD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGmlZwMzMMjZGAzUAMzGGCjZbAGDsYMzCgmxMzMGmZAmZGwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAgZm5BmlxMjZGDzALzMzMAAAAGzsMDmZmhZMzAYmCgZWmZZmJz2MzyAMzMYxYmFANjZGjBzstNYmZGYA",
             ["n"] = 1,
         },
     },
@@ -3768,15 +3764,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZWGzMmZMMDjlZmZGAAAAzYWmBzMzwMmZAMTNAmZBDhxsMAjBWMzMLAaGjxYYmBYmZAD",
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yyYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDzMzMMjZGAzUAMzCGCjZZAGDsYMzCgmxMPgxgZAmZmBGA",
             ["n"] = 1,
         },
         {
             ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZ2GzMmZMMDzsMzYGAAAAzYWmBzMzwMmZAMTBwMLDzMZMzsMAzMDWMzMLAaGjxYYmZbbwMzMwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMjZAMTNAmZbmtZmMLzMLDwMzgFzMzCgmxMjxgZ2WGMzYgB",
             ["n"] = 1,
         },
         {
@@ -3804,7 +3796,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYDmZWGzMmZMMDzsNzYGAAAADzyMMzMzwMMjBMTBwMLYIMmlBYMwiZmZBQzYmxYwMAzMzAD",
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYzMzYWGzMmZMMDsNzMzAAAAYYWmhZmZGmhZMgZKAmZBDhxsMAjBWMmZBQzYmxYwMAzMzAD",
             ["n"] = 1,
         },
         {
@@ -3812,7 +3804,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzYzYmhFYmCgZWwQYMLDwYgFzMzCgmBjxwMDwMzMwA",
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAgZmxsMmhZGDzwYZmZmBAAAwYmlZwMzM2MmZMgZKAmZDDhxsMAjBWMzMLAaGzMGDmBYmZAD",
             ["n"] = 1,
         },
         {
@@ -3824,21 +3816,21 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZ2GzMmZMMDjlZmZGAAAAzMWmBzYGmxMDgZqBwMLYIMmlBYMwiZmZBQzYMzMDmBYmZGYA",
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMmZAMTBwMLYIMmlBYMwiZmZBQzYMGDzMAzMzAD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEQAR03Gt7xPmcDNOjs2Zlb3yCDAAAAAAYBmZ2GzMmZMMDzsMzYGAAAAzYWmBzMzwMmZAMTBwMbYIMmlBYMwiZmZBQzYMGDzMAzMzAD",
             ["n"] = 1,
         },
     },
     ["MAGE_FIRE_MYTHICPLUS"] = {
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzsgZGZmxAAAwMLzYGLzyMz0sttMDAwmZmx2MzMzMbAAAAAYxMzMzAAgZMmZMjZmFgZmZGyYMgZYMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzYmFegZGZmZmBAAwAAmZmmltlZAA2MzM2mZmZGbAAAAAYxMzMDAAMjxMzMjZmFAMzQGjZgZYMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzYZmlZmZWwMjMzYAAAYmlZMzsMLzMTzy22MAAbmZGbzMzMjNAAAAAsYmZmBAAmxYmZmxMzyAwMDhxAmhxA",
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwYxMzsgZGZGzAAAwAAmZmmltlZAA2MzM2mZmZmZBAAAAAbmZmZAAgZMmZmZMzsBgZGaGzMgBjB",
             ["n"] = 1,
         },
         {
@@ -3846,7 +3838,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwYxMzsgZGZmZGAAAGAwMz0sstMDAwmZmx2MzMzMLAAAAAYzMzMDAAMjxMzMjZmNAMzQzYMgBjB",
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzYZmlZmZWwMjMzYAAAYmlZMzsMLzMTzy22MAAbmZGbzMzMjNAAAAAsYmZmBAAmxYmZmxMzyAwMDhxAmhxA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzALzMzswDMzIzMzAAAwAAmZmmltlZAA2MzMz2MzMzYDAAAAAMzMz8AAAYGjZmZGzMLAYmhwMDYwYA",
             ["n"] = 1,
         },
         {
@@ -3854,15 +3850,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzsgZGZmZGAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZGAAMjxMzMjZmlBgZGCjBMDjB",
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGmZZmZmFMDZmZGAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZGAAMjxMzMjZmlBgZGCjBMDjB",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwYZmZmFMzIzMGAAAGAwMz0sttMDAwmZmx2MzMzYDAAAAALmZmZeAAAMjxMzMjZmlBgZGyYMgZYMA",
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwMLzMzsgZGZmxMAAAGAwMz0sstMDAwmZmx2MzMzYDAAAAAbmZmZAAgZMmZmZMzsNAMzQYMgZYMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzswMzIzMzAAAwAAmZmmltlZAA2Mzw2MzMzYDAAAAAMzMz8AAAYmZMzMzMzMLAYmhwYADGD",
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwMLzMzsgZGZmxMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZMDAAMjxMzMjZmlBgZGyYMgZYMA",
             ["n"] = 1,
         },
         {
@@ -3870,11 +3866,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYBAAAAAbmZmZAAgZMmZmZMzsMAMzQYMgZYMA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzswMzIzMzAAAwAAmZmmlttZAA2MzM2mZmZGLAAAAAYxMjZAAgZMmZmZMzsMAMzQGjBMDjB",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwYZmZmFMzIzMzAAAwAAmZmmtttZAA2MzwyMzMzYDAAAAAbmZmZAAgZmxMzMzMzsBgZGyYMgBjB",
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwMLzMmFMzIzMzMAAAGAwMz0sstMDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsNAMzQYmBMDjB",
             ["n"] = 1,
         },
         {
@@ -3894,23 +3894,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwMLzMmFMzIzMGAAAmZbGzMbzyMz0sstMDAwmZmZ2mZmZGbAAAAAYxMzMzAAgZMmZmZMzsAMzMzQGjBYYMA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwMLzYmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYBAAAAALmZmZAAgZMmZmZMzsMAMzQYMgZYMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzYZsMzMzCmZkZmZAAAYAAzMTzy22MAAbmZGbzMzMjFAAAAAsYmZmBAAmxYmZmxMz2AwMDhxAmhxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwMLzMzsgZGZmxMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsNAMzQYMgZYMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwYZm5BmNMzIzMzMAAAGAwMz0sstMDAwmZmZ2mZmZmHYDAAAAALmZMzAAgZMmZmZMzsBgZGCjBAjB",
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwMLzMzsgZGZmZGAAAGAwMz0sstMDAwmZmx2MzMzYDAAAAAbmZmZAAgZMmZmZMzsNAMzQYMgZYMA",
             ["n"] = 1,
         },
     },
     ["MAGE_FIRE_RAID"] = {
+        {
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzswMzIzMzAAAwAAmZmmlttZAA2MzM2mZmZGLAAAAAYxMzMDAAMjxMzMjZmlBgZGCjBMDjB",
+            ["n"] = 2,
+        },
         {
             ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzswMzIzMzAAAwAAmZmmltlZAA2MzM2mZmZGLAAAAAYxMjZAAgZMmZmZMzsMAMzQGjBMDjB",
             ["n"] = 2,
@@ -3922,10 +3922,6 @@ RecommendedStatsData_Talents = {
         {
             ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzswMzIzMzAAAwAAmZmmlttZAA2MzM2mZmZGLAAAAAYxMjZAAgZMmZmZMzsNAMzQGjBMDjB",
             ["n"] = 2,
-        },
-        {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzswMzIzMzAAAwAAmZmmlttZAA2MzM2mZmZGLAAAAAYxMzMDAAMjxMzMjZmlBgZGCjBMDjB",
-            ["n"] = 1,
         },
         {
             ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzswMzIzMzAAAwAAmZmmttlZAA2MzM2mZmZGAAAAAwiZmZGAAYGjZmZGzMLDAzMEzYAzwYA",
@@ -3941,6 +3937,10 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzYZsMzMzCmZkZmZGAAADAYmZaW22mBAYzMzYbmZmZsBAAAAgFzMmBAAmxYmZmxMzyAwMDhxAmhxA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzswMzIzMGAAAGAwMz0sssNDAwmZmx2MzMzAAAAAAWMzMz8AAAYGjZmZGzMbDAzMkxYAzwYA",
             ["n"] = 1,
         },
         {
@@ -3964,57 +3964,45 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGLjlZmZWwMkZmZAAAYmlZMzsMbzMTzy2yMAAbmZGbzMzMjNAAAAAsYmZmZAAwMGzMzMmZ2GwMzMDhxAmhxA",
+            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwMLzMzswDMzIzMmBAAwMLzYmZZ2mZmmltlZAA2MzM2mZmZGbAAAAAYxMzMDAAMjxMzMjZmtBMzMzQYMgZYA",
             ["n"] = 1,
         },
         {
             ["code"] = "C8DAche08tHz49KSVf7iKFnyuZGGLzMzsgZGZmZGAAAGAwMz0sstMDAwmZmx2MzMzYDAAAAAbmZMzAAgZMmZmZMzsNAMzQGjBMDjB",
             ["n"] = 1,
         },
-        {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzsZsMzMzCmZkZmZAAAYAAzMTzy22MAAbmZGbzMzMjNAAAAAsZmxMAAwMGzMzMmZ2GAmZIjxAmhxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C8DAche08tHz49KSVf7iKFnyuNzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzQYMgZYMA",
-            ["n"] = 1,
-        },
     },
     ["DEATHKNIGHT_BLOOD_MYTHICPLUS"] = {
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZxMjZmxAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZZmZMzMAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
             ["n"] = 3,
         },
         {
             ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzMmxMzMMbzMz0MLmZMzMAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
+            ["n"] = 3,
+        },
+        {
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZZmZmmZxMjZmxAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
             ["n"] = 2,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZZmZMzMAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
-            ["n"] = 2,
-        },
-        {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWmZGmxMjhZbmZmmZZGjxMGAAAAwMzMzMzMDzYMDAMzMzAAAMzsNGGzYZpxy2ywkthhFAzYGAAmZmZgZMA",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZZMz0MLzMjZmBAAAAwMMzMzMjZGDAYmZmZGAAgZmtxwYGLLNW2WGmsNMsBYGDAAmZmZAjB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzMmxMjZMbzMz0MLGjZmxAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzMmxMzMjZbmZmmZxYMmxAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWmZmxMmZMMbzMz0MbGjxMmBAAAAmZmZmZmZYGDAYmZmZGAAADMwMW0YZDktBsBYGzAAAmZghB",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzMmxMzMMbzMz0MbmZMzMAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZZGjZmxAAAAAmhZmZmZMzYAAzMzMzAAAMzsNGGzYZpxy22wkthhNAzYAAwMzMDgB",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWmZGmxMjhZbmZmmZxMjZmxAAAAAmZmZmZmZYGjBAjZmZGAAADMwMW0YZDktBsBYGzAAAmZghB",
             ["n"] = 1,
         },
         {
             ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZZmZMzMAAAAAmhZmZmZMzYAAzMzMzAAAMzsNGGzYZpxy22wkthhNAzYAAwMzMDgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZZmZmmZxMjZmxAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
             ["n"] = 1,
         },
         {
@@ -4026,11 +4014,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWGzMmxMjhZbmZmmZxMjxMGAAAAwMzMzMzMDzYMAYMzMzAAAYgBmxiGLbgsNgNAzYGAAwMDmhB",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZxMjZmxAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWGzMmxMjhZbmZmmZZmZMmBAAAAwMzMzMzMDzMDAYMzMzAAAYgBmxiGLbgsNgNAzYGAAwMDGjB",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZZmZmmZZmZMzMAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
             ["n"] = 1,
         },
         {
@@ -4038,21 +4026,25 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZZmZMzMAAAAAmhZmZmZMzYAAzMzMzAAAMzsNGGzYZrxy22wkthhNAzYAAwMzMDgB",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWmZGmxMjhZbmZmmZxMjZmxAAAAAmZmZmZmZYGjBAjZmZGAAgZmtxwYGLbNW22GmsNMsBYGzAAwMzMDMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZZmZmmZZmZMzMAAAAAzgZmZmZMzYMAYmZmZGAAgZmtxwYGLLNW2WGmsNMsBYGDAAmZmZAMA",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZxMzMzMAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbgsNgNAzYAAAmZAMA",
             ["n"] = 1,
         },
     },
     ["DEATHKNIGHT_BLOOD_RAID"] = {
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWmZGmxMjhZbmZmmZZGjxMGAAAAwMzMzMzMDzYMDAMzMzAAAMzsNGGzYZpxy2ywkthhFAzYGAAmZmZgZMA",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZZMz0MLzMjZmBAAAAwMMzMzMjZGDAYmZmZGAAgZmtxwYGLLNW2WGmsNMsBYGDAAmZmZAjB",
             ["n"] = 1,
         },
         {
             ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWmZmxMmZmhZbmZmmZzYMmxAAAAAmZmZmZmZYGjBAjZmZGAAADMwMW0YZDktBsBYGzAAAmZghB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWGzMmxMzMMbzMz0MbmZMmxAAAAAmZmZmZmZYGjBAjZmZGAAADMwMW0YZDktBsNAzYGAAwMDgB",
             ["n"] = 1,
         },
         {
@@ -4068,7 +4060,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWGzMmxMjhZbmZmmZbGjZmxAAAAAmZmZmZmZYGjBAzMzMzAAAMmtBGwSwywEYYBwMMAAMzAYYA",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWmZGmxMjhZZmZmmZxMjxMGAAAAwMzMzMzMDzYMAYMzMzAAAMzsNGGzYZpxyyywkthhNAzYGAAmZmZwMMA",
             ["n"] = 1,
         },
         {
@@ -4084,7 +4076,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWmZGmxMjhZbmZmmZZGjxMGAAAAwMzMzMzMDzYMAYMzMzAAAYgBmxiGLbgsNgNAzYGAAwMDMjB",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZxYMzMGAAAAwMMzMzMjZGDAYmZmZGAAADMwMW0YZDktBsBYGDAAwMDMMA",
             ["n"] = 1,
         },
         {
@@ -4112,19 +4104,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxYWMzMmxMjhZbmZmmZxMjxMGAAAAwMzMzMzMDzYMDAjZmZmBAAMzsNGGzYZpxy2ywklhhNAzwAAwMzMDMMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZmhZbmZmmZbmZMzMAAAAAmhZmZmZMzYAAzMzMzAAAMzsNGGzYZpxy2ywkthhNAzYAAwMzMDgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzMmxMzMMbzMz0MLmZMmxAAAAAmxMzMzMjHYGDAYMzMzAAAYgBmxiGLbgsNgNAzYGAAwMDgB",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZMMLzMz0MLzMjZmBAAAAwMMzMzMjZGDAYmZmZGAAADMwMW0YZDktBsBYGDAAwMDYMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyMzwMmZMMLzMz0MLzMjZmBAAAAwMMzMzMjZGDAYmZmZGAAADMwMW0YZDktBsBYGDAAwMDYMA",
+            ["code"] = "CoPAkXBWxkyfx9CbGaHonEAhLxMzyYmxMmZMMbzMz0MLmZMmxAAAAAmhZmZmZYmZAAzMzMzMAAgZmtxwYGLLNW22GmsNMsBYGDAAmZmZwMMA",
             ["n"] = 1,
         },
     },
@@ -4134,15 +4122,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDzyYmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
-            ["n"] = 1,
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYYWmZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
+            ["n"] = 2,
         },
         {
             ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYY2mZmZmZbmZ0MjZGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmQGLYmxMzADADzMAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAmZMjZMY2mZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbziZZGGLMsMz20QzYBzMmZGYAYYmBzMDYA",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDzyYmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMDzY2mZmZmZzY0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbziZZGGLMsMz20QzYBzMmZGYAYYmBzMGYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMjBz2MzMzMbzMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZbWMLzwYhhlZ2mGaGLYmxMzADADzMYmBYA",
             ["n"] = 1,
         },
         {
@@ -4150,27 +4146,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYYWmZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMDY2mZmZmZxMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmQGLYmxMzADADzMAzAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMYMmZY2mZmZmZbGjmZMzYYmxgZmZmZmZmZAAAAAAAAAYMbzmZbGGLMsMz20QzYBzMmZGYAYYmBgBD",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYY2mZmZmZZGjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZb2MLzwYhhlZ2mGaGLYmxMzADADzMAmBD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMDY2mZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbziZbGGLMsMz20QzYBzMmZGYAYYmBgBD",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMYMmZGz2MzMzMbzYkZMzYYmxgZmZmZmZmZAAAAAAAAAYMbzmZbGGLMsMz20QzYBzMmZGYAYYmBgBD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjZwYWmZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMmZY2mZmZmZzMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZbWMLzwYhhlZ2mGaGLYmxMzADADzMAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMDY2mZmZmZZmZkZMGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmQGLYmxMzADADzMAjBD",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDz2MzMzMLzYkZMGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmQGLYmxMzADADzMAmBD",
             ["n"] = 1,
         },
         {
@@ -4182,15 +4174,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDz2MzMzMLzY0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbzmZZGGLMsMz20QzYBzMmZGYAYYmBgBD",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjZYGz2MzMzMbzMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmQGLYmxMzADADzMAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMmZY2mZmZmZzMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZbWMLzwYhhlZ2mGaGLYmxMzADADzMAAD",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDz2MzMzMbzMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZb2MLzwYhhlZ2mGaGLYmxMzADADzMYmBYA",
             ["n"] = 1,
         },
         {
@@ -4198,21 +4186,13 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjZYY2mZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBwAD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDz2MzMzMbzMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZb2MLzwYhhlZ2mGaGLYmxMzADADzMYmBYA",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjZYYWmZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBwAD",
             ["n"] = 1,
         },
     },
     ["DEATHKNIGHT_FROST_RAID"] = {
         {
             ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAmZMjxYY2mZmZmZZmZkZMGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmQGLYmxMzADADzMAjBD",
-            ["n"] = 2,
-        },
-        {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYYWmZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
             ["n"] = 2,
         },
         {
@@ -4244,7 +4224,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMDDz2MzMzMLzY0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYYWmZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMDzY2mZmZmZzY0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbziZZGGLMsMz20QzYBzMmZGYAYYmBzMGYA",
             ["n"] = 1,
         },
         {
@@ -4252,11 +4236,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDz2MzMzMbzMjMjxYYmxgZmZmZmZmZAAAAAAAAAYMbzmZZGGLMsMz20QzYBzMmZGYAYYmBzMMYA",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDz2MzMzMbzMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZb2MLzwYhhlZ2mGaGLYmxMzADADzMYmBYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYYWmZmZmZzMjmZMGDzMGMzMzMzMzMDAAAAAAAAAjZb2wAWALDTIjFMzYmZgBghZGgZgB",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMjZMGDzyMzMzMbzY0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbzmZZGGLMsMz20QzYBzMmZGYAYYmBzMGYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjZGDz2MzMzMbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbzmZZGGLMsMzy0QzYBzMmZGYAYYmBwAD",
             ["n"] = 1,
         },
         {
@@ -4272,17 +4260,21 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYY2mZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMmZGYAYYmBgBD",
+            ["code"] = "CsPAkXBWxkyfx9CbGaHonEAhLNAzMMjxYYWmZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbzmZZGGLMsMz20QzYBzMmZGYAYYmBgBD",
             ["n"] = 1,
         },
     },
     ["ROGUE_OUTLAW_MYTHICPLUS"] = {
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAAbLzMzwMzMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYGMA",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAYbZmZGmZMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYGMA",
             ["n"] = 2,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAYbZmZGmZMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYGMA",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAMbLjZGmZMziZmZbAAAAYmBAjZxwQGYWYhWYjBYmBDMA",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAgZbZmZGmZmZWMzMbDAAAAjBAjZxwQGYWYhWYjBYmBDMA",
             ["n"] = 2,
         },
         {
@@ -4294,19 +4286,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAMLLzMzwMjZWMzMbDAAAAjBAjZxwQGYWYhWYjBYmBDMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAMbbzMzwMjZWMzMbDAAAAjBAjZxwQGYWYhWYjBYmBDMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAMbLjZGmZMziZmZbAAAAYmBAjZxwQGYWYhWYjBYmBDMA",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAYbZmZGmZMziZmZbAAAAYmBAjZxwQGYWYhWYjBYmBDMA",
             ["n"] = 1,
         },
         {
             ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMzswwMbTLD2mBAAAAAMbLzMzwMjZWMzMbDAAAAjBMY2mFzMzoZmNmFW2mWYjBYmZmZgHA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAAbLzMzwMzMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYGMA",
             ["n"] = 1,
         },
         {
@@ -4318,10 +4306,6 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAgZbZmZGmZmZWMzMbDAAAAjBAjZxwQGYWYhWYjBYmBDMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwQGYWYhWYjBYmBDMA",
             ["n"] = 1,
         },
@@ -4330,7 +4314,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MmZmZmZmtZmZMzMmFwMm2GsNDAAAAAw22MzMMzMzsYmZ2GAAAAGDYwsNLmZmRzMbMbssNtwGDwMzMzAzA",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MmZmZmZmtZmZmZmxswwMm2GsNDAAAAAw22MzMMzMzsYmZ2GAAAAGDYwsNLmZmRzMbMbssNtwGDwMzMzAPwA",
             ["n"] = 1,
         },
         {
@@ -4342,7 +4326,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMmZmtZmZmZMmF4BmZbaZw2MAAAAAA2mZmhZmZmFzMz2AAAAYmZAwYWMMkBmFWoF2YAmZwAD",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMjZmxsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAMjBAjZxwQGYWYhWYjBYmBDMA",
             ["n"] = 1,
         },
         {
@@ -4352,19 +4336,19 @@ RecommendedStatsData_Talents = {
     },
     ["ROGUE_OUTLAW_RAID"] = {
         {
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAMbLzMzwMjZWMzMbDAAAAjBMY2mFzMzoZmNmFW2mWYjBYmZmZgB",
+            ["n"] = 2,
+        },
+        {
             ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwQGYWYhWYjBYmBDMA",
             ["n"] = 2,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAAbLzMzwMzMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYGMA",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAYbZmZGmZMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYGMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAMLLzMzwMjZWMzMbDAAAAjBAjZxwQGYWYhWYjBYmBDMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MmZmZmZmtZmZMzMmFwMm2GsNDAAAAAw22MzMMzMzsYmZ2GAAAAGDYwsNLmZmRzMbMbssNtwGDwMzMzAzA",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MmZmZmZmtZmZmZmxswwMm2GsNDAAAAAw22MzMMzMzsYmZ2GAAAAGDYwsNLmZmRzMbMbssNtwGDwMzMzAPwA",
             ["n"] = 1,
         },
         {
@@ -4376,7 +4360,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMmZmtZmZmZMmF4BmZbaZw2MAAAAAA2mZmhZmZmFzMz2AAAAYmZAwYWMMkBmFWoF2YAmZwAD",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMjZmxsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAMjBAjZxwQGYWYhWYjBYmBDMA",
             ["n"] = 1,
         },
         {
@@ -4384,19 +4368,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMmZmtZmZmZMmF4BmZbaZw2MAAAAAgZbZmZGmZmZWMzMbDAAAAjBAjZxwQGYWYhWYjBYmBDMA",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAgZbZmZGmZmZWMzMbDAAAAjBAjZxwQGYWYhWYjBYmBDMA",
             ["n"] = 1,
         },
         {
             ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAYbZmZGmZMziZmZbAAAAYMgBz2sYmZGNzsxswy20CbMAzMzMzgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMmZmtZmZmZMmF4BmZbaZw2MAAAAAAbLzMzwMzMziZmZbAAAAYMgBz2sYmZGNzsxswy20CbMAzMzMzgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAYbZmZGmZMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYGMA",
             ["n"] = 1,
         },
         {
@@ -4420,33 +4396,45 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAMbLjZGmZMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYGMA",
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMzMjFwMbTLD2mBAAAAAMbLjZGmZMziZmZbAAAAYmBAjZxwQGYWYhWYjBYmBDMA",
             ["n"] = 1,
         },
         {
             ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMzMzsNzMzMjxsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYMAYMLGGyAzCL0CbMAzMYgZA",
             ["n"] = 1,
         },
+        {
+            ["code"] = "CQQA5HmDzx68KWyrW/8Y781L7Dgx2MMzMmZmtZmZmZMmF4BmZZaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwQGYWYhWYjBYmBDMA",
+            ["n"] = 1,
+        },
     },
     ["SHAMAN_ELEMENTAL_MYTHICPLUS"] = {
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzgF0GmZbmlZmZGjZZWmZWGGzMLAgZAgZGDDD",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhBAAAAsYmNYADY2YCZWAAbzMzYstMTYmZjlZmZGzwsMzsMMmZ2GAwwAYmxwM+AA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzgN02wMbzsMzDMz8AjZxyMzywYmZDAMDAMzYYYA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzgN02wMbzsMzDMz8AjZxyMzywYmZBAMDAMzYYYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzgN0GmxMLzMzMzYWmlZmlhxMzCAwAAzMGGGA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZmtxyMmZMmlZZmZZYMzsBAMAwMjhhB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzstZmZYzwCz2MTDNzCAMLzMzYstYajZmtxyMmZMmlZZmZZYMzsAAMAmZmZMMMA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzgN0GmZbmlZmZmZYZWmZWGGzMLAADAMzYYYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYssYCzMmZZmZmxYWsMzsMMmZWAAGAYmxwwA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzstZmZYzwCz2MTDNzCAMLzMzYmlFTLMzYsMjZGzYZWmZWGGzMLAADgZmZGDDD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAgZbmZmZstYajZGjlZmZGDLWmxiZGmZZAADAMzYYYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzYstYajZmtxyMmZMmlZZmZZYMzsAAMAwMjhhB",
             ["n"] = 1,
         },
         {
@@ -4458,11 +4446,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzgN0GmxMLzMzMzYWmlZmlhxMzCAwAAzMGGGA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzgN02wMbzsMzMz8AjZxyMzywYmZDAYAgZGDDD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZGjlZMz8AjZZWmZWGGzMLAADAMzYYYA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZGjlZegZGjZZWmZWGGzMLAADAMzYYYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZGjlZMzMjZxyMzywYmZBAYAgZGDDD",
             ["n"] = 1,
         },
         {
@@ -4470,15 +4462,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzYstYajZGjlZmZGjZxyMzywYmZBAYAgZGDDD",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZmtxyMmZMmlZZmZZYMzsBAMAwMjhhB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAgZbmZmZstYCzMbjlZmZGDLWmxiZGmZbAADAMzYYYA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzstZmZYzwCz2MTDNzCAMbzMzwsh2wMmZZGzMzMzysMzsMMmZWAAGAzMzMGGGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYssYajZmtxyMPwMjxsYZmZZYMzsAAMAwMjhhB",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYCzMbjlZmZGzYxyMzywYmZBAYAgZGDDD",
             ["n"] = 1,
         },
         {
@@ -4486,7 +4478,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYssYCzMLjlZmZGzYxyMzywYmZBAYAgZGDDD",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYssYajZmlxyMPwMjxsYZmZZYMzsAAMAwMjhhB",
             ["n"] = 1,
         },
         {
@@ -4494,19 +4486,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYssYajZmtxyMmZMmFLzMLDjZmFAgZAwMjhhB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzstZmZYzwCz2MTDNzCAMLzMzgtFaDzsNzyMzMjhlZZmZZYMzsAAMMwMzMjhhB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzYstYajZGjlZmZmHYYxyMzywYmZBAYAgZGDDD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZGjlZmZGjZxyMzywYmZDAYAgZGDDD",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzYstYajZmtxyMPwMjxsYZmZZYMzsAAMAwMjhhB",
             ["n"] = 1,
         },
     },
@@ -4516,7 +4496,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzgF0GmZbmlZmZGjZZWmZWGGzMLAgZAgZGDDD",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhBAAAAsYmNYADY2YCZWAAbzMzYstMTYmZjlZmZGzwsMzsMMmZ2GAwwAYmxwM+AA",
             ["n"] = 1,
         },
         {
@@ -4528,7 +4508,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzgF02wMLzsMzMzYMLzyMzywYmZBAYAgZGDDD",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzgF0GmZbmlZmZmHYMLzyMzywYmZBAYAgZGDDD",
             ["n"] = 1,
         },
         {
@@ -4552,7 +4532,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYmtlZazMzglZmZGDmlxsMMmZWAAGAYmxwwA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzMjtFTbMzsNWmZmZMsYZMLDjZmFAgBAmZMMMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAgZbmZGjtlZajZmNWmZmZMDWGWMzwMbDAYYAMzYYYA",
             ["n"] = 1,
         },
         {
@@ -4560,15 +4544,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYssYajZGzsMzMzYMLWMzywYmZBAYAgZGDDD",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZGjlZmZGjZxyMzywYmZBAYAgZGDDD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAgZZmZGjtFTbMzsMWmZmZMsYZGLmZYmtBAMAwMjhhB",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzYstYajZmtxyMzMjhFLzMLDjZmFAgBAmZMMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZGjlZMz8AjZZWmZWGGzMLAADAMzYYYA",
+            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYstYajZGjlZMzMjZxyMzywYmZBAYAgZGDDD",
             ["n"] = 1,
         },
         {
@@ -4583,15 +4567,11 @@ RecommendedStatsData_Talents = {
             ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzYstYajZGjlZMzMDLWmZWGGzMLAAzAgZGDDD",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYmtFTbMzYsMzMzYYxyYWGGzMLAADDgZGDDD",
-            ["n"] = 1,
-        },
     },
     ["WARLOCK_AFFLICTION_MYTHICPLUS"] = {
         {
             ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzYWGAAwMmlZxMzyYAgx22ADYCmhtADbDAAADAAAzMjZMzsNGmZmZmhZYmZGAgZgB",
-            ["n"] = 3,
+            ["n"] = 2,
         },
         {
             ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzYWGAAwMmlZxMzyYAgx22ADYCmhtADbDAAADAAAzMjZMzsMGmZmZmhZYmZGAgZgB",
@@ -4602,7 +4582,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbM2MzMzyAAAmxsMLmZWGDAMLbLjhxsYmGzMDbZWYYbAAAYAAAzMzMjZMzsMmxMzMzMMDzMzAAMgB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZGz2AAAMmlZxMzyYAgZbbbMMmFz0YmZYLzGDbDAAADAAAzMjZMjtxMmZmZmZMDzMzAAMgB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMMzoZzM2mZmZWGAAwMmlZxMzyYAgx22ADYCmhtADbDAAADAAAzMjZMzsNGmZmZmhZYmZGAgZgB",
             ["n"] = 1,
         },
         {
@@ -4614,11 +4602,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbM2MzMzyAAAmxsMLmZWGDAMLbLjhxsYmGzMDbZWYYbAAAYAAAzMzMjZMzsMGmZmZmhZYmZGAgZgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMMzMzsMAAAzMLzyMzsMGAwCMwsY0YGQmFwyAAAwMAAwMDmZGjZzMDzMmZGDmZmBAYGYA",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMzmZmZWGAAwMmlZZmZWGDAM22GYATwMsFYYbAAAYAAAYmZmZMjNmxMzMzMMDzMzAAMgB",
             ["n"] = 1,
         },
         {
@@ -4626,15 +4610,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMzmZmZWGAAwMmlZZmZWGDAMLbbjhxsYmGzMDbZWYYbAAAYAAAzMzMjZMjNGmZmZmhZYmZGAgZgB",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMzMzoZhhZmxsNAAgZmxsMzMbjBAGbbDMgJYGWCMsNAAAYAAAMzMmhZ2GjZMzMzMMMzMzAAmBG",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbM2mZGz2AAAmZmlZxMzyYAgZZbZMMmFz0YmZYLzCDbDAAAzAAAzMzMzMjZGjxMGzMzMGmZmBAYAD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMjZGNLMz2MzYWGAAgZmlZbmZWGDAMLbLjhxsYmGzMDLZWYYZAAAYGAAYmZmZmZMzwMDzMmZGDmZGDAYGYA",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMjZGNLmZ2mZGzyAAAMmlZbmZWGDAMLbLjhxsYmGzMDLZWYYbAAAYAAAYmZmZMzghZmZmZMzwMGDAYGYA",
             ["n"] = 1,
         },
         {
@@ -4642,23 +4622,27 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzYWGAAwMmlZZmZ2GDAM2WGYATwMsFYYbAAAYAAAYmZMjZsxMmZMzMmZYmZGAgBMA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmx2MzMz2AAAmZmlZxMz2YAgx2yADYCmhtADbDAAAzAAAYmZMjZGjxMGzMzMGmZmBAYAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjZ2mZGzyAAAmxsMLmZWGDAMLbLDMsYmwMDbZww2AAAwAAAwMzYGzwYGzMzMzwMMzMGAwAG",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjZ2mZGzyAAAmxsMLzMzyYAgZZbZghFzEmZYLDG2GAAAGAAAmZGzYGYGzMzMzwMMzMGAwAG",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMzMzoZxMz2MzYWGAAwMzsYzMzyYAgx2yADYCmhtADbDAAAzAAAYmhZGGDMzYmZMzwMmZAAzAD",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMjZGNbmx2MzYWGAAwMzsMLmZWGDAM2WGYATwMsFYYbAAAYGAAAzMjZMzsNGzYMzMzYYmZGAgBMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+iZMzoZxMzyMzYWGAAwMzsMLmZWGDAM22GYATwMsFYYbAAAYGAAAzMjZGmtxYGjZmZGDzMzMAgBMA",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+iZMzoZxM2mZGzyAAAmZmlZxMzyYAgx22ADYCmhtADbDAAAzAAAYmZMzYmtxYGjZmZGDzMzMAgBMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzYWGAAwMmlZZmZWGDAM22GYATwMsFYYbAAAYAAAYmZMjZmNGmZmZmhZYmZGAgZgB",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMjZGNbmx2MzYWGAAwMzsMLmZ2GDAM2WGYATwMsFYYbAAAYGAAAzMjZMzsNGzYMzMzYYmZGAgBMA",
             ["n"] = 1,
         },
     },
@@ -4668,15 +4652,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZmpZjhZmxsNAAAzMLzyMzsMGAYWW2GDjZxMNmZG2yswwyAAAwMAAwMzMzMzwMLmZYmxMzYwMzMAAzAD",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNLMjZmZmlBAAYmZZWmZmlxAAzyyyYYMLmpxMzwWmFGWGAAAmBAAmZmZmZGmhZGmZMzMGMzMDAwMwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjxyMzYWGAAgZmlZZmZWGDAYBGYWMaMDIzCYZAAAYGAAYmBmZMGmZYmxMzYwMzMDAYGYA",
             ["n"] = 1,
         },
         {
             ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZmpZjxyMzMzyAAAmZmlZZmZWGDAYBGYWMaMDIzCYZAAAYGAAYmBMjZGDDzMmZGDmZmBAYGYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzY2AAAMzsMLzMzyYAgZZbZMMmFz0YmZYJzCDLDAAAzAAAzMzMzMjZGmZYmxMzYwMzMAAzAD",
             ["n"] = 1,
         },
         {
@@ -4688,7 +4672,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMjZGNLmxyMzYWGAAwMzsMLzMzyYAgx2yADYCmhtADbDAAAzAAAYmZMzwsxwYmZmZYYmZmBAMDMA",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMMzMzsMAAgZmZZWMzsMGAYstMwAmgZYLww2AAAwMAAAmZmZGzMmhZMmZmZMMzMDAwAG",
             ["n"] = 1,
         },
         {
@@ -4700,19 +4684,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMjZGNbmx2MzYWGAAgZmlZZmZWGDAMLLLjhxsYmGzMDbZWYYZAAAYGAAYmZmZMjZmNzMMzYmZMYmZGAgZgB",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMWmZmZWGAAgZmlZZmZWGDAMLbbjhxsYmGzMDbZ2YYZAAAYGAAYmBzMjxwMDzMmZGDmZmBAYGYA",
             ["n"] = 1,
         },
         {
             ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMzMzoZhhZmxsMAAAzMLzyMzsMGAwCMwsY0YGQmFwyAAAwMAAwMDMzYMbmZYmxMzYwMzMDAYGYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjhZmZmlBAAYmZZWmZmlxAAWgBmFjGzAysAWGAAAmBAAmZgZGjhZGmZMzMGMzMzAAmBG",
             ["n"] = 1,
         },
         {
@@ -4728,7 +4704,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbM2mZmZWGAAwMmlZZmZWGDAYBGYWMaMDIzCYZAAAYAAAzMYMjxsxwMzYmZMDzMzAAMDMA",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMjZmZmlBAAYmZZWmZmlxAAWgBmFjGzAysAWGAAAmBAAmZwMzYMMzwMjZmxgZmZAAmBG",
             ["n"] = 1,
         },
         {
@@ -4736,21 +4712,29 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+yMjZGNbmx2MzYWGAAwMzsMLmZWGDAMWWGYATwMsFYYbAAAYGAAAzMjZMzsNGzYMzMzYYmZGAgBMA",
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+ixMzoZjx2MzMzyAAAMzsMLzMzyYAALwAziRjZAZWALDAAAzAAAzMYmZMmNzMMzYmZMYmZGAgZgB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CkQAMrNP5kak+EBqLfUa3dMm+amZmZGNbM2mZmZWGAAwMzsMLzMzyYAALwAziRjZAZWALDAAAzAAAzMwMDGDDzMmZGDmZmBAYGYA",
             ["n"] = 1,
         },
     },
     ["WARLOCK_DEMONOLOGY_MYTHICPLUS"] = {
-        {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjhZmZmtBAAAAAAYstMjZmhFDDzsNbtQzYxYmxysMzMjZAgZGzMjZGMzMzMmZAAAGzMGDDLzYAD",
-            ["n"] = 1,
-        },
         {
             ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2MzMzyAAAAAAAAGzYYBGYb0CNsYMzYZWmZmxMAwMjZmxMDwYGzYDAAMmZmxwwyMGwA",
             ["n"] = 1,
         },
         {
             ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzYWGAAAAAAgx2yMmZGWMMMz2s1CNjFjZGLzyMzMmBAmZMzMmZwMzYGzYDAAMmZmxwwyMGwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjhZmZmtBAAAAAAYstMjZmhFDDzsNbtQzYxYmxysMzMjZAgZGzMjZGMzMzMmZAAAGzMGDDLzYAD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzMzyAAAAAAAAGzYYBGYb0CNsYMzYZWmZmxMAwMjZmxMDwYGzYDAAMmZmxwwyMGwA",
             ["n"] = 1,
         },
         {
@@ -4762,7 +4746,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+amxMzoZjhZmZmlBAAAAAAgllZMzMsADmtRL0wixMjlZZmZGzAAzMmZGzMAmZMzAAAMmZmxwwyMGwA",
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMjZmZmlBAAAAAAAMmxwCMw2oFaYxYmxysNzMjZAgZGjZmZGgZmxMAAAGzMzYYYZGDYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZmZ2GAAAAAAAwYGDLwAbjWohFjZGLzyMzMmBAmZMzMmZAGzYGbAAgxMjxwwyMGwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMzmZmZ2GAAAAAAAwYGDLwAbjWohFjZGLzyMzMmBAmZMzMmZAGzYGbAAgxMzMGGWmxAGA",
             ["n"] = 1,
         },
         {
@@ -4770,7 +4762,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMjZmxsMAAAAAAAgxMGWgB2GtQDLGzMWmlZmZMDAMzYmZMzAMzMmxGAAYMzMjhhlZMgB",
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+iZmZGNLMzmZGzyAAAAAAAw2yMmZGWgBz2oFaYxYmxysNzMjZAgZGjZmZGgxMMzGAAYMzMzMMsMjBMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmx2MzMz2AAAAAAAAGzYYBGYb0CNsYMzYZWmZmxMAwMjZmxMDwYGzMbAAgxMjxwwyMGwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzYWGAAAAAAAwYGDLwAbjWohFjZGLz2MzMmBAmZMzMmZAGzYGbAAgxMzMGGWmxAGA",
             ["n"] = 1,
         },
         {
@@ -4782,6 +4782,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZGz2AAAAAAAMWWmxMzwihhZ2mtWoZsYMzYZWmZmxMAwMjZmxMDmZGzYGLAAgxMzMGGWmxAGA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZmZ2GAAAAAAAwYGDLwAbjWohFjZGLz2MzMmBAmZMzMmZAGzwYDAAMmZmxwwyMGwA",
             ["n"] = 1,
         },
@@ -4790,35 +4794,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+aMjZmpZzMzmZGz2AAAAAAAAGzYYBGYb0CNsYMzYZ2mZmxMAwMjxMzMDAzMzAAAYMzMzMMsMjBMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzMNbMzyMzYWGAAAAAAAwYGDLwAbj2ohFjZGLz2MzMmBAmZMzMmZAYGGAAAjZmZmhhlZMgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZmZ2GAAAAAAAwYGDLwAbjWohFjZGLzyMzMmBAmZMzMmZAGzYGbAAgxMjxwwyMGwA",
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZGz2AAAAAAAAGzYYBGYb0CNsYMzYZWmZmxMAwMjZmxMDwYGzYDAAMmZmxwwyMGwA",
             ["n"] = 1,
         },
         {
             ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzYWGAAAAAAgxyyMmZGWMMMz2s1CNjFjZGLzyMzMmBAmZMzMmZwMzMPwYGbAAgxMzMGGWmxAGA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjZ2mZGzyAAAAAAAAGzYYBGYb0CNsYMzYZ2mZmxMAwMjZmxMDwYGzYDAAMmZGGGWmxAGA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjxmZGzyAAAAAAAAGzYYBGYb0CNsYMzYZWmZmxMAwMjZmxMDwMzwMAAAjZmZmhhlZMgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+ixMzoZjZ2mZmZ2GAAAAAAAwYGDLwAbjWohFjZGLzyMzMmBAmZMzMmZAGzYGLAAgxMzMGGWmxAGA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmZ2mZGzyAAAAAAAAGzYYBGYb0CNsYMzYZWmZmxMAwMjZmxMDwYGzYDAAMmZmxwwyMGwA",
             ["n"] = 1,
         },
     },
@@ -4828,15 +4808,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNLM2mZGzyAAAAAAAAGzYYBGYb0CNsYMzYZ2mZmxMAwMjxMzMDwMzYmBAAYMzMjhhlZMgB",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjhZmZmtBAAAAAAAMmxwCMw2oFaYxYmxysNzMjZAgZGjZmZGAzMGDAAwYmZmZYYZGDYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+amxMzoZjhZmZmlBAAAAAAgllZMzMsADmtRL0wixMjlZZmZGzAAzMmZGzMAmZMzAAAMmZmxwwyMGwA",
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzMNbMjZmxsMAAAAAAAgxMGWgB2GtRDLGzMWmtZmZMDAMzYmZMzAYmhZAAAGzMzYYYZGDYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMzmZmZ2GAAAAAAAwYGDLwAbjWohFjZGLzyMzMmBAmZMzMmZAGzYGbAAgxMzMGGWmxAGA",
             ["n"] = 1,
         },
         {
@@ -4848,15 +4828,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMMzMzsMAAAAAAAgxMGWgB2GtQDLGzMWmlZmZMDAMzYmZMzAMzMmZAAAGzMzYYYZGDYA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMMzoZzM2mZGz2AAAAAAAAGzYYBGYb0CNsYMGLzyMzMmBAmZMzMzMDwMzYmZBAAMmZmxwwyMGwA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNLMMzMzsNAAAAAAAjtlZMzMsYYYmtZrFaGLGzMWmlZmZMDAMzYmZMzgZGzMmZ2AAAjZmZMMsMjBMA",
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzoZhhZmxsNAAAAAAAjtlZMzMsYYYmtZrFaGLGzMWmlZmZMDAMzYmZMzgZGmZmZAAAGzMzMDDLzYAD",
             ["n"] = 1,
         },
         {
@@ -4896,11 +4872,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMegZGNbmx2MzYWGAAAAAAAwYGDLwAbjWohFjZGLzyMzMmBAmZMzMmZAmZGzMAAAjZmZMMsMjBMA",
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMmZGNbMz2MzMz2AAAAAAAAGzYYBGYb0CNsYMzYZWmZmxMAwMjZmxMDwYGzYDAAMmZMGGWmxAGA",
             ["n"] = 1,
         },
         {
             ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMMzoZzMz2MzMz2AAAAAAAAGzYYBGYb0CNsYMzYZWmZmxMAwMjZmxMDwYGzYDAAMmZmxwwyMGwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CoQAMrNP5kak+EBqLfUa3dMm+yMzMzoZjhZmxsMAAAAAAAgxMGWgB2GtQDLGzMWmlZmZMDAMzYmZMzAYmxMDAAwYmZmZYYZGDYA",
             ["n"] = 1,
         },
     },
@@ -4914,43 +4894,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDz0MmhhxghhZmZGmNMDzyDMBAswsNmxMzMDEALmZZ2GTQAAzMDgZAGGAzMziB",
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYbmx2MAAAAAAAAAAAALDz0MmhhxghhZmZGmNMDzyDMBAswsNmxMzMDEALmZZ2GTQAAzMDgZAGGAzMzmB",
             ["n"] = 1,
         },
         {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZYmmxMMMghhZmZGmNMDzyMBAswsNmxMzMDEALmZZWGTzys0MzMLAmZgZmZAYZAMzMbG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZYmwMMMGMMMzMzwshZYWmJAgFmNmxMzMDEALmZZ2GTQAAzYAMDwYZMgZmZzA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFmtxMmZmZgAYxMLzyYaWmlmZmZBYGDMzMDwYBGMzMbG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYbmx2MAAAAAAAAAAAALDz0MmhhBMMMzMzwsxMDWmJAgFmtxMmZmZgAYxMLzyYaWmlmZmZBYGDMzMDwYZAMzMbG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZY0MmBMghZMzMzwsNMDzyMBAswsNmxYmZgAYxMLz2YaWmlmZmZBYGDMzMDwYZAMzMLG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZYmwMMMGMjhZmZGmNMDzyMBAswsNmxYmZgAYxMLz2YaWmlmZmZBYGDMzMDwYZAMzMbG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDzEmhhBMMMzMzwsxMDzyMBAswsNmxMzMDEALmZZ2GTzys0MzMLAzYgZmZAGLjBMzMbG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDzEmhhBMmhZmZGmNmZYWmJAgFmtxMmZmZgAYxMLz2YCCAYGDgZAGLDgZmZzA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mxAAAAAAAAAAAAbDjwMMMghZMzMzwsNMDzyMBAswsNmxMzMDEALmZZWGTQAAGDgZAGLzAMzMb+A",
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYbmZ2mBAAAAAAAAAAAYZYmmxMMMghhZmZGmNMDzyMBAswsNmxMzMDEALmZZWGTzys0MzMLAmZgZmZAYZAMzMbG",
             ["n"] = 1,
         },
         {
@@ -4958,7 +4906,43 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZYmmxMMMGMMMzMzwsgZwyMBAswsxMmZmZgAYxMLz2YaWmlmZmZBYGDMzMDwYZAMzMbG",
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZYmwMMMGMMMzMzwshZYWmJAgFmNmxMzMDEALmZZ2GTQAAzYAMDwYZMgZmZzA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDz0MmhhBMjhZmZGmNmZYWmJAgFmtxMmZmZgAYxMLzyYaWmlmZmZBYGDMzMDALAMzMbG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYbmx2MAAAAAAAAAAAALDz0MmhhxghhZmZGmNMDWmJAgFmtxMmZmZgAYxMLz2YCCAYGDgZAGLDgZmZzA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYbmx2MAAAAAAAAAAAALDz0MmhhBMMMzMzwsxMDWmJAgFmtxMmZmZgAYxMLzyYaWmlmZmZBYGDMzMDwYZAMzMbG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDz0MmhhBMMMzMzwshZwyMBAswsNmxMzMDEALmZZ2GTzys0MzMLAzMDMzMDwYZAMzMbG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDzEmhhBMMMzMzwsxMDzyMBAswsNmxMzMDEALmZZ2GTzys0MzMLAzYgZmZAGLjBMzMbG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZY0MmhhBMjhZmZGmNMDziJAgFmtxMGzMDEALmZZ2GTzys0MzMLAzMDMzMDwYZGgZmZzA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDjmxMMMghhZmZGmNMDzyMBAswsNmxMzMDEALmZZ2GTQAAzMDgZAGLDgZmZzA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mxAAAAAAAAAAAAbDjwMMMghZMzMzwsNMDzyMBAswsNmxMzMDEALmZZWGTQAAGDgZAGLzAMzMb+A",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZYmwMMMGMjhZmZGmNMDzyMBAswsNmxYmZgAYxMLz2YaWmlmZmZBYGDMzMDwYZAMzMbG",
             ["n"] = 1,
         },
         {
@@ -4974,15 +4958,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZYmmxMMMghhZmZGmNMDWmJAgFmNmxMzMDEALmZZ2GTQAAzMDgZAGLDgZmZzA",
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mBAAAAAAAAAAAYZY0MmhhBMMMzMzwshZYWmJAgFmNmxMzMDEALmZZ2GTQAAzMDgZAGLDgZmZzA",
             ["n"] = 1,
         },
         {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDjmxMMMghZMzMzwsxMDzyMBAswsNmxMzMDEALmZZWGTQAAzYAMDALDgZmZxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDzEmhhxgZMMzMDmNMDzyMBAswsNmxMzMDEALmZZWGTQAAzMDgZAGLDgZmZzA",
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYbmx2MAAAAAAAAAAAALDjmxMMMghhZmZGmNmZYWmJAgFmtxMmZmZgAYxMLz2Ya2mlmZmZBYGDgZAGLDgZmZzA",
             ["n"] = 1,
         },
     },
@@ -5013,6 +4993,10 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDjwMMMgZmhZmZGmthZYWmJAgFmtxMmZmZgAYxMLzyYCCAYGDgZAGLDgZmZxA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mxAAAAAAAAAAAALDjwMMMgZMjZmZGmthZwyMBAswsNmxMzMDEALmZZWGTQAAGDgZAGLjBMzMb+A",
             ["n"] = 1,
         },
         {
@@ -5048,6 +5032,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYM2GGjlZmZbGAAAAAAAAAAAglhRzYGGGwMGmZmZY2GmhZZmAAWMz2MzYMzMQAsYmlZZMBBAYMAmBglBwMzs5BA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYM2GGsMzMbzAAAAAAAAAAAAsMMaGzwwAGmxMzMDz2wMMLzEAwiZ2mZGjZmBCgFzsMbjJIAAjBwMAsMAmZmNXA",
             ["n"] = 1,
         },
@@ -5059,23 +5047,11 @@ RecommendedStatsData_Talents = {
             ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmZ2mxAAAAAAAAAAAALDjmxMgBMmhZmZGmthZYWmJAgFmtxMmZmZgAYxMLzyYaWmlmZmZBwYgZmZAGLDgZmZzHA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYMgxYZmx2MAAAAAAAAAAAALDjmxMMMghZMzMzwsxMDzyMBAswsNmxMzMDEALmZZWGTQAAzYAMDALDgZmZxA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "C0QAQnG51S19isUJoJoTeJ/IKPzYM2GGsMzMbzAAAAAAAAAAAAsMMaGzwwAGmxMzMDz2wMMLPwEAwiZ2mZGjZmBCgFzsMLjJIAAjBwMAjlBwMzs5CA",
-            ["n"] = 1,
-        },
     },
     ["DRUID_BALANCE_MYTHICPLUS"] = {
         {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMD8AmlZmZmBDzYMzyMLMzYjlZWGzMzYDDDwYbbmBjZbEYCAAAwCzMzMYzAjBAgZGsMA",
-            ["n"] = 3,
-        },
-        {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWYmxGLzsMmZM2wwAM22mZwY2GBmAAAAswMzMD2MmxYAAYmBLDA",
-            ["n"] = 2,
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMLMYMmZZmFzMjNWmZZMzYsghBYstNzgxsNCMBAAAYhZmZGsZYMGAAmZwyA",
+            ["n"] = 1,
         },
         {
             ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjxMLzsYmZsxyMLjZGjFMMAjttZGMmtRgJAAAALMzMzgNjZMGAAmZwyA",
@@ -5086,15 +5062,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsMmZmZhxDwMmZbsNjZmtxyMGjBLYYAGgltxCmmZ2GBAAAYzMzMzgNDjxMAmZAgBA",
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNMmZgxsMzMzMLMgZZmlZWYmxGLzsMmZM2wAgx22MDGz2IwEAAAgFzMzMD2MMGDAAzMYZA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMD8AmFzMzMLAjZZmlZWYmxGLzsMmZM2wwAM22mZwY2GBmAAAAsYmZmZwmhxYAAYmBLDA",
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMmZZmFzMjNWmZZMzYsghBYstNzssNz2sNTzMbzEAAAgFmZmZwmhxYAYmBzMYZA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAA2oMbNjxMDMmFzMzMLMYMLzsMzyMmxGLzYMGjNMMAjttZmttZWmtZamZbmAAAAsxMmZwmxMGzAYmBzMYZA",
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMD8AmFzMzMYYGjZWmZxYGLmlZWGjZGLYYAGbLzMYMbjATAAAAWMzMzMYzAjZAAMzADA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWYmxGLzsMmZM2wwAM22mZwY2GBmAAAAswMzMD2MmxYAAYmBLDA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNzMmZAmFzMzMLMYMLzsMzCzM2YZmlxMjxGGGgx22Mz22MLz2MNzsMTAAAAWMz8AzMYzwYMAAMzglBA",
             ["n"] = 1,
         },
         {
@@ -5122,7 +5106,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNMmZgHwsYmZmZhBjZZmlZWYmxGLzsMmZM2wwAM22mZ22mZb2mpZmlZCAAAwiZmZmBbGGjBgZGMzglBA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMaGjZG4BMbzMzMDz4BGmtZWGLDzYbmlZWGzMDbYAwYbbmZZbmtZbmmZWmJAAAAbmZmxgNDMmBwMDmZgBA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMYYYWmZZmFmZsxyMLjZGjNMMAjttZGMmtRgJAAAALmZmZGsZYMGAAmZwyA",
             ["n"] = 1,
         },
         {
@@ -5134,21 +5126,21 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMaGjZG4BMLzMzMDDGGzsMziZmxCLzsMGzMWwwAM22mZwY2GBmAAAAsYmZmZwmhxYGAAzMwA",
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWYmxGLzsMmZM2wwAM22mZ22MmtZyMLzEAAAgFmZmZwmxMGDAzMYmBLDA",
             ["n"] = 1,
         },
     },
     ["DRUID_BALANCE_RAID"] = {
+        {
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMD8AmFzMzMAzYMzyMLmZGLsMzyYMzYBDDwYbbmBjZbEYCAAAwiZmZmBbGGjZAAMzADA",
+            ["n"] = 2,
+        },
         {
             ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMmZZmFzMjNWmZZMmZsghBYstNzgxsNCMBAAAYhZmZGsZYMmBAwMDMA",
             ["n"] = 1,
         },
         {
             ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbZMmZgHwsYmZmZhhZMmZZmFzMjNWmZZMmZsghBYstNzgxsNCMBAAAYhZmZGsZYMmBAwMDMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMD8AmFzMzMAzYMzyMLmZGLsMzyYMzYBDDwYbbmBjZbEYCAAAwiZmZmBbGGjZAAMzADA",
             ["n"] = 1,
         },
         {
@@ -5168,11 +5160,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWYmxGLzsMmZM2wwAM22mZwY2GBmAAAAswMzMD2MmxYAAYmBLDA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbZMmZgHwsYmZmhZYY2mZZsMMjNzyMLjZmhNMMADw22YDTzMLjAAAAsZmZmZwmxwYGAzMAwA",
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMLMYMmZZmFzMjNWmZZMzYsghBYstNzgxsNCMBAAAYhZmZGsZYMGAAmZwyA",
             ["n"] = 1,
         },
         {
@@ -5212,11 +5200,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDzY2mZZsNjZsZWmxYmZGbYYAGgttxGmmZWGBAAAYzMzMzgNDjxAwMDAMA",
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMLNjxMDwsMzMzMYYGjZWmZxMzYhlZWGjZGLYYAGbbzMYMbjATAAAAWYmZmBbGGjZAAMzADA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAAWoMLNjxMDwsMzMzMYYGjZWmZxMzYhlZWGjZGLYYAGbbzMYMbjATAAAAWYmZmBbGGjZAAMzADA",
+            ["code"] = "CYGADBD3hSPCL9Y9gz68WcKvMAAAAAAAAAAAAAAAAA2oMbNjxMDwsMzMzMYYGjZWmZxMzYhlZWGjZGLYYAGbbzMYMbjATAAAAWYmZmBbGGjZAAMzADA",
             ["n"] = 1,
         },
     },
@@ -5226,7 +5214,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAYWegxsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYGMzMz2MmZmZGzkxMDAAAAAAYWMmtZYmZ2mZGLzMmxyMDjlZ2mBDjtNmkxMjhFAAAAAAEgZGgBgAAAD",
             ["n"] = 2,
         },
         {
@@ -5234,7 +5222,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAY2egxsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYGMzMz2MmZmxYmMmZAAAAAAAzixsNDzMz2MzYZmxMWmZYsMz2MYYstxkMmZMjFAAAAAAEgZGgBgAAAD",
             ["n"] = 2,
         },
         {
@@ -5242,15 +5230,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZWmxMzMzMzEmZAAAAAAAzmZmtZgZ2mZGLzMmxyMDzsMz2Mbz2MzMLbz200MmZmhFAAAAAAEgZmZGMAEAAYA",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAYWegxsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmZ2mZGLzMmxyMDzsMz2MYYssxkMmZMjFAAAAAAEgZGgBgAAAD",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYGMzMz2MmZmxYmMmZAAAAAAAzmxsNDzMz2MzYZmxMWmZYsMz2MYYstxkMmZMjFAAAAAAEgZGgBgAAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAYWegxsNDzMz2MzYZmxMWmZYmlZ2mZZ2mZmZZbWmmmxMjhFAAAAAAEgZmZGMAEAAYA",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMz2MzYZmxMWmZYmlZ2mBDjtNmkxMjhFAAAAAAEgZGgBgAAAD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2mxMzMzYmMmZAAAAAAAzixsNDzMz2MzYZmxMWmZYmlZ2mZZ2mZmZbbWmmmxMjhFAAAAAAEgZmZGMAEAAYA",
             ["n"] = 1,
         },
         {
@@ -5258,41 +5250,37 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYGMzMz2MmZmZGzkxMDAAAAAAYWMmtZYmZ2mZGLz4BmhZGmZZmtZwwYbjJZMzYYBAAAAAABYmBYAIAAwA",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2mxMzMzYmwMDAAAAAAY2MmtZYmZ2mZGLzMmxyMDzsMz2MYYssxkMmZMjFAAAAAAEgZGgBgAAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYGMzMz2MmZmZGzkhZAAAAAAAzmxsNDzMz2MzYZmxMWmZYsMz2MYYstxkMmZMjFAAAAAAEgZGgBgAAAD",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYmZGzMz2MmZmZGzkxMDAAAAAAY2MmtZYmBmxyMzMDzMYWGYZ2MjhZRTjZmxwGAAAwAAQAwMDGACAAM",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYmZGzMjZMzMjZmJMzAAAAAAAmNjZbmxMDMjlZmZGmZwsMzyMLz2MzMbbz200MzMjhNAAAgBAgAMzMzgBgAAAD",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAY2egxsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYGMzMz2MmZmxYmMmZAAAAAAAzixsNDzMz2MzYZmxMWmZYsMz2MYYstxkMmZMjFAAAAAAEgZGgBgAAAD",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmZGzEmZAAAAAAAzmZmtZYmZ2mZGLzMmxyMDzsMz2MYYstxkMmZmhFAAAAAAEgZGgBgAAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2mxMzMzMzkxMDAAAAAAY2MmtBzMz2MzYZmxMWmZYmlZ2mBDjtNmkxMjhFAAAAAAEgZGgBgAAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYGMzMz2MmZmZGzkxMDAAAAAAYWMmtZYmZ2mZGLzMmxyMDjlZ2mZb2mZmZbbWmmmxMjhFAAAAAAEgZmZGMAEAAYA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYmZGzMz2MmZmZmZmwMDAAAAAAY2MzsNDMYmxyMjZYmxYWGYZWMjhZTTjZmZG2AAAAAAQAwMDGACAAM",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2mxMzMzYmMmZAAAAAAAzixsNYmZ2mZGLzMmxyMDzsNz2MYYstxkMmZMjFAAAAAAEgZGgBgAAAD",
             ["n"] = 1,
         },
     },
     ["DEMONHUNTER_HAVOC_RAID"] = {
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAYWegxsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
-            ["n"] = 3,
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAY2egxsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
+            ["n"] = 4,
         },
         {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAY2egxsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAYWegxsNDzMz2MzYZmxMWmZYmlZ2mBDjlNmkxMjhFAAAAAAEgZGgBgAAAD",
             ["n"] = 3,
         },
         {
@@ -5305,10 +5293,6 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2mxMzMzYmMmZAAAAAAAzmxsNDzMz2MzYZmxMWmZYmlZ2mBDjtNmkxMjhFAAAAAAEgZGgBgAAAD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZWmxMzMzMzEmZAAAAAAAzmZmtZgZ2mZGLzMmxyMDzsMz2Mbz2MzMLbz200MmZmhFAAAAAAEgZmZGMAEAAYA",
             ["n"] = 1,
         },
         {
@@ -5340,6 +5324,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZWMmZmZmZmMmZAAAAAAAzyDMmtZYMz2MzYZmxMWmZYmlZ2mZbWmZmZZb2mmmxMjhFAAAAAAEgZmZGMAEAAYA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZ2MmZmxMzkxMDAAAAAAY2egxsNzDYMz2MzYZmxMWmZYmlZ2mZbWmZmZZb2mmmxMjhFAAAAAAEgZmZGMAEAAYA",
             ["n"] = 1,
         },
@@ -5347,14 +5335,10 @@ RecommendedStatsData_Talents = {
             ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYmZGzMjZMzMzMmJjZGAAAAAAwsYMbjxMDMjlZmZGmZwsMwysZGDzmmGzMjhNAAAgBAgAgZGMAEAAYA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CEkAvaDi4uyGvRjRjFbhHwBCvYgZmZMjZmZMzMhZGAAAAAAwsZmZbmBzsNzMWmZMjlZGmZZmtZwwYZjJZMzMDLAAAAAAIAzMADABAAG",
-            ["n"] = 1,
-        },
     },
     ["DEMONHUNTER_VENGEANCE_MYTHICPLUS"] = {
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMMzkZmxYWMzMjhZMzYGzMzYYGmxmZmtxYGAAAAmtZwwYZhJMMjxGAAAAGMmZmZ2abmZGzMADAAAgB",
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMMzkZmxYWmZmZgZMzYGzMzYYGmxmZmtxYGAAAAmtZwwYZhJMMjxGAAAAGMzMzMzWbzMzYmBAAAAgB",
             ["n"] = 1,
         },
         {
@@ -5370,7 +5354,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjxMjhZkZmxYWmZmZMMjZGzYmZGDGmxmZmtxYGAAAAAAABMzMzGAAAAGYmZmZ2abmZGAYAAAAMA",
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjxMjhZkZmxwyMzMDMjZmZMzMzYwwM2egZmtxYGAAAAAAABMzMzGAAAAGYmZmZ2abmZGAAAAAgB",
             ["n"] = 1,
         },
         {
@@ -5378,11 +5362,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZmhZkZmxwyMzMDMjZGzMzMzYwwM2MzsNGzAAAAAAAIgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAA2mxMzMGmRmZGjxMzMDMjZGzMzMzYwwM2MzsNGzAAAAAAAIgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAA2mxMzMGmRmZGDLzMzMwMmZMzMzMjBDzYzMz2YMDAAAAAAgAmZGbAAAAYgZmZmZrtZmZAAAAAAG",
             ["n"] = 1,
         },
         {
@@ -5398,6 +5378,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMMjMzMGWmZmZAjZGzYmZGDzMzM2MzsNGzAAAAwsNDGGbbMhhZmxGAAAAGYmZmZ2abmZGzMADAAAgB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZmhZkZmxYWMzMDMjZGzMzMzYwwM2MzsNGGAAAAAAABMzM2AAAAwAzMzMzWbzMzAADAAAgB",
             ["n"] = 1,
         },
@@ -5410,11 +5394,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMzMzMjhZkZmxwyMzMDMjZGz8AzMzYYGmxmZmtxwAAAAwsNDGGLLMhhZmxGAAAAGMzMzMzWbzMzAAAAAAMA",
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMMjMzMwiZMDMjZGzMzMzYYmZmxmZmtxYGAAAAAAABMzM2AAAAwAzMzMzSbzMzAADAAAgB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMmZkZmxwyMzMDmZMDzYmZGDmZmxmZmtxwAAAAwsNDGGLbMhhZmxGAAAAGYmZmZWabmZGzMADAAAgB",
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZmhZkZmxwyMzMDMjZGz8AzMzYYGmxmZmtxwAAAAAAAIgZmxGAAAAGMzMzMzWbzMzAAAAAAMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMzMzMjhZkZmxwyMzMDMjZGz8AzMzYYGmxmZmtxwAAAAwsNDGGLLMhhZmxGAAAAGMzMzMzWbzMzAAAAAAMA",
             ["n"] = 1,
         },
         {
@@ -5422,15 +5410,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMMjMzMGWmZmZgZMzYGzMzYwMzM2egZmtxYGAAAAAAABMzM2AAAAwAzMzMzWbzMzAAAAAAMA",
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZmhZkZmxwyMzMDMjZGzMzMzYwwM2MzsNGzAAAAAAAIgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
             ["n"] = 1,
         },
         {
             ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZmhZkZmxwyMzMDMjZGzMzMzYwwM2MzsNGGAAAAmtZwwYZhJMMzMzGAAAAGYmZmZ2abmZGzMAAAAAMA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAWmxMzMGmRmZGYxMmBmxMjZmZmZMMzMzY7BmZ2GDDAAAAz2MYYYhJMMzM2AAAAwAzMzMzWbzMzYmBAAAAgB",
             ["n"] = 1,
         },
     },
@@ -5440,11 +5424,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMMzkZmxYWMzMjhZMzYGzMzYYGmxmZmtxYGAAAAmtZwwYZhJMMjxGAAAAGMmZmZ2abmZGzMADAAAgB",
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMMzkZmxYWmZmZgZMzYGzMzYYGmxmZmtxYGAAAAmtZwwYZhJMMjxGAAAAGMzMzMzWbzMzYmBAAAAgB",
             ["n"] = 1,
         },
         {
             ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMmZkZmBWMzMDmZMzYGzMzYYmZmxmZmtxwAAAAAAAIgZmxGAAAAGYmZmZ2abmZGAYAAAAMA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAWMmZmxwMyMzgZxMzMwMmZMjZmZMMzMzwDMzsNGGAAAAAAABMzM2AAAAwgZmZmZ2abmZGAYAAAAMA",
             ["n"] = 1,
         },
         {
@@ -5472,6 +5460,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmZmx2YmtxYGAAAAAAABMzM2AAAAwAzMzMzWbzMzAADAAAgB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAYMzMjxMjMzMYWMzMDMjZGzYmZGDzMzM2egZmtxAAAAAAAABMzM2AAAAwgZmZmZ2abmZGAYAAAAMA",
             ["n"] = 1,
         },
@@ -5488,7 +5480,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjxMjhZkZmxYWmZmZMMjZGzYmZGDGmxmZmtxYGAAAAAAABMzMzGAAAAGYmZmZ2abmZGAYAAAAMA",
+            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjxMjhZkZmxwyMzMDMjZmZMzMzYwwM2egZmtxYGAAAAAAABMzMzGAAAAGYmZmZ2abmZGAAAAAgB",
             ["n"] = 1,
         },
         {
@@ -5504,15 +5496,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAWMmZmxwMyMzgZxMzMwMmZMjZmZMMzMzwDMzsNGGAAAAAAABMzM2AAAAwgZmZmZ2abmZGAYAAAAMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAMjZmZMzMjMzMwiZmZgZMzYmHYmZGDzMzM2MzsNGAAAAwsNDGGLLMhhZmxCAAAAGYmZmZ2abmZGzMADAAAgB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CUkAvaDi4uyGvRjRjFbhHwBCvAAYMzMjZMzkZmBDzMzAzYmxMPwMzMGmZmZYmZMGAAAAAAAIgZmxGAAAAGMzMzMzWbzMzAADAAAgB",
             ["n"] = 1,
         },
     },
@@ -5522,7 +5506,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 3,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzYmBMYMTzMzMNzM2mZmZmZmZmZGwMmxYmZbmZgBGD2glxox2AyMBYDDMzghHA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGMwYGjZaMzMNzMz2MzMzMzMzMzAMzMzYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGzYMTjZmpZmZ2mZmZmZmZmZGwMmxYmZbmZgBGD2glxoxyAyMBYDzgZGM8AA",
             ["n"] = 1,
         },
         {
@@ -5530,15 +5518,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGzYMTjZmpZmZ2mZmZmZmZmZGwMmZGzMbjZgBGD2glxox2AyMBYDzgZGM8AA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGMwwYMTjZmpZmZ2mZmZmZmZmZGwMzMzYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGzYMTjZmpZmZ2mZmZmZmZmZGwMmxYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAgZMDmZYGmBzMY8ATjZmpZmx2MzMzMzMzMzAmZGYmZbmZgBMzM2YxyY2asNzwkZyCYbYGMzgZ8AA",
             ["n"] = 1,
         },
         {
@@ -5550,19 +5530,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGM8AGzYMTjZmpZmZ2mZmZmZmZmZGgZmxYmZZmZgBGD2glxox2AyMBYDzgZGM8AA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAgZMDGMzgBmBzMTzMzMNzMz2MzMzMzMzMzAmZGDzMmZGYAzMjN2sMmtGbzMMZmsA2GmBzMzMDPA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAzMDGMzwMYGYMTzMzMNzM2mZmZmZmZmZGgZmxYmxMzADMzMjNWsMmtGbzMMZmsA2GmBzMYGPA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGYMTjZmpZmZ2mZmZmZmZmZGwMzMzYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGMMGzYMTjZmpZmZ2mZmZmZmZmZGgZmxYmxMzADMGsBLjRjtBkZCwGmBzMY4BA",
             ["n"] = 1,
         },
         {
@@ -5570,23 +5538,35 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAgZMDGMzgBmBzMTzMzMNzMz2MzMzMzMzMzAmZGDzMmZGYAzMjN2sMmtGbzMMZmsA2GmBzMzMDPA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAzMDGMzwMwAjZamZmpZmx2MzMzMzMzMzAMzMGzMbzMDMwMzM2YxyY2asNzwkZyCYbYGMzgZ8AA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBmBjZaMzMNzMz2MzMzMzMzMzAmZmxYmZbmZgBGD2glxox2AyMBYDDMzghHA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzYmBMYMTzMzMNzM2mZmZmZmZmZGwMmxYmZbMDMwYwGsMGN2GQmJAbYGMzghHA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzwMgBjZaMzMNzM2mZmZmZmZmZGwMmZGzMbzMDMwMzM2YzyYWasNzwkZyGYbYGMzMzM8AA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGMwMGjZaMzMNzMz2MzMzMzMzMzAMzMGzMbzMDMwYwGsMGN2GQmJAbYGMzghHA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGMw8AzYMTjZmpZmZ2mZmZmZmZmZGgZmxYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBmHwYMTjZmpZmZ2mZmZmZmZmZGgZmxYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGMwYGjZaMzMNzMz2MzMzMzMzMzAMzMzYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzgZwMYMTzMzMNzM2mZmZmZmZmZGgxMzYmZbmZgBGD2glxox2AyMBYDDMzghHA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzwMwMYMTjZmpZmx2MzMzMzMzMzAmxMzYmZbMDMwMzM2YzyYWasNzwkZyGYbYgZGMjHA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGzYMTjZmpZmZ2mZmZmZmZmZGgZmxYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
             ["n"] = 1,
         },
     },
@@ -5597,7 +5577,7 @@ RecommendedStatsData_Talents = {
         },
         {
             ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzwMDMYMTzMzMNzM2mZmZmZmZmZGwMmxYmZbmZgBGD2glxox2AyMBYDDMzghHA",
-            ["n"] = 2,
+            ["n"] = 3,
         },
         {
             ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGzYMTjZmpZmZ2mZmZmZmZmZGgxMzYmZbmZgBGD2glxoxyAyMBYDzgZGM8AA",
@@ -5608,11 +5588,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGzYMTjZmpZmZ2mZmZmZmZmZGwMmZGzMbjZgBGD2glxox2AyMBYDzgZGM8AA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzwMDMYMTzYmpZmx2MzMzMzMzMzAmZmxYmZbmZgBGD2glxox2AyMBYDDMzghHA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZgZYGmBmHAjZaMzMNjx2MmZmZmZmZGwMzMGzMbzMDMwYwGsMGN2GQmJAbYgZGMjB",
             ["n"] = 1,
         },
         {
@@ -5628,11 +5604,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzwMDMYMTjZmpZmx2MzMzMzMzMzAmxMzYmZbmZgBGD2glxox2AyMBYDDMzghHA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGGjZaMzMNzMz2MzMzMzMzMzAmZmxYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzYmBMYMTzMzMNzM2mZmZmZmZmZGwMmxYmZbmZgBGD2glxox2AyMBYDDMzghHA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGzYMTjZmpZmZ2mZmZmZmZmZGwMmxYmZbmZgBGD2glxoxyAyMBYDzgZGM8AA",
             ["n"] = 1,
         },
         {
@@ -5640,11 +5616,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwgZGmBGzYMTjZmpZmZ2mZmZmZmZmZGwMmxYmZbmZgBGD2glxox2AyMBYDzgZGM8AA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAgZMDmZYGmBzMY8ATjZmpZmx2MzMzMzMzMzAmZGYmZbmZgBMzM2YxyY2asNzwkZyCYbYGMzgZ8AA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzwMwMMjZaGzMNzM2mZmZmZmZmZGgZmxYmZbmZgBGD2glxox2AyMBYDDMzghHA",
+            ["code"] = "CsbBPJc41CfcseY0baneJ1IHrBAAAAAAAAAAAjZwMDzwMDMYMTjZmpZmx2MzMzMzMzMzAmxMGzMbzMDMwYwGsMGN2GQmJAbYgZGMjHA",
             ["n"] = 1,
         },
         {
@@ -5658,27 +5634,27 @@ RecommendedStatsData_Talents = {
     },
     ["EVOKER_PRESERVATION_MYTHICPLUS"] = {
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZsMmxwYmZzMgtBAAwMmxMzYYmGzMDAAAYmZmmhZGz2YGAYMzYmlNWsxwMzMN0sZGbGmZmBzMMA",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZsMPwMGGzMbmBsNAAAmxMmZGDz0YmZAAAAzMz0MMzY2GzAAjZGzssxiNGmZmphmNGbGmZmBzMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZsMmxwYmZzMgthBAAmxMmxYYmYmZAAAAzMz0MmZGzyYGAYMDsA2AzwEymZsZYGgZGGA",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZsMmxwYmZzMgthBAAmxMmZGDzEzMDAAAYmZmMmZGzyYGAYMDsA2AzwEymZsZYGgZGGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ22GYYm5BmNzA2GGAAYmxYGMMTmZmBAAA2mZmJjZmZmtxMAwYmxMLLsYhhZmZaoZzM2MMmZwMDD",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ2MwYmZmZzMgthBAAmhxMzYYmMzMDAAAYmZmMMzMz2YGAYMzYmlFWswwMzMN0sZGbGGzMYmhB",
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZswMGzYmZzMgthBAAmxMmZGDzEzMDAAAYmZmMmZGz2YGAYMzYmlNWswwMzMN0sZGbGmZmBzMMA",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZsMmBzYmZzMgthBAAmZmxMzYYmYmZAAAAzMzkhZGz2YGAYMzYmlNWswwMzMN0sZGbGmZmBzMMA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAYmZwMjBzY2mhxMbzAAAMjZMDGzoZmZAAAAmZGZGzMmtZmBAzYGYDsAmhJkNDbGGAzMjB",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ2WGzYYMPwsZGw2wAAAzYGzYMMTmZmBAAA2mZmJjZm5BGjZAgxMwCYDMDTIbM2MMDwMDD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ2WGzYYMPwsZGw2wAAAzYGzYMMTjZmBAAAMzMTGzMjZbMDAMmZMzyGLWYYmZmGa2MjNDzMzgZGGA",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZsMmxwYmZzMgthBAAmxMzMzYYmYmZAAAAzMzkhZGz2YGAYMzYmlNWswwMzMN0sZGbGmZmBzMMA",
             ["n"] = 1,
         },
         {
@@ -5686,7 +5662,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ22mZGDjxsZGw2wAAAzYGzMjhZiZmBAAAMzMTGmZmxYGAYMDsA2AzwEyGjNDzAMzwA",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ22GzYYMzsZGw2wAAAzYGzMjhZiZmBAAAMzMTGmZmxYGAYMDsA2AzwEyGjNDzAMzwA",
             ["n"] = 1,
         },
         {
@@ -5730,7 +5706,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ2WmHYGDjxsZGw2wAAgZGzYmZMMTMzMAAAgZmZyYmZMbjZAgxMjZW2YxGDzMz0QzmZsZYMzgZGGA",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYGzmhZmZbYAAgZMjZwYGZmZAAAAmZGZGzMmtZmBAzYmxMLbsYhhZmZaoZzwmhxMDmZGD",
             ["n"] = 1,
         },
         {
@@ -5740,11 +5716,11 @@ RecommendedStatsData_Talents = {
     },
     ["EVOKER_PRESERVATION_RAID"] = {
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYGzmhZmZbYAAgZMjZwYGNmZAAAAmZGZGzMmtZmBAzYGYBsAmhJkNDbGGAzMjB",
-            ["n"] = 2,
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAYmZwMjZYGz2MMmZbYAAgZMjBGzoxMDAAAwMzMZmZmxsNzMAYGzMmZZjFLMMzMTDNbG2MMmZwMzYA",
+            ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAYmZwMjZYGz2MMmZbYAAgZMjBGzoxMDAAAwMzMZmZmxsNzMAYGzMmZZjFLMMzMTDNbG2MMmZwMzYA",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYmZ2MMzMbPADAAMjZMPAzYGNmZAAAAmZGZGzMmtZmBAzYGYDsAmhJkNYzwAYmZMA",
             ["n"] = 1,
         },
         {
@@ -5760,6 +5736,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYGzmhZmZbYAAgZMjZwYGNmZAAAAmZGZYmZmlZmBAGzALgFwMMhsZYzwAYmZMA",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYGzmhZmZbYAAgZmZMDmZGNGDAAAwMzIzYmZmtxMAYGzALgFwMMhsZYzwAYmhB",
             ["n"] = 1,
         },
@@ -5772,7 +5752,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYGzmhZmZbYAAgZMjZwYGNmZAAAAmZGZGzMmtZmBAzYmxMbbsYhhZmZaoZzwmhxMDmZGD",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAYmZwMjZYGzmhZmZbYAAgZMjZwYGNmZAAAAmZGZGzMmtZmBAzYmxMbbsYhhZmZaoZzwmhxMDmZGD",
             ["n"] = 1,
         },
         {
@@ -5788,6 +5768,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYGzmhZmZbYAAgZMjZwYGNmZAAAAmZGZGzMmtZmBAzYGYBsAmhJkNDbGGAzMjB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYmZ2MMzMbPADAAMjZMDGzoxMDAAAwMzIzYmxsNzMAYGzAbgFwMMhsBbGGAzMjB",
             ["n"] = 1,
         },
@@ -5800,11 +5784,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAMzMDmZMYmZ2MMzMbPAAAgZMjZwYGNmZAAAAmZGZGzMPwsNzMAYGzAbgFwMMhsBbGGAzMjB",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ2WGzYYMPwsZGw2wAAAzYGzMjhZaMzMAAAgZmZywMjZbMDAMmBWAbgZYCZzM2MMDwMDD",
+            ["code"] = "CwbBPJc41CfcseY0baneJ1IHrBAAAAAmZmZ2WGzYYMPwsZGw2wAAAzYGzghZyMzMAAAgZmZyYmZMbzMDAMmBWAbgZYCZzM2MMAmZGD",
             ["n"] = 1,
         },
         {
@@ -5818,7 +5798,11 @@ RecommendedStatsData_Talents = {
     },
     ["EVOKER_AUGMENTATION_MYTHICPLUS"] = {
         {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzYbmZmZWGYmlZMmxMbAAAAAAAAYGGzgxUjZmZAAAAgZmxYmZbMzAzsZMMLzYZZWGmZZYGmZaELYMzMzMDgB",
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNmZGbjZmxyAzsMjxMmZDAAAAAAAAzwYGMmaMzMDAAAAMzMGzMbjZGYmNjhZbGLLzywMLDzwMTjYDzMzMzMDgB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzYbmZmZWGYmlZMmxMbAAAAAwAAAzwDYGjxUzMzMDAAAAMmxYmZbMzAzsZgxMWYBGYGGaELYMmZAgB",
             ["n"] = 1,
         },
         {
@@ -5830,7 +5814,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzYbmZmZWGYmlZMmxMbAAAAAwAAAzwDYGMmaMzMDAAAAMzMGzMbjZGYmNDMmxCLwAzwQjYBjZmZAgB",
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgZYmZZmZmZMDAAAAAAAAMzYMDGTNmZmBAAAAzYGjZmtxMDMDDMmxCLwAzwQjYBjxMDAM",
             ["n"] = 1,
         },
         {
@@ -5838,31 +5822,23 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzMzyAzsMjZmxMAAAAAAAAwMMmZGjpGzMzAAAAAjZmxMjxMDMDjhZZGLLzywMLDzwMTjYBjxMzMDgB",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzMzyAzsMjxMmBAAAAAAAAmhx8AzYM1wMzAAAAAzMjxMz2YmBmZzAjZswCMwMM0IWwYmZGAYA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNmZmZbmZGMYmZZmZMjZAAAAAAAAgZGPgZwYqZmZmBAAAAzYGjZmtxMDMDjhZZGLmlBz2wMMz0IWwMjZGzAYA",
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzMzyAzsMjZmxMAAAAAAAAwMMmZGjpGzMzAAAAAjZmxMjxMDMDjhZZGLLzywMLDzwMTjYBjxMzMDgB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzMzyAzsMjxMmBAAAAAAAAmBmZGjpGz8AzAAAAgZMzMmZ2GzMwMbGDzyMWMLDmthZYmpRsgxMzMmBwA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzMzyMYmlZYmxMAAAAAAAAwM8AmZGjpGzMzAAAAAzMjxMz2YmBmZzAjZswCMwMM0IWAjZGAYA",
             ["n"] = 1,
         },
         {
             ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgBzMLzMzMjZAAAAAADAAjZADGTNmZmBAAAAzYmZMzsNmZgZWMwYGLsADMDDNiFMGzMADG",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgZYmZZGzMjZ2AAAAAAAAYmhxMYM1YmZGAAAAMjZMmZ2GzMwMMwYGLsADMDDNiFMGzMAwA",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgZYmZZmZmZMDAAAAAAAAMzYMDGTNmZmBAAAAzYGjZmtxMDMDDMmxCLwAzwQjYBjxMDAM",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzMzygZmlZMGmBAAAAAAAAmhxMYM1MzMzAAAAAzMjxMjxMDMzmxwsMjllZZYmlhZYmpRshxMzMzMAG",
             ["n"] = 1,
         },
         {
@@ -5874,11 +5850,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrhZmZbmZmZWmBzsMDzMmBAAAAAAAAmhHwYGjpGzMzAAAAgZmZMmZ2GzMwMbzAjZswCMwMM0IWAzMzAAD",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzMWGYmlZMzMmBAAAAAAAAzMMmBjpmZmZGAAAAYMjxMz2YmBmZxAjZswGMwMM0IWwYMzAAD",
             ["n"] = 1,
         },
         {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzMzyAzsMjxMmBAAAAAAAAmBmZGjpGzMzAAAAAzMzMmZMmZgZ2MwYGLsADMDDNiFMmZmBAG",
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMmZbmZmxyAzsMzMzMmBAAAAAAAAmZgBzM1MzMzAAAAgZMjxMz2YmBmZxAjZswCMwMM0IWwYMzAYYA",
             ["n"] = 1,
         },
         {
@@ -5886,15 +5866,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgZYmZZGmZMzGAAAAAAAAzMMmBjpGzMzAAAAgZMjxMz2YmBmZzAjZswCMwMM0IWwYMzAAD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNmZmZbmZGMYmZZmZMjZAAAAAAAAgZGjZwYqZMzMAAAAYGzYMzsNmZgZYMMmxiZZwYYGmRjYBzMmZAgB",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgZYmZZGzMjZ2AAAAAAAAwMMGzYM1YmZGAAAAYmZMmZ2GzMwMMwYGLsADMDDNiFMmZmBAG",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNmZGbzMzMzyAzsMDzMmZDAAAAAAAAzgZMjZmaMzMDAAAAmxMGzMbjZGYGGYMjFWgBmhhGxCMzMzAAD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgZYmZZGzMjZ2AAAAAAAAwM8AzYGjpGzMzAAAAAzMjxMz2YmBmhBGzYhFYgZYoRsgxMzMAwA",
             ["n"] = 1,
         },
     },
@@ -5960,6 +5940,10 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
+            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgZYmZZmZmZMDAAAAAYAAwMDjBGTNmZmBAAAAzMzYMzsNmZgZYgxMWYBGYGGaELYMmZAgB",
+            ["n"] = 1,
+        },
+        {
             ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNMzMbzMzgBzMLzYmZMzGAAAAAAAAmZ8AmBjpGzMzAAAAgZMzMmZ2GzMwMLGYMjFWgBmhhGxCGjZGAYA",
             ["n"] = 1,
         },
@@ -5967,16 +5951,8 @@ RecommendedStatsData_Talents = {
             ["code"] = "CEcBPJc41CfcseY0baneJ1IHrNmZmZbmZmxyAzsMjxMmBAAAAAMAAwM8AmBjpmxMzAAAAgZMjxMz2YmBmhxwsMjllZZYmthZYmpRsgZmZmZmBwA",
             ["n"] = 1,
         },
-        {
-            ["code"] = "CEcBPJc41CfcseY0baneJ1IHrhZmZbmZGMYmZZmZmZMDAAAAAAAAmZYMDGTNmZmBAAAAzYGjZmtxMDMzyMwYGLsADMDDNiFMGzMAwA",
-            ["n"] = 1,
-        },
     },
     ["DEMONHUNTER_DEVOURER_MYTHICPLUS"] = {
-        {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAQgHYMDjZA",
-            ["n"] = 4,
-        },
         {
             ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAALGz2gZAAAAAAAAYGzwMzMzMzMzMMziZMWkFmZmZ2abmZGADDABegxMMmB",
             ["n"] = 3,
@@ -5986,11 +5962,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 2,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAAMmtxDYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAQgHYMDjZA",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAQgHYMDjZA",
             ["n"] = 2,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAALGz2gZAAAAAAAAYGzwMzMzMzMzMMzyMjxmWWAQADAmZmlZmpZbmNzwYGD",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAALGz2gZAAAAAAAAYGzwMzMzMzMzMMzyMjxmWWAQADAmZmtZmpZbmNzwYGD",
             ["n"] = 1,
         },
         {
@@ -5998,7 +5974,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2MmZmZmZmBmBAAAAAAY5BGz2gZAAAAAAAAYGzwMzMzMzMzMMziZMWkFmZmZ2abmZGAzYAIgxMMmB",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAMjZmZmxMjhZAAAAAAAWMmtxYGAAAAAAAAmxgZmZmZmZmZYmlZGjNttwMzMzWbzMzMAYmZWmZmmtZWMDjZMA",
             ["n"] = 1,
         },
         {
@@ -6006,7 +5982,19 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWMmZmZmZmxwMAAAAAAALPwY2GMDAAAAAAAAzYwYmZmZmZmhZWmZM202CACYAMmZmlZmpZbmFzMGzYA",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAAMmtxDYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAQgHYMDjZA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2MzMzMzMzMwMAAAAAAALPwY2GMDAAAAAAAAzYwYmZmZmZmZMzyMzM202CACYAwMzsNzMNbzsYGGzYA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsMzYsplFAEwAgZmZbmZa2mZzMMmxA",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmBmBAAAAAAgxsNGzAAAAAAAAwMmhZmZmZmZmZYmlZGjNttAgAGAMzMbzMTz2MbmhxMGA",
             ["n"] = 1,
         },
         {
@@ -6018,7 +6006,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwMzsNzMNLzs8AjZYMD",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmZGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwMzsNzMNbzs9AjZYMD",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWmxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwMzsNzMNLzs8AjZYMD",
             ["n"] = 1,
         },
         {
@@ -6028,16 +6020,16 @@ RecommendedStatsData_Talents = {
     },
     ["DEMONHUNTER_DEVOURER_RAID"] = {
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAQgHYMDjZA",
-            ["n"] = 3,
-        },
-        {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2MmZmZmZmBmBAAAAAAY5BGz2gZAAAAAAAAYGzwMzMzMzMzMMziZMWkFmZmZ2abmZGADDABegxMMmB",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAMjZmZmxMjhZAAAAAAAWMmtxYGAAAAAAAAmxgZmZmZmZmZYmlZGjNttwMzMzWbzMzMAYmZWmZmmtZWMDjZMA",
             ["n"] = 2,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2MmZmZmZmBmBAAAAAAY5BGz2gZAAAAAAAAYGzwMzMzMzMzMMziZMWkFmZmZ2abmZGAzYAIgxMMmB",
-            ["n"] = 1,
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAQgHYMDjZA",
+            ["n"] = 2,
+        },
+        {
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAALGz2gZAAAAAAAAYGzwMzMzMzMzMMziZMWkFmZmZ2abmZGADDABegxMMmB",
+            ["n"] = 2,
         },
         {
             ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWMmZmZmZmBmBAAAAAAY7BGz2gZAAAAAAAAYGzwYmZmZmZmhZWmZM202CACYAMmZmtZmpZbmFzMGzYA",
@@ -6060,11 +6052,7 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWmZmZmZGjxwMAAAAAAALGz2gZAAAAAAAAYGzwYmZmZmZmhZWmhxmWWAQADgxMzsMzMNbzsNzMYGD",
-            ["n"] = 1,
-        },
-        {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAALGz2gZAAAAAAAAYGzwMzMzMzMzMMziZMWkFmZmZ2abmZGADDABegxMMmB",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWMmZmZmZmxwMAAAAAAALPwY2GMDAAAAAAAAzYwYmZmxMzMMzyMjxm2WAQADgxMzsMzMNbzsNzwYGD",
             ["n"] = 1,
         },
         {
@@ -6072,7 +6060,15 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWMzMzMzMzMwMAAAAAAALPwY2GMDAAAAAAAAzYwMzMzMzMzMMziZMWkFmZmZ2abmZGADzMz2Mz0sNzyDMmhxMA",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2MmZmZmZmBmBAAAAAAY5BGz2gZAAAAAAAAYGzwMzMzMzMzMMziZMWkFmZmZ2abmZGADDABegxMMmB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWmxMzMzYmxwMAAAAAAALGz2gZAAAAAAAAYGzwMzMzMzMzMMziZMWkFmZmZ2abmZGADDABegxMMmB",
+            ["n"] = 1,
+        },
+        {
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWmxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZYmlZGjNttwMzMzWbzMzMAGzMz2Mz0sNziZGjZMA",
             ["n"] = 1,
         },
         {
@@ -6080,15 +6076,11 @@ RecommendedStatsData_Talents = {
             ["n"] = 1,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAMjZmZmxMjhZAAAAAAAWMmtxYGAAAAAAAAmxgZmZmZmZmZYmlZGjNttwMzMzWbzMzMAYmZWmZmmtZWMDjZMA",
-            ["n"] = 1,
-        },
-        {
             ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAAWMzMzMzMzMwMAAAAAAALzYMYGAAAAAAAAmxgxMzMzMzMDzsMDjNtsAgAGAjZmZZmZa2mZbmZwMGA",
             ["n"] = 1,
         },
         {
-            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsMzYsplFmZmZ2abmZmBAzMz2Mz0sNziZYMjB",
+            ["code"] = "CgcBvaDi4uyGvRjRjFbhHwBCvAA2mxMzMzYmxwMAAAAAAALGz24BMDAAAAAAAAzYwMzMzMzMzMMzyMjxm2WAQADAmZmtZmpZbmNzwYGD",
             ["n"] = 1,
         },
         {

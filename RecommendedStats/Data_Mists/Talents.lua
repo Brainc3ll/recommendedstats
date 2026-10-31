@@ -1,4 +1,4 @@
--- GENERATED 2026-10-30 - do not hand-edit
+-- GENERATED 2026-10-31 - do not hand-edit
 RecommendedStatsData_Talents = {
     ["DEATHKNIGHT_BLOOD_RAID"] = {
         ["n"] = 20,
@@ -668,43 +668,43 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["spellID"] = 120360,
-                ["pct"] = 65,
+                ["pct"] = 70,
                 ["altSpellID"] = 117050,
-                ["altPct"] = 35,
+                ["altPct"] = 30,
             },
         },
         ["glyphs"] = {
             {
                 ["spellID"] = 20895,
-                ["pct"] = 100,
+                ["pct"] = 95,
             },
             {
                 ["spellID"] = 56850,
-                ["pct"] = 95,
+                ["pct"] = 90,
             },
             {
                 ["spellID"] = 57866,
                 ["pct"] = 90,
             },
             {
-                ["spellID"] = 57902,
-                ["pct"] = 85,
+                ["spellID"] = 56844,
+                ["pct"] = 80,
             },
             {
-                ["spellID"] = 56844,
-                ["pct"] = 75,
+                ["spellID"] = 57902,
+                ["pct"] = 80,
             },
             {
                 ["spellID"] = 119462,
                 ["pct"] = 45,
             },
             {
-                ["spellID"] = 19560,
+                ["spellID"] = 57904,
                 ["pct"] = 25,
             },
             {
-                ["spellID"] = 57904,
-                ["pct"] = 25,
+                ["spellID"] = 19560,
+                ["pct"] = 20,
             },
         },
     },
@@ -1102,11 +1102,11 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["spellID"] = 123391,
-                ["pct"] = 65,
+                ["pct"] = 60,
             },
             {
                 ["spellID"] = 120479,
-                ["pct"] = 45,
+                ["pct"] = 50,
             },
             {
                 ["spellID"] = 125893,

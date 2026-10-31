@@ -1,4 +1,4 @@
--- GENERATED 2026-10-30 - do not hand-edit
+-- GENERATED 2026-10-31 - do not hand-edit
 RecommendedStatsData_Talents = {
     ["DRUID_BALANCE_RAID"] = {
         ["n"] = 20,
@@ -35,7 +35,7 @@ RecommendedStatsData_Talents = {
                     44,
                     17,
                 },
-                ["pct"] = 55,
+                ["pct"] = 50,
             },
             {
                 ["split"] = {
@@ -43,12 +43,12 @@ RecommendedStatsData_Talents = {
                     47,
                     14,
                 },
-                ["pct"] = 45,
+                ["pct"] = 50,
             },
         },
         ["median"] = {
             0,
-            44,
+            47,
             17,
         },
     },
@@ -103,7 +103,7 @@ RecommendedStatsData_Talents = {
                     0,
                     61,
                 },
-                ["pct"] = 25,
+                ["pct"] = 20,
             },
             {
                 ["split"] = {
@@ -115,9 +115,9 @@ RecommendedStatsData_Talents = {
             },
         },
         ["median"] = {
-            5,
+            21,
             0,
-            50,
+            48,
         },
     },
     ["HUNTER_BEASTMASTERY_RAID"] = {
@@ -151,11 +151,11 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["split"] = {
-                    7,
-                    45,
-                    9,
+                    18,
+                    41,
+                    2,
                 },
-                ["pct"] = 15,
+                ["pct"] = 10,
             },
             {
                 ["split"] = {
@@ -168,7 +168,7 @@ RecommendedStatsData_Talents = {
         },
         ["median"] = {
             7,
-            45,
+            44,
             6,
         },
     },
@@ -259,7 +259,15 @@ RecommendedStatsData_Talents = {
                     0,
                     43,
                 },
-                ["pct"] = 55,
+                ["pct"] = 50,
+            },
+            {
+                ["split"] = {
+                    17,
+                    0,
+                    44,
+                },
+                ["pct"] = 20,
             },
             {
                 ["split"] = {
@@ -269,19 +277,11 @@ RecommendedStatsData_Talents = {
                 },
                 ["pct"] = 20,
             },
-            {
-                ["split"] = {
-                    17,
-                    0,
-                    44,
-                },
-                ["pct"] = 15,
-            },
         },
         ["median"] = {
             18,
             0,
-            43,
+            44,
         },
     },
     ["PALADIN_HOLY_RAID"] = {
@@ -525,7 +525,7 @@ RecommendedStatsData_Talents = {
                     23,
                     24,
                 },
-                ["pct"] = 20,
+                ["pct"] = 25,
             },
             {
                 ["split"] = {
@@ -537,16 +537,16 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["split"] = {
-                    20,
                     0,
-                    41,
+                    28,
+                    33,
                 },
                 ["pct"] = 10,
             },
         },
         ["median"] = {
             14,
-            21,
+            22,
             29,
         },
     },
@@ -581,16 +581,16 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["split"] = {
-                    16,
-                    45,
+                    17,
+                    44,
                     0,
                 },
                 ["pct"] = 10,
             },
             {
                 ["split"] = {
-                    17,
-                    44,
+                    16,
+                    45,
                     0,
                 },
                 ["pct"] = 10,
@@ -645,7 +645,7 @@ RecommendedStatsData_Talents = {
                     0,
                     21,
                 },
-                ["pct"] = 50,
+                ["pct"] = 55,
             },
             {
                 ["split"] = {
