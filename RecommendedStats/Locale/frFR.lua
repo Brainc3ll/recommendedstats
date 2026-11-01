@@ -248,9 +248,9 @@ L.OPTIONS_SKIN             = "Apparence"
 L.SKIN_DEFAULT = "Par défaut"
 L.SKIN_CLASS   = "Couleur de classe"
 L.SKIN_CUSTOM  = "Couleur personnalisée"
-L.OPTIONS_EXPORT_SKIN = "Exporter l'apparence"
-L.OPTIONS_IMPORT_SKIN = "Importer l'apparence"
-L.OPTIONS_DISCLAIMER = "Recommended Stats ne fera pas de vous un meilleur joueur par lui-même \226\128\148 il vous aide simplement à atteindre les poids de statistiques adaptés à votre spécialisation."
+L.OPTIONS_EXPORT_SKIN = "Export. apparence"
+L.OPTIONS_IMPORT_SKIN = "Import. apparence"
+L.OPTIONS_DISCLAIMER = "Recommended Stats ne fera pas de vous un meilleur joueur par lui-même \226\128\148 il vous aide simplement à atteindre les statistiques adaptées à votre spécialisation."
 
 --------------------------------------------------------------------------------
 -- UI/MinimapButton.lua
