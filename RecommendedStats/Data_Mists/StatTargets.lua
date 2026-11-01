@@ -1,4 +1,4 @@
--- GENERATED 2026-10-31 - do not hand-edit
+-- GENERATED 2026-11-01 - do not hand-edit
 RecommendedStatsData_Targets = {
     ["DEATHKNIGHT_BLOOD_RAID"] = {
         ["haste"] = 4642,
@@ -29,7 +29,7 @@ RecommendedStatsData_Targets = {
         ["hasteHigh"] = 10301,
         ["crit"] = 16927,
         ["critHigh"] = 17984,
-        ["mastery"] = 8926,
+        ["mastery"] = 8932,
         ["masteryHigh"] = 9801,
     },
     ["DRUID_FERAL_RAID"] = {
@@ -45,7 +45,7 @@ RecommendedStatsData_Targets = {
         ["hasteHigh"] = 11713,
         ["crit"] = 20608,
         ["critHigh"] = 29082,
-        ["mastery"] = 1941,
+        ["mastery"] = 1839,
         ["masteryHigh"] = 5275,
     },
     ["DRUID_RESTORATION_RAID"] = {
@@ -89,12 +89,12 @@ RecommendedStatsData_Targets = {
         ["masteryHigh"] = 20133,
     },
     ["MAGE_FIRE_RAID"] = {
-        ["haste"] = 4775,
+        ["haste"] = 4969,
         ["hasteHigh"] = 5699,
-        ["crit"] = 18029,
+        ["crit"] = 18277,
         ["critHigh"] = 18954,
         ["mastery"] = 13168,
-        ["masteryHigh"] = 15452,
+        ["masteryHigh"] = 14745,
     },
     ["MAGE_FROST_RAID"] = {
         ["haste"] = 14292,
@@ -137,10 +137,10 @@ RecommendedStatsData_Targets = {
         ["masteryHigh"] = 27123,
     },
     ["PALADIN_PROTECTION_RAID"] = {
-        ["haste"] = 18352,
+        ["haste"] = 18290,
         ["hasteHigh"] = 19324,
         ["crit"] = 14135,
-        ["critHigh"] = 16834,
+        ["critHigh"] = 16831,
         ["mastery"] = 3220,
         ["masteryHigh"] = 6538,
     },
@@ -250,7 +250,7 @@ RecommendedStatsData_Targets = {
     },
     ["WARRIOR_ARMS_RAID"] = {
         ["haste"] = 3150,
-        ["hasteHigh"] = 4903,
+        ["hasteHigh"] = 6029,
         ["crit"] = 19611,
         ["critHigh"] = 20238,
         ["mastery"] = 13161,
@@ -261,8 +261,8 @@ RecommendedStatsData_Targets = {
         ["hasteHigh"] = 2400,
         ["crit"] = 24059,
         ["critHigh"] = 24792,
-        ["mastery"] = 16499,
-        ["masteryHigh"] = 17454,
+        ["mastery"] = 16568,
+        ["masteryHigh"] = 19263,
     },
     ["WARRIOR_PROTECTION_RAID"] = {
         ["haste"] = 649,

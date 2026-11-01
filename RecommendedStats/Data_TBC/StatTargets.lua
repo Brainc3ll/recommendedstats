@@ -1,4 +1,4 @@
--- GENERATED 2026-10-31 - do not hand-edit
+-- GENERATED 2026-11-01 - do not hand-edit
 RecommendedStatsData_Targets = {
     ["DRUID_BALANCE_RAID"] = {
         ["crit"] = 336,
@@ -59,9 +59,9 @@ RecommendedStatsData_Targets = {
         ["hasteHigh"] = 114,
     },
     ["MAGE_FROST_RAID"] = {
-        ["crit"] = 354,
-        ["critHigh"] = 418,
-        ["hit"] = 149,
+        ["crit"] = 364,
+        ["critHigh"] = 436,
+        ["hit"] = 152,
         ["hitHigh"] = 179,
         ["haste"] = 59,
         ["hasteHigh"] = 114,
@@ -72,7 +72,10 @@ RecommendedStatsData_Targets = {
         ["haste"] = 89,
         ["hasteHigh"] = 248,
     },
-    ["PALADIN_PROTECTION_RAID"] = {},
+    ["PALADIN_PROTECTION_RAID"] = {
+        ["hit"] = 20,
+        ["hitHigh"] = 41,
+    },
     ["PALADIN_RETRIBUTION_RAID"] = {
         ["crit"] = 259,
         ["critHigh"] = 296,
@@ -118,7 +121,7 @@ RecommendedStatsData_Targets = {
     ["SHAMAN_ELEMENTAL_RAID"] = {
         ["crit"] = 404,
         ["critHigh"] = 465,
-        ["hit"] = 103,
+        ["hit"] = 102,
         ["hitHigh"] = 127,
         ["haste"] = 145,
         ["hasteHigh"] = 194,
@@ -127,7 +130,7 @@ RecommendedStatsData_Targets = {
         ["crit"] = 252,
         ["critHigh"] = 292,
         ["hit"] = 174,
-        ["hitHigh"] = 201,
+        ["hitHigh"] = 209,
         ["haste"] = 101,
         ["hasteHigh"] = 102,
     },
@@ -141,8 +144,8 @@ RecommendedStatsData_Targets = {
         ["crit"] = 356,
         ["critHigh"] = 385,
         ["hit"] = 178,
-        ["hitHigh"] = 212,
-        ["haste"] = 92,
+        ["hitHigh"] = 214,
+        ["haste"] = 83,
         ["hasteHigh"] = 142,
     },
     ["WARLOCK_DEMONOLOGY_RAID"] = {
@@ -156,7 +159,7 @@ RecommendedStatsData_Targets = {
     ["WARLOCK_DESTRUCTION_RAID"] = {
         ["crit"] = 365,
         ["critHigh"] = 390,
-        ["hit"] = 189,
+        ["hit"] = 181,
         ["hitHigh"] = 220,
         ["haste"] = 139,
         ["hasteHigh"] = 167,
@@ -164,7 +167,7 @@ RecommendedStatsData_Targets = {
     ["WARRIOR_ARMS_RAID"] = {
         ["crit"] = 340,
         ["critHigh"] = 410,
-        ["hit"] = 139,
+        ["hit"] = 136,
         ["hitHigh"] = 175,
     },
     ["WARRIOR_FURY_RAID"] = {

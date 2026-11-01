@@ -1,4 +1,4 @@
--- GENERATED 2026-10-31 - do not hand-edit
+-- GENERATED 2026-11-01 - do not hand-edit
 RecommendedStatsData_Talents = {
     ["DEATHKNIGHT_BLOOD_RAID"] = {
         ["n"] = 20,
@@ -668,9 +668,9 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["spellID"] = 120360,
-                ["pct"] = 70,
+                ["pct"] = 65,
                 ["altSpellID"] = 117050,
-                ["altPct"] = 30,
+                ["altPct"] = 35,
             },
         },
         ["glyphs"] = {
@@ -816,15 +816,15 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["spellID"] = 89926,
-                ["pct"] = 90,
-            },
-            {
-                ["spellID"] = 56363,
-                ["pct"] = 45,
+                ["pct"] = 85,
             },
             {
                 ["spellID"] = 63093,
                 ["pct"] = 45,
+            },
+            {
+                ["spellID"] = 56363,
+                ["pct"] = 40,
             },
             {
                 ["spellID"] = 56384,
@@ -2180,7 +2180,9 @@ RecommendedStatsData_Talents = {
         ["tiers"] = {
             {
                 ["spellID"] = 103826,
-                ["pct"] = 100,
+                ["pct"] = 95,
+                ["altSpellID"] = 103827,
+                ["altPct"] = 5,
             },
             {
                 ["spellID"] = 55694,
@@ -2222,23 +2224,23 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["spellID"] = 146969,
-                ["pct"] = 45,
+                ["pct"] = 50,
             },
             {
                 ["spellID"] = 58356,
-                ["pct"] = 35,
+                ["pct"] = 40,
             },
             {
                 ["spellID"] = 58369,
                 ["pct"] = 35,
             },
             {
-                ["spellID"] = 63325,
+                ["spellID"] = 68164,
                 ["pct"] = 35,
             },
             {
-                ["spellID"] = 68164,
-                ["pct"] = 35,
+                ["spellID"] = 63325,
+                ["pct"] = 30,
             },
         },
     },

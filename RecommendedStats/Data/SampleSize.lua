@@ -1,4 +1,4 @@
--- GENERATED 2026-10-31 - do not hand-edit
+-- GENERATED 2026-11-01 - do not hand-edit
 RecommendedStatsData_SampleSize = {
     ["SHAMAN_ENHANCEMENT_MYTHICPLUS"] = 20,
     ["SHAMAN_ENHANCEMENT_RAID"] = 20,
@@ -57,7 +57,7 @@ RecommendedStatsData_SampleSize = {
     ["DEATHKNIGHT_FROST_MYTHICPLUS"] = 20,
     ["DEATHKNIGHT_FROST_RAID"] = 20,
     ["ROGUE_OUTLAW_MYTHICPLUS"] = 20,
-    ["ROGUE_OUTLAW_RAID"] = 20,
+    ["ROGUE_OUTLAW_RAID"] = 19,
     ["SHAMAN_ELEMENTAL_MYTHICPLUS"] = 20,
     ["SHAMAN_ELEMENTAL_RAID"] = 20,
     ["WARLOCK_AFFLICTION_MYTHICPLUS"] = 20,

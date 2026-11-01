@@ -1,4 +1,4 @@
--- GENERATED 2026-10-31 - do not hand-edit
+-- GENERATED 2026-11-01 - do not hand-edit
 RecommendedStatsData_StatWeights = {
     ["DEATHKNIGHT_BLOOD_RAID"] = {
         ["haste"] = -0.4429,
@@ -18,7 +18,7 @@ RecommendedStatsData_StatWeights = {
     ["DRUID_BALANCE_RAID"] = {
         ["haste"] = -0.0007,
         ["crit"] = -0.0373,
-        ["mastery"] = -0.099,
+        ["mastery"] = -0.0985,
     },
     ["DRUID_FERAL_RAID"] = {
         ["haste"] = -0.0501,
@@ -28,7 +28,7 @@ RecommendedStatsData_StatWeights = {
     ["DRUID_GUARDIAN_RAID"] = {
         ["haste"] = -0.2228,
         ["crit"] = -0.2004,
-        ["mastery"] = -0.6375,
+        ["mastery"] = -0.6655,
     },
     ["DRUID_RESTORATION_RAID"] = {
         ["haste"] = -0.3169,
@@ -56,9 +56,9 @@ RecommendedStatsData_StatWeights = {
         ["mastery"] = -0.0679,
     },
     ["MAGE_FIRE_RAID"] = {
-        ["haste"] = -0.2016,
-        ["crit"] = -0.0454,
-        ["mastery"] = -0.1159,
+        ["haste"] = -0.201,
+        ["crit"] = -0.0449,
+        ["mastery"] = -0.1036,
     },
     ["MAGE_FROST_RAID"] = {
         ["haste"] = -0.0599,
@@ -86,9 +86,9 @@ RecommendedStatsData_StatWeights = {
         ["mastery"] = -0.2126,
     },
     ["PALADIN_PROTECTION_RAID"] = {
-        ["haste"] = -0.0314,
-        ["crit"] = -0.2943,
-        ["mastery"] = -0.4676,
+        ["haste"] = -0.0339,
+        ["crit"] = -0.2923,
+        ["mastery"] = -0.4622,
     },
     ["PALADIN_RETRIBUTION_RAID"] = {
         ["haste"] = -0.023,
@@ -156,14 +156,14 @@ RecommendedStatsData_StatWeights = {
         ["mastery"] = -0.1403,
     },
     ["WARRIOR_ARMS_RAID"] = {
-        ["haste"] = -0.4936,
-        ["crit"] = -0.0829,
-        ["mastery"] = -0.2046,
+        ["haste"] = -0.5009,
+        ["crit"] = -0.081,
+        ["mastery"] = -0.2205,
     },
     ["WARRIOR_FURY_RAID"] = {
         ["haste"] = -0.4845,
         ["crit"] = -0.0298,
-        ["mastery"] = -0.085,
+        ["mastery"] = -0.0931,
     },
     ["WARRIOR_PROTECTION_RAID"] = {
         ["haste"] = -1.0833,

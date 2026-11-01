@@ -1,4 +1,4 @@
--- GENERATED 2026-10-31 - do not hand-edit
+-- GENERATED 2026-11-01 - do not hand-edit
 RecommendedStatsData_Talents = {
     ["DRUID_BALANCE_RAID"] = {
         ["n"] = 20,
@@ -259,7 +259,7 @@ RecommendedStatsData_Talents = {
                     0,
                     43,
                 },
-                ["pct"] = 50,
+                ["pct"] = 55,
             },
             {
                 ["split"] = {
@@ -281,7 +281,7 @@ RecommendedStatsData_Talents = {
         ["median"] = {
             18,
             0,
-            44,
+            43,
         },
     },
     ["PALADIN_HOLY_RAID"] = {
@@ -327,7 +327,7 @@ RecommendedStatsData_Talents = {
                     31,
                     30,
                 },
-                ["pct"] = 80,
+                ["pct"] = 75,
             },
             {
                 ["split"] = {
@@ -335,7 +335,7 @@ RecommendedStatsData_Talents = {
                     40,
                     21,
                 },
-                ["pct"] = 10,
+                ["pct"] = 15,
             },
             {
                 ["split"] = {
@@ -577,7 +577,7 @@ RecommendedStatsData_Talents = {
                     45,
                     14,
                 },
-                ["pct"] = 70,
+                ["pct"] = 75,
             },
             {
                 ["split"] = {
@@ -593,7 +593,7 @@ RecommendedStatsData_Talents = {
                     45,
                     0,
                 },
-                ["pct"] = 10,
+                ["pct"] = 5,
             },
         },
         ["median"] = {
@@ -650,16 +650,16 @@ RecommendedStatsData_Talents = {
             {
                 ["split"] = {
                     38,
-                    0,
-                    23,
+                    2,
+                    21,
                 },
                 ["pct"] = 25,
             },
             {
                 ["split"] = {
                     38,
-                    2,
-                    21,
+                    0,
+                    23,
                 },
                 ["pct"] = 20,
             },
