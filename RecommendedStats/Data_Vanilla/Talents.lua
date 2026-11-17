@@ -1,4 +1,4 @@
--- GENERATED 2026-11-12 - do not hand-edit
+-- GENERATED 2026-11-17 - do not hand-edit
 if (C_Seasons and C_Seasons.GetActiveSeason and C_Seasons.GetActiveSeason() == ((Enum and Enum.SeasonID and Enum.SeasonID.SeasonOfDiscovery) or 2)) then return end
 RecommendedStatsData_Talents = {
     ["DRUID_BALANCE_RAID"] = {
@@ -164,7 +164,7 @@ RecommendedStatsData_Talents = {
                     35,
                     3,
                 },
-                ["pct"] = 65,
+                ["pct"] = 70,
             },
             {
                 ["split"] = {
@@ -352,7 +352,7 @@ RecommendedStatsData_Talents = {
         },
     },
     ["PRIEST_HOLY_RAID"] = {
-        ["n"] = 16,
+        ["n"] = 15,
         ["builds"] = {
             {
                 ["split"] = {
@@ -360,7 +360,7 @@ RecommendedStatsData_Talents = {
                     30,
                     0,
                 },
-                ["pct"] = 63,
+                ["pct"] = 67,
             },
             {
                 ["split"] = {
@@ -368,7 +368,7 @@ RecommendedStatsData_Talents = {
                     32,
                     0,
                 },
-                ["pct"] = 38,
+                ["pct"] = 33,
             },
         },
         ["median"] = {
@@ -378,7 +378,7 @@ RecommendedStatsData_Talents = {
         },
     },
     ["PRIEST_DISCIPLINE_RAID"] = {
-        ["n"] = 6,
+        ["n"] = 7,
         ["builds"] = {
             {
                 ["split"] = {
@@ -386,7 +386,7 @@ RecommendedStatsData_Talents = {
                     20,
                     0,
                 },
-                ["pct"] = 67,
+                ["pct"] = 71,
             },
             {
                 ["split"] = {
@@ -394,7 +394,7 @@ RecommendedStatsData_Talents = {
                     19,
                     0,
                 },
-                ["pct"] = 33,
+                ["pct"] = 29,
             },
         },
         ["median"] = {
@@ -408,25 +408,25 @@ RecommendedStatsData_Talents = {
         ["builds"] = {
             {
                 ["split"] = {
-                    14,
+                    16,
                     0,
-                    37,
+                    35,
                 },
                 ["pct"] = 28,
             },
             {
                 ["split"] = {
-                    16,
+                    14,
                     0,
-                    35,
+                    37,
                 },
                 ["pct"] = 22,
             },
             {
                 ["split"] = {
-                    20,
+                    18,
                     0,
-                    31,
+                    33,
                 },
                 ["pct"] = 17,
             },
@@ -510,17 +510,17 @@ RecommendedStatsData_Talents = {
             },
             {
                 ["split"] = {
-                    0,
-                    32,
-                    19,
-                },
-                ["pct"] = 19,
-            },
-            {
-                ["split"] = {
                     20,
                     31,
                     0,
+                },
+                ["pct"] = 14,
+            },
+            {
+                ["split"] = {
+                    0,
+                    32,
+                    19,
                 },
                 ["pct"] = 14,
             },
@@ -600,7 +600,7 @@ RecommendedStatsData_Talents = {
         },
     },
     ["WARLOCK_DEMONOLOGY_RAID"] = {
-        ["n"] = 10,
+        ["n"] = 11,
         ["builds"] = {
             {
                 ["split"] = {
@@ -614,24 +614,6 @@ RecommendedStatsData_Talents = {
         ["median"] = {
             9,
             21,
-            21,
-        },
-    },
-    ["WARLOCK_AFFLICTION_RAID"] = {
-        ["n"] = 1,
-        ["builds"] = {
-            {
-                ["split"] = {
-                    30,
-                    0,
-                    21,
-                },
-                ["pct"] = 100,
-            },
-        },
-        ["median"] = {
-            30,
-            0,
             21,
         },
     },

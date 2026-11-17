@@ -1,4 +1,4 @@
--- GENERATED 2026-11-12 - do not hand-edit
+-- GENERATED 2026-11-17 - do not hand-edit
 if (C_Seasons and C_Seasons.GetActiveSeason and C_Seasons.GetActiveSeason() == ((Enum and Enum.SeasonID and Enum.SeasonID.SeasonOfDiscovery) or 2)) then return end
 RecommendedStatsData_Targets = {
     ["DRUID_BALANCE_RAID"] = {
@@ -24,7 +24,7 @@ RecommendedStatsData_Targets = {
         ["hit"] = 7,
         ["hitHigh"] = 7,
         ["crit"] = 10,
-        ["critHigh"] = 12,
+        ["critHigh"] = 11,
     },
     ["MAGE_FIRE_RAID"] = {
         ["hit"] = 8,
@@ -36,7 +36,7 @@ RecommendedStatsData_Targets = {
         ["hit"] = 8,
         ["hitHigh"] = 9,
         ["crit"] = 12,
-        ["critHigh"] = 14,
+        ["critHigh"] = 15,
     },
     ["MAGE_FROST_RAID"] = {
         ["hit"] = 8,
@@ -66,7 +66,7 @@ RecommendedStatsData_Targets = {
     },
     ["PRIEST_DISCIPLINE_RAID"] = {
         ["crit"] = 1,
-        ["critHigh"] = 12,
+        ["critHigh"] = 4,
     },
     ["PRIEST_SHADOW_RAID"] = {
         ["hit"] = 6,
@@ -89,8 +89,8 @@ RecommendedStatsData_Targets = {
     ["SHAMAN_ENHANCEMENT_RAID"] = {
         ["hit"] = 6,
         ["hitHigh"] = 8,
-        ["crit"] = 13,
-        ["critHigh"] = 15,
+        ["crit"] = 12,
+        ["critHigh"] = 14,
     },
     ["SHAMAN_RESTORATION_RAID"] = {
         ["crit"] = 4,
@@ -103,16 +103,10 @@ RecommendedStatsData_Targets = {
         ["critHigh"] = 12,
     },
     ["WARLOCK_DEMONOLOGY_RAID"] = {
-        ["hit"] = 13,
+        ["hit"] = 11,
         ["hitHigh"] = 13,
         ["crit"] = 12,
         ["critHigh"] = 13,
-    },
-    ["WARLOCK_AFFLICTION_RAID"] = {
-        ["hit"] = 11,
-        ["hitHigh"] = 11,
-        ["crit"] = 12,
-        ["critHigh"] = 12,
     },
     ["WARRIOR_FURY_RAID"] = {
         ["hit"] = 7,

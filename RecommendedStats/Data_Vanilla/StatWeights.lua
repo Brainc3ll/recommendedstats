@@ -1,4 +1,4 @@
--- GENERATED 2026-11-12 - do not hand-edit
+-- GENERATED 2026-11-17 - do not hand-edit
 if (C_Seasons and C_Seasons.GetActiveSeason and C_Seasons.GetActiveSeason() == ((Enum and Enum.SeasonID and Enum.SeasonID.SeasonOfDiscovery) or 2)) then return end
 RecommendedStatsData_StatWeights = {
     ["DRUID_BALANCE_RAID"] = {
@@ -6,8 +6,8 @@ RecommendedStatsData_StatWeights = {
         ["crit"] = -0.2304,
     },
     ["DRUID_FERAL_RAID"] = {
-        ["hit"] = -0.1438,
-        ["crit"] = -0.3162,
+        ["hit"] = -0.1505,
+        ["crit"] = -0.302,
     },
     ["DRUID_GUARDIAN_RAID"] = {
         ["hit"] = -0.1751,
@@ -16,15 +16,15 @@ RecommendedStatsData_StatWeights = {
     ["DRUID_RESTORATION_RAID"] = {},
     ["HUNTER_MARKSMANSHIP_RAID"] = {
         ["hit"] = -0.1496,
-        ["crit"] = -0.1568,
+        ["crit"] = -0.1517,
     },
     ["MAGE_FIRE_RAID"] = {
         ["hit"] = -0.0626,
-        ["crit"] = -0.1452,
+        ["crit"] = -0.1453,
     },
     ["MAGE_ARCANE_RAID"] = {
-        ["hit"] = -0.133,
-        ["crit"] = -0.1205,
+        ["hit"] = -0.1406,
+        ["crit"] = -0.1456,
     },
     ["PALADIN_HOLY_RAID"] = {
         ["crit"] = -0.3757,
@@ -38,26 +38,26 @@ RecommendedStatsData_StatWeights = {
         ["crit"] = -0.2676,
     },
     ["PRIEST_HOLY_RAID"] = {
-        ["crit"] = -0.9592,
+        ["crit"] = -1.0184,
     },
     ["PRIEST_DISCIPLINE_RAID"] = {
-        ["crit"] = -1.3073,
+        ["crit"] = -1.4699,
     },
     ["PRIEST_SHADOW_RAID"] = {
-        ["hit"] = -0.1361,
-        ["crit"] = -0.8065,
+        ["hit"] = -0.1532,
+        ["crit"] = -0.8149,
     },
     ["ROGUE_COMBAT_RAID"] = {
         ["hit"] = -0.1406,
-        ["crit"] = -0.0769,
+        ["crit"] = -0.0776,
     },
     ["SHAMAN_ELEMENTAL_RAID"] = {
         ["hit"] = -0.2318,
         ["crit"] = -0.2027,
     },
     ["SHAMAN_ENHANCEMENT_RAID"] = {
-        ["hit"] = -0.2835,
-        ["crit"] = -0.1727,
+        ["hit"] = -0.2982,
+        ["crit"] = -0.1712,
     },
     ["SHAMAN_RESTORATION_RAID"] = {
         ["crit"] = -0.3607,
@@ -67,12 +67,12 @@ RecommendedStatsData_StatWeights = {
         ["crit"] = -0.07,
     },
     ["WARLOCK_DEMONOLOGY_RAID"] = {
-        ["hit"] = -0.0939,
-        ["crit"] = -0.0972,
+        ["hit"] = -0.094,
+        ["crit"] = -0.0932,
     },
     ["WARRIOR_FURY_RAID"] = {
-        ["hit"] = -0.0898,
-        ["crit"] = -0.0983,
+        ["hit"] = -0.0993,
+        ["crit"] = -0.0954,
     },
     ["WARRIOR_PROTECTION_RAID"] = {
         ["hit"] = -0.1893,
