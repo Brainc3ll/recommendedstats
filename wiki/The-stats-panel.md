@@ -10,7 +10,7 @@ Each secondary stat gets a row with your current value, the target, a progress b
 | **On target** | Within half a percentage point |
 | **Over, fine** | Above the target. Not a problem, the points could just be spent elsewhere |
 
-The footer shows how many top players the numbers come from and when they were last updated.
+The footer shows how many top players the numbers come from and when they were last updated, for example `updated 2026-11-17 (3 days ago)`. After a week it turns amber and asks you to update the addon for fresh data.
 
 ### In combat or in an instance
 

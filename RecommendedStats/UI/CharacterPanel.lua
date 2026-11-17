@@ -454,7 +454,10 @@ local function FooterLine(key)
     if not m then return "" end
     local n = RS:GetSampleSizeFor(key)
     local sampleText = n and L.FOOTER_SAMPLE_OF_TARGET:format(n, m.sampleSize or 0) or L.FOOTER_TOP_N:format(m.sampleSize or 0)
-    local line = L.FOOTER_LINE:format(sampleText, m.gamePatch or "?", m.updated or "?")
+    local updated = m.updated or "?"
+    local age = RS:AgeText(m.updated)
+    if age then updated = updated .. " (" .. age .. ")" end
+    local line = L.FOOTER_LINE:format(sampleText, m.gamePatch or "?", updated)
     if RS:IsDataStale() then line = line .. L.FOOTER_MAYBE_STALE end
     return line
 end

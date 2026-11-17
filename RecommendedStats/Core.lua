@@ -327,7 +327,18 @@ end
 -- A build pipeline outage (season transition, expired API credentials, etc.) means players keep
 -- getting served stat targets from before whatever changed — worth flagging rather than silently
 -- treating old data as current.
-local STALE_DATA_DAYS = 10
+-- A week: builds normally ship every few days, so past this the player has most likely
+-- missed an update rather than the data being quietly old upstream.
+local STALE_DATA_DAYS = 7
+-- "today", "yesterday", "5 days ago" for a YYYY-MM-DD date, or nil when unreadable.
+function RS:AgeText(dateStr)
+    local days = RS:DaysSince(dateStr)
+    if not days then return nil end
+    if days <= 0 then return L.AGE_TODAY end
+    if days == 1 then return L.AGE_YESTERDAY end
+    return L.AGE_DAYS:format(days)
+end
+
 function RS:IsDataStale()
     local m = RecommendedStatsData_Meta
     local age = m and RS:DaysSince(m.updated)
